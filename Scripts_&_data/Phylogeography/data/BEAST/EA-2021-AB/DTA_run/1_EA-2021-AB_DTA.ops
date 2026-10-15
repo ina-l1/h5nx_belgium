@@ -1,0 +1,8 @@
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) Smoothed_Pr(accept)
+scale(location.clock.rate)                        0.295   22906      3034     0.13     0.2342      0.29        
+scale(location.rates)                             0.418   114129     13628    0.12     0.2345      0.21        
+bitFlip(location.indicators)                              53399      3159     0.06     0.0         0.0         
+deltaExchange(location.root.frequencies)          1.231   7566       318      0.04     0.2338      0.22        
+

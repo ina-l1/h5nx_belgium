@@ -1,0 +1,58 @@
+
+              TreeAnnotator v10.5.0, 2002-2025
+                    MCMC Output analysis
+                             by
+   Andrew Rambaut, Marc A. Suchard and Alexei J. Drummond
+
+             Institute of Ecology and Evolution
+                  University of Edinburgh
+                     a.rambaut@ed.ac.uk
+
+              David Geffen School of Medicine
+           University of California, Los Angeles
+                     msuchard@ucla.edu
+
+               Department of Computer Science
+                   University of Auckland
+                  alexei@cs.auckland.ac.nz
+
+
+Counting trees...
+Total number of trees: 362
+
+Reading trees...
+0              25             50             75            100
+|--------------|--------------|--------------|--------------|
+************************************************************* [0 secs]
+
+Total trees read: 362
+Size of trees: 814 tips
+Total unique clades: 813
+Total clades in more than one tree: 813
+
+Finding highest independent posterior subtree reconstruction (HIPSTR) tree...
+[0.009 secs]
+
+HIPSTR tree's log clade credibility: 0.0000
+Lowest individual clade credibility: 1.0000
+Mean individual clade credibility: 1.0000
+Median individual clade credibility: 1.0000
+Number of clades with credibility 1.0: 0
+Number of clades with credibility > 0.99: 813
+Number of clades with credibility > 0.95: 813
+Number of clades with credibility > 0.5: 813
+
+Collecting node information...
+0              25             50             75            100
+|--------------|--------------|--------------|--------------|
+************************************************************* [2 secs]
+
+Annotating target tree...
+
+Writing annotated tree...
+
+Written to file: EA-2020-C2_DTA.tree
+
+Total time: 3 secs
+
+Constructed Highest Independent Posterior Sub-Tree Reconstruction (HIPSTR) tree - citation: In prep.

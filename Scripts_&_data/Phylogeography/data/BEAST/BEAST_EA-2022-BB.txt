@@ -1,0 +1,1642 @@
+id	date	country	location
+A/Common_tern/Netherands/44-2/2023|EPI_ISL_19857471	2023-06-02	Netherlands	other
+A/black-headed_gull/Italy/23VIR1429-16/2023|EPI_ISL_17679753	2023-02-21	Italy	other
+A/black-headead_gull/Spain/416-11_23VIR1687-6/2023|EPI_ISL_17679810	2023-01-16	Spain	other
+A/black-headed_gull/Slovenia/PER942-23T4A_23VIR10323-12/2023|EPI_ISL_18612225	2023-05-16	Slovenia	other
+A/peregrine_falcon/Germany-SN/2023AI07595/2023|EPI_ISL_18432793	2023-09-06	Germany	other
+A/Black-headed_gull/Netherlands/32/2023|EPI_ISL_17547368	2023-03-30	Netherlands	other
+A/black-headed_gull/Italy/23VIR1203-4/2023|EPI_ISL_17679766	2023-02-10	Italy	other
+A/Black-headed_gull/Netherlands/30/2023|EPI_ISL_17547366	2023-03-30	Netherlands	other
+A/black-headed_gull/Italy/23VIR1515-2/2023|EPI_ISL_17679760	2023-02-22	Italy	other
+A/Black-headed_gull/Netherlands/36/2023|EPI_ISL_17547372	2023-04-07	Netherlands	other
+A/black-headed_gull/Italy/23VIR1205-2/2023|EPI_ISL_17679773	2023-02-02	Italy	other
+A/common_tern/Germany-NI/2023AI05687/2023|EPI_ISL_18432790	2023-06-21	Germany	other
+A/black-headed_gull/Italy/23VIR1204-1/2023|EPI_ISL_17679772	2023-02-12	Italy	other
+A/yellow-legged_gull/Italy/23VIR2234-2/2023|EPI_ISL_17679744	2023-03-13	Italy	other
+A/black-headed_gull/Italy/23VIR2233-4/2023|EPI_ISL_17679743	2023-03-13	Italy	other
+A/chicken/Italy/23VIR3021-13/2023|EPI_ISL_17679734	2023-04-02	Italy	other
+A/black-headed_gull/Italy/23VIR2235-3/2023|EPI_ISL_17679745	2023-03-13	Italy	other
+A/common_tern/Slovenia/PER1276-23MA_23VIR10323-21/2023|EPI_ISL_18612232	2023-07-20	Slovenia	other
+A/seagull/Spain/4878-9_23VIR1687-17/2022|EPI_ISL_17679800	2022-12-21	Spain	other
+A/black-headed_gull/Italy/23VIR2309-1/2023|EPI_ISL_17679746	2023-03-14	Italy	other
+A/common_tern/Slovenia/PER1054-23K2A_23VIR10323-14/2023|EPI_ISL_18612227	2023-05-31	Slovenia	other
+A/common_tern/Slovenia/PER942-23K1A_23VIR10323-10/2023|EPI_ISL_18612224	2023-05-16	Slovenia	other
+A/European_herring_gull/Netherlands/13/2023|EPI_ISL_17547374	2023-04-03	Netherlands	other
+A/black-headed_gull/Italy/23VIR1104-4/2023|EPI_ISL_17679779	2023-01-24	Italy	other
+A/black-headed_gull/Italy/23VIR2039-6/2023|EPI_ISL_17679738	2023-03-07	Italy	other
+A/black-headead_gull/Spain/171-1_23VIR1687-20/2023|EPI_ISL_17679803	2023-01-09	Spain	other
+A/Black-headed_gull/Netherlands/29/2023|EPI_ISL_17547365	2023-03-29	Netherlands	other
+A/turkey/Italy/23VIR3366-1/2023|EPI_ISL_17679733	2023-04-10	Italy	other
+A/chicken/Italy/23VIR3022-15/2023|EPI_ISL_17679735	2023-03-30	Italy	other
+A/peregrine_falcon_/Sweden/SVA231017SZ0445/FB004185/U-2023|EPI_ISL_18514139	2023-07-02	Sweden	other
+A/black-headed_gull/Italy/23VIR1203-3/2023|EPI_ISL_17679765	2023-02-10	Italy	other
+A/black-headed_gull/Italy/23VIR1249-2/2023|EPI_ISL_17679774	2023-02-14	Italy	other
+A/turkey/Italy/23VIR1887-10/2023|EPI_ISL_17679748	2023-03-06	Italy	other
+A/Gallus_gallus/Belgium/01172_0001/2023|EPI_ISL_17072312	2023-02-06	Belgium	Belgium
+A/black-headed_gull/Italy/23VIR1310-3/2023|EPI_ISL_17679775	2023-02-15	Italy	other
+A/Black-headed_gull/Netherlands/35/2023|EPI_ISL_17547371	2023-04-03	Netherlands	other
+A/black-headead_gull/Italy/23VIR1633-3/2023|EPI_ISL_17679749	2023-02-27	Italy	other
+A/black-headed_gull/Italy/23VIR1476-3/2023|EPI_ISL_17679755	2023-02-21	Italy	other
+A/black-headed_gull/Germany-NI/2023AI06603/2023|EPI_ISL_18432787	2023-07-11	Germany	other
+A/black-headed_gull/Italy/23VIR3132-4/2023|EPI_ISL_17679732	2023-03-08	Italy	other
+A/Black-headed_gull/Netherlands/34/2023|EPI_ISL_17547370	2023-04-01	Netherlands	other
+A/black-headed_gull/Italy/23VIR1483-4/2023|EPI_ISL_17679758	2023-02-16	Italy	other
+A/little_gull/Italy/23VIR2222-2/2023|EPI_ISL_17679742	2023-03-12	Italy	other
+A/fox/England/015850/2022|EPI_ISL_17072388	2022-08-23	United Kingdom	other
+A/black-headed_gull/Italy/23VIR2152-1/2023|EPI_ISL_17679740	2023-03-09	Italy	other
+A/black-headed_gull/Italy/23VIR1203-8/2023|EPI_ISL_17679770	2023-02-10	Italy	other
+A/european_herring_gull/Leningrad_region/RII-WD478S/2023|EPI_ISL_18317757	2023-08-25	Russian Federation	other
+A/black-headed_gull/Italy/23VIR1203-5/2023|EPI_ISL_17679767	2023-02-10	Italy	other
+A/black-headed_gull/Italy/23VIR2556-2/2023|EPI_ISL_17679736	2023-03-20	Italy	other
+A/black-headed_gull/England/258716/2023|EPI_ISL_17465837	2023-03-23	United Kingdom	other
+A/european_herring_gull/Leningrad_region/RII-WD312/2023|EPI_ISL_18317317	2023-08-02	Russian Federation	other
+A/black-headed_gull/Italy/23VIR1203-6/2023|EPI_ISL_17679768	2023-02-10	Italy	other
+A/European_herring_gull/Netherlands/12/2023|EPI_ISL_17547373	2023-04-11	Netherlands	other
+A/black-headed_gull/Italy/23VIR1516-2/2023|EPI_ISL_17679761	2023-02-22	Italy	other
+A/sandwich_tern/Germany-NI/2023AI05921/2023|EPI_ISL_18432791	2023-06-28	Germany	other
+A/seagull/Spain/4621-1_23VIR1687-12/2022|EPI_ISL_17679796	2022-12-02	Spain	other
+A/turkey/Italy/23VIR3520-1/2023|EPI_ISL_17679730	2023-04-14	Italy	other
+A/black-headead_gull/Spain/824-9_23VIR1687-24/2023|EPI_ISL_17679806	2023-02-09	Spain	other
+A/black-headed_gull/Italy/23VIR2153-1/2023|EPI_ISL_17679741	2023-03-09	Italy	other
+A/turkey/Italy/23VIR3800-6/2023|EPI_ISL_17679729	2023-04-24	Italy	other
+A/fox/Italy/23VIR3885-1/2023|EPI_ISL_17679728	2023-04-07	Italy	other
+A/black-headead_gull/Italy/23VIR1667-1/2023|EPI_ISL_17679752	2023-02-28	Italy	other
+A/black-headed_gull/Germany-MV/2023AI05709/2023|EPI_ISL_18432783	2023-06-24	Germany	other
+A/black-headed_gull/Slovenia/PER1054-23T4A_23VIR10323-16/2023|EPI_ISL_18612228	2023-05-31	Slovenia	other
+A/black-headed_gull/Italy/23VIR2383-2/2023|EPI_ISL_17679747	2023-03-13	Italy	other
+A/black-headed_gull/Italy/23VIR1484-4/2023|EPI_ISL_17679759	2023-02-18	Italy	other
+A/black-headed_gull/Italy/23VIR1100-4/2023|EPI_ISL_17679777	2023-01-24	Italy	other
+A/european_herring_gull/Leningrad_region/RII-WD485S/2023|EPI_ISL_18317773	2023-08-28	Russian Federation	other
+A/black-headed_gull/Germany-MV/2023AI05703/2023|EPI_ISL_18432781	2023-06-24	Germany	other
+A/black-headed_gull/Italy/23VIR1430-8/2023|EPI_ISL_17679754	2023-02-17	Italy	other
+A/black-headead_gull/Spain/840-3_23VIR1687-25/2023|EPI_ISL_17679807	2023-02-10	Spain	other
+A/black-headed_gull/Slovenia/PER_495-23ma_23VIR10323-13/2023|EPI_ISL_18612226	2023-03-17	Slovenia	other
+A/black-headed_gull/Italy/23VIR1109-4/2023|EPI_ISL_17679781	2023-01-31	Italy	other
+A/peregrine_falcon/Germany-NW/2023AI06601/2023|EPI_ISL_18432782	2023-07-20	Germany	other
+A/black-headed_gull/Italy/23VIR1105-4/2023|EPI_ISL_17679780	2023-01-25	Italy	other
+A/Black-headed_gull/Netherlands/31/2023|EPI_ISL_17547367	2023-03-30	Netherlands	other
+A/black-headed_gull/Italy/23VIR1203-7/2023|EPI_ISL_17679769	2023-02-10	Italy	other
+A/chicken/Italy/23VIR2802-7/2023|EPI_ISL_17679737	2023-03-27	Italy	other
+A/black-headead_gull/Spain/512-7_23VIR1687-7/2023|EPI_ISL_17679811	2023-01-31	Spain	other
+A/black-headead_gull/Italy/23VIR1659-4/2023|EPI_ISL_17679751	2023-02-23	Italy	other
+A/Great_black-backed_gull/Netherlands/4/2023|EPI_ISL_17547375	2023-04-11	Netherlands	other
+A/black-headed_gull/Sweden/SVA230620SZ0298/FB002027/H-2023|EPI_ISL_17859569	2023-06-15	Sweden	other
+A/peregrine_falcon/Germany-NW/2023AI05917/2023|EPI_ISL_18432784	2023-06-29	Germany	other
+A/european_herring_gull/Leningrad_region/RII-WD493S/2023|EPI_ISL_18317774	2023-08-28	Russian Federation	other
+A/black-headed_gull/Italy/23VIR1203-9/2023|EPI_ISL_17679771	2023-02-10	Italy	other
+A/seagull/Spain/4878-10_23VIR1687-18/2022|EPI_ISL_17679801	2022-12-25	Spain	other
+A/Chroicocephalus_ridibundus/Belgium/00816_0001/2023|EPI_ISL_17367266	2023-01-26	Belgium	Belgium
+A/black-headed_gull/Italy/23VIR1478-4/2023|EPI_ISL_17679756	2023-02-18	Italy	other
+A/seagull/Spain/298-46_23VIR1687-21/2023|EPI_ISL_17679804	2023-01-20	Spain	other
+A/Black-headed_gull/Netherlands/33/2023|EPI_ISL_17547369	2023-03-30	Netherlands	other
+A/black-headed_gull/Italy/23VIR1481-4/2023|EPI_ISL_17679757	2023-02-18	Italy	other
+A/black-headed_gull/Italy/23VIR1203-2/2023|EPI_ISL_17679764	2023-02-10	Italy	other
+A/black-headead_gull/Italy/23VIR1658-4/2023|EPI_ISL_17679750	2023-02-20	Italy	other
+A/mediterranean_gull/Slovenia/PER1054-23M6A_23VIR10323-18/2023|EPI_ISL_18612229	2023-05-31	Slovenia	other
+A/black-headed_gull/Italy/23VIR2787-2/2023|EPI_ISL_17679731	2023-03-07	Italy	other
+A/black-headed_gull/Italy/23VIR1203-1/2023|EPI_ISL_17679763	2023-02-10	Italy	other
+A/black-headed_gull/Sweden/SVA230620SZ0298/FB002026/H-2023|EPI_ISL_17859575	2023-06-15	Sweden	other
+A/black-headed_gull/Italy/23VIR1103-4/2023|EPI_ISL_17679778	2023-01-31	Italy	other
+A/black-headed_gull/Italy/23VIR1613-6/2023|EPI_ISL_17679762	2023-02-23	Italy	other
+A/Falco_peregrinus/Belgium/06554_0007/2023|EPI_ISL_18647480	2023-07-07	Belgium	Belgium
+A/black-headed-gull/Finland/8139/2023|EPI_ISL_18122451	2023-07-19	Finland	other
+A/black-headed_gull/Italy/23VIR5685-1/2023|EPI_ISL_17958949	2023-06-11	Italy	other
+A/black-headed-gull/Finland/7895/2023|EPI_ISL_18122448	2023-07-13	Finland	other
+A/arctic-fox/Finland/575/2023|EPI_ISL_18122431	2023-07-18	Finland	other
+A/red-fox/Finland/553/2023|EPI_ISL_18122445	2023-07-17	Finland	other
+A/black-headed-gull/Finland/8241/2023|EPI_ISL_18122456	2023-07-20	Finland	other
+A/black-headed-gull/Finland/7826/2023|EPI_ISL_18122446	2023-07-11	Finland	other
+A/Mink/Spain/3691-8_22VIR10586-10/2022|EPI_ISL_15878539	2022-10-18	Spain	other
+A/arctic-fox/Finland/620/2023|EPI_ISL_18122438	2023-07-24	Finland	other
+A/arctic-fox/Finland/542/2023|EPI_ISL_18122422	2023-07-14	Finland	other
+A/Rissa_tridactyla/Belgium/07522_0001/2023|EPI_ISL_18647514	2023-08-07	Belgium	Belgium
+A/arctic-fox/Finland/567/2023|EPI_ISL_18122429	2023-07-17	Finland	other
+A/black-headed-gull/Finland/8250/2023|EPI_ISL_18122457	2023-07-20	Finland	other
+A/black-headed-gull/Finland/7827/2023|EPI_ISL_18122447	2023-07-11	Finland	other
+A/fox/Finland/603/2023|EPI_ISL_18122442	2023-07-20	Finland	other
+A/black-headed-gull/Finland/8254/2023|EPI_ISL_18122458	2023-07-20	Finland	other
+A/black-headed_gull/Italy/23VIR5684-1/2023|EPI_ISL_17958948	2023-06-11	Italy	other
+A/arctic-fox/Finland/622/2023|EPI_ISL_18122440	2023-07-24	Finland	other
+A/slender-billed_gull/Italy/23VIR5730-10/2023|EPI_ISL_17958950	2023-06-11	Italy	other
+A/arctic-fox/Finland/577/2023|EPI_ISL_18122433	2023-07-18	Finland	other
+A/arctic-fox/Finland/504/2023|EPI_ISL_18122420	2023-07-10	Finland	other
+A/arctic-fox/Finland/565/2023|EPI_ISL_18122427	2023-07-17	Finland	other
+A/Chroicocephalus_ridibundus/Belgium/06376_0013/2023|EPI_ISL_18647456	2023-06-30	Belgium	Belgium
+A/arctic-fox/Finland/621/2023|EPI_ISL_18122439	2023-07-24	Finland	other
+A/fox/Finland/601/2023|EPI_ISL_18122441	2023-07-20	Finland	other
+A/arctic-fox/Finland/576/2023|EPI_ISL_18122432	2023-07-18	Finland	other
+A/Thalasseus_sandvicensis/Belgium/06376_0012/2023|EPI_ISL_18647447	2023-06-30	Belgium	Belgium
+A/arctic-fox/Finland/536/2023|EPI_ISL_18122421	2023-07-14	Finland	other
+A/arctic-fox/Finland/677/2023|EPI_ISL_18728100	2023-08-01	Finland	other
+A/Sandwich_Tern/Netherlands/23009152-001/2023|EPI_ISL_18286219	2023-05-26	Netherlands	other
+A/slender-billed_gull/Italy/23VIR5730-6/2023|EPI_ISL_17958952	2023-06-11	Italy	other
+A/black-headed_gull/England/258811/2023|EPI_ISL_17564773	2023-03-25	United Kingdom	other
+A/arctic-fox/Finland/619/2023|EPI_ISL_18122437	2023-07-24	Finland	other
+A/arctic-fox/Finland/549/2023|EPI_ISL_18122426	2023-07-14	Finland	other
+A/arctic-fox/Finland/618/2023|EPI_ISL_18122436	2023-07-24	Finland	other
+A/Mink/Spain/3691-10_22VIR10586-11/2022|EPI_ISL_15878540	2022-10-18	Spain	other
+A/black-headed-gull/Finland/7897/2023|EPI_ISL_18122450	2023-07-13	Finland	other
+A/black-legged_kittiwake/Finland/8772/2023|EPI_ISL_18728075	2023-07-21	Finland	other
+A/arctic-fox/Finland/574/2023|EPI_ISL_18122430	2023-07-18	Finland	other
+A/Larus_argentatus/Belgium/08571_0001/2023|EPI_ISL_18647515	2023-09-11	Belgium	Belgium
+A/arctic-fox/Finland/547/2023|EPI_ISL_18122425	2023-07-14	Finland	other
+A/black-headed-gull/Finland/7896/2023|EPI_ISL_18122449	2023-07-13	Finland	other
+A/arctic-fox/Finland/544/2023|EPI_ISL_18122424	2023-07-14	Finland	other
+A/Mink/Spain/3691-3_22VIR10586-9/2022|EPI_ISL_15878542	2022-10-18	Spain	other
+A/arctic-fox/Finland/616/2023|EPI_ISL_18122435	2023-07-24	Finland	other
+A/slender-billed_gull/Italy/23VIR5730-11/2023|EPI_ISL_17958951	2023-06-11	Italy	other
+A/black-headed_gull/England/258818/2023|EPI_ISL_17564792	2023-03-25	United Kingdom	other
+A/Ichtyaetus_melanocephalus/Belgium/06376_0001/2023|EPI_ISL_18647426	2023-07-03	Belgium	Belgium
+A/black-headed_gull/Sweden/SVA230620SZ0298/FB002028/H-2023|EPI_ISL_17859692	2023-06-15	Sweden	other
+A/fox/Finland/612/2023|EPI_ISL_18122443	2023-07-24	Finland	other
+A/arctic-fox/Finland/495/2023|EPI_ISL_18122418	2023-07-10	Finland	other
+A/arctic-fox/Finland/543/2023|EPI_ISL_18122423	2023-07-14	Finland	other
+A/Chroicocephalus_ridibundus/Belgium/06251_0005/2023|EPI_ISL_18647517	2023-06-27	Belgium	Belgium
+A/Falco_peregrinus/Belgium/01823_0003/2023|EPI_ISL_17599455	2023-02-20	Belgium	Belgium
+A/Gallus_gallus/Belgium/01742_0001/2023|EPI_ISL_17599451	2023-02-25	Belgium	Belgium
+A/Chroicocephalus_ridibundus/Belgium/00374_0005/2023|EPI_ISL_17599532	2023-01-09	Belgium	Belgium
+A/Gallus_gallus/Belgium/01303_0001/2023|EPI_ISL_17600913	2023-02-09	Belgium	Belgium
+A/Falco_peregrinus/Belgium/02026_0005/2023|EPI_ISL_17600912	2023-03-01	Belgium	Belgium
+A/Pavo_cristatus/Belgium/02559_0001/2023|EPI_ISL_17600359	2023-03-14	Belgium	Belgium
+A/common_tern/Italy/23VIR6743/2023|EPI_ISL_18076030	2023-07-01	Italy	other
+A/Common_Tern/Netherlands/22/2023|EPI_ISL_18059061	2023-07-13	Netherlands	other
+A/Common_Tern/Netherlands/1/2023|EPI_ISL_17780483	2023-05-19	Netherlands	other
+A/Black-Headed_Gull/England/126654/2023|EPI_ISL_18010497	2023-06-13	United Kingdom	other
+A/black-headed_gull/Denmark/03668-1.02-2/2023|EPI_ISL_20089851	2023-05-04	Denmark	other
+A/common_tern/Austria/23072665-001/2023|EPI_ISL_18058695	2023-06-05	Austria	other
+A/Black-headed_Gull/Netherlands/46/2023|EPI_ISL_18075142	2023-03-07	Netherlands	other
+A/Black-headed_Gull/Netherlands/62/2023|EPI_ISL_17780476	2023-05-19	Netherlands	other
+A/Black-headed_Gull/Netherlands/113/2023|EPI_ISL_18059057	2023-07-11	Netherlands	other
+A/herring_gull/England/248639/2022|EPI_ISL_14864636	2022-06-13	United Kingdom	other
+A/Sandwich_Tern/Netherlands/13/2023|EPI_ISL_18059552	2023-07-03	Netherlands	other
+A/Sterna_hirundo/Belgium/06764_0002/2023|EPI_ISL_18435919	2023-07-12	Belgium	Belgium
+A/arctic-fox/Finland/615/2023|EPI_ISL_18123935	2023-07-24	Finland	other
+A/common_guillemot/Sweden/SVA230627SZ0006/FB002112/I-2023|EPI_ISL_18255419	2023-06-26	Sweden	other
+A/european_herring_gull/Leningrad_region/RII-WD385/2023|EPI_ISL_18501404	2023-10-11	Russian Federation	other
+A/black-headed_gull/Finland/8141_23VIR7026-11/2023|EPI_ISL_18321757	2023-07-21	Finland	other
+A/black-headed_gull/Denmark/03667-1.02-2/2023|EPI_ISL_20089850	2023-05-04	Denmark	other
+A/Common_Tern/England/401301/2023|EPI_ISL_18010499	2023-06-06	United Kingdom	other
+A/black-headed_gull/Denmark/04907-1.02/2023|EPI_ISL_20089835	2023-06-09	Denmark	other
+A/black-headed_gull/Finland/8081_23VIR6928-12/2023|EPI_ISL_18321750	2023-07-12	Finland	other
+A/european_herring_gull/Leningrad_region/RII-WD485/2023|EPI_ISL_18501400	2023-10-11	Russian Federation	other
+A/black-headed_gull/Austria/23063745-001/2023|EPI_ISL_18058689	2023-05-12	Austria	other
+A/black-headed_gull/Leningrad_region/RII-WD260Mt/2023|EPI_ISL_18501399	2023-10-11	Russian Federation	other
+A/seagull/Italy/23VIR6095/2023|EPI_ISL_18076009	2023-06-24	Italy	other
+A/gull/Germany-NI/2023AI06886/2023|EPI_ISL_18435610	2023-08-02	Germany	other
+A/Black-headed_Gull/Netherlands/70/2023|EPI_ISL_17780488	2023-05-05	Netherlands	other
+A/Black-Headed_Gull/England/328624/2023|EPI_ISL_18010488	2023-06-12	United Kingdom	other
+A/Peregrine_Falcon/England/260452/2023|EPI_ISL_18010493	2023-06-02	United Kingdom	other
+A/black-headed_gull/Denmark/04688-1.02/2023|EPI_ISL_20089831	2023-06-08	Denmark	other
+A/black-headed_gull/Finland/8078_23VIR6928-10/2023|EPI_ISL_18321748	2023-07-12	Finland	other
+A/black-headed_gull/Austria/23072665-007/2023|EPI_ISL_18058692	2023-06-05	Austria	other
+A/black-headed-gull/Finland/8246/2023|EPI_ISL_18123945	2023-07-20	Finland	other
+A/sandwich_tern/Italy/23VIR6092-4/2023|EPI_ISL_18076008	2023-06-25	Italy	other
+A/black-headed_gull/Leningrad_region/RII-WD317Mb/2023|EPI_ISL_18501395	2023-10-11	Russian Federation	other
+A/Common_Tern/Netherlands/28/2023|EPI_ISL_18059067	2023-07-18	Netherlands	other
+A/Sandwich_Tern/England/260450/2023|EPI_ISL_18010492	2023-06-02	United Kingdom	other
+A/arctic-fox/Finland/564/2023|EPI_ISL_18123722	2023-07-17	Finland	other
+A/black-headed_gull/Denmark/04895-1.02/2023|EPI_ISL_20089834	2023-06-08	Denmark	other
+A/black-headed_gull/Denmark/03633-1.02-2/2023|EPI_ISL_20089847	2023-05-04	Denmark	other
+A/Common_Tern/Netherlands/24/2023|EPI_ISL_18059063	2023-07-13	Netherlands	other
+A/Black-Headed_Gull/England/260516/2023|EPI_ISL_18010494	2023-06-07	United Kingdom	other
+A/black-headed_gull/Denmark/03665-1.02-2/2023|EPI_ISL_20089848	2023-05-08	Denmark	other
+A/black-headed_gull/Denmark/03669-1.02-2/2023|EPI_ISL_20089852	2023-05-08	Denmark	other
+A/black-headed_gull/Leningrad_region/RII-WD299/2023|EPI_ISL_18304169	2023-02-02	Russian Federation	other
+A/peregrine_falcon/Germany-NW/2023AI06880/2023|EPI_ISL_18435608	2023-08-02	Germany	other
+A/Falco_peregrinus/Belgium/06764_0004/2023|EPI_ISL_18436064	2023-07-11	Belgium	Belgium
+A/Black-headed_Gull/Netherlands/61/2023|EPI_ISL_17780475	2023-05-19	Netherlands	other
+A/fox/Finland/602/2023|EPI_ISL_18123931	2023-07-20	Finland	other
+A/Common_Tern/Netherlands/17/2023|EPI_ISL_18059052	2023-07-07	Netherlands	other
+A/black-headed-gull/Finland/7898/2023|EPI_ISL_18123937	2023-07-13	Finland	other
+A/black-headed_gull/England/093296/2022|EPI_ISL_14864635	2022-07-01	United Kingdom	other
+A/arctic-fox/Finland/660/2023|EPI_ISL_18123725	2023-07-31	Finland	other
+A/european_herring_gull/Leningrad_region/RII-WD308/2023|EPI_ISL_18304551	2023-08-02	Russian Federation	other
+A/raccoon_dog/Finland/552_23VIR6928-5/2023|EPI_ISL_18321746	2023-07-17	Finland	other
+A/Black-headed_Gull/Netherlands/45/2023|EPI_ISL_18075141	2023-03-07	Netherlands	other
+A/Black-Headed_Gull/England/328362/2023|EPI_ISL_18010407	2023-06-05	United Kingdom	other
+A/Black-headed_Gull/Netherlands/69/2023|EPI_ISL_17780487	2023-05-05	Netherlands	other
+A/Black-headed_Gull/Netherlands/112/2023|EPI_ISL_18059056	2023-07-11	Netherlands	other
+A/arctic-fox/Finland/654/2023|EPI_ISL_18123724	2023-07-27	Finland	other
+A/black-headed_gull/Denmark/03516-1.02/2023|EPI_ISL_20089822	2023-05-01	Denmark	other
+A/common_guillemot/Sweden/SVA230720SZ0277/FB002472/I-2023|EPI_ISL_18255393	2023-07-20	Sweden	other
+A/common_tern/Austria/23067487-002/2023|EPI_ISL_18058694	2023-05-23	Austria	other
+A/black-headed_gull/Denmark/03666-1.02-2/2023|EPI_ISL_20089849	2023-05-04	Denmark	other
+A/seagull/Italy/23VIR6182-3/2023|EPI_ISL_18076010	2023-06-22	Italy	other
+A/Common_Tern/Netherlands/18/2023|EPI_ISL_18059053	2023-07-07	Netherlands	other
+A/Arctic_Tern/Netherlands/1/2023|EPI_ISL_18059060	2023-07-13	Netherlands	other
+A/parasitic_jaeger/Spain/2283-5-2023_23VIR6502-12/2023|EPI_ISL_18075705	2023-04-25	Spain	other
+A/black-headed_gull/Denmark/03515-1.01/2023|EPI_ISL_20089821	2023-05-01	Denmark	other
+A/Common_Tern/Netherlands/19/2023|EPI_ISL_18059054	2023-07-07	Netherlands	other
+A/common_tern/Sweden/SVA230720SZ0277/FB002468/I-2023|EPI_ISL_18255405	2023-07-20	Sweden	other
+A/Peregrine_Falcon/Netherlands/14/2023|EPI_ISL_18075152	2023-03-16	Netherlands	other
+A/common_tern/Croatia/44-1/2023|EPI_ISL_17762861	2023-05-15	Croatia	other
+A/gull-billed_tern/Spain/2645-12-2023_23VIR6502-14/2023|EPI_ISL_18075707	2023-05-20	Spain	other
+A/black-headed_gull/Denmark/05474-1.02/2023|EPI_ISL_20089841	2023-06-28	Denmark	other
+A/arctic-fox/Finland/HVVI_491_23_23VIR6803-1/2023|EPI_ISL_18321744	2023-07-06	Finland	other
+A/black-headed_gull/Denmark/03633-1.02/2023|EPI_ISL_20089823	2023-05-04	Denmark	other
+A/great_crested_grebe/Finland/8111_23VIR7026-21/2023|EPI_ISL_18321752	2023-07-18	Finland	other
+A/gull/Germany-NI/2023AI06805/2023|EPI_ISL_18435609	2023-07-26	Germany	other
+A/gull/France/22P015977/2022|EPI_ISL_13519451	2022-05-11	France	other
+A/black-headed_gull/Denmark/05407-1.02/2023|EPI_ISL_20089840	2023-06-28	Denmark	other
+A/common_tern/Italy/23VIR6435-2/2023|EPI_ISL_18076029	2023-06-20	Italy	other
+A/Common_Tern/Netherlands/16/2023|EPI_ISL_18059051	2023-07-07	Netherlands	other
+A/Eurasian_Oystercatcher/Netherlands/2/2023|EPI_ISL_17780480	2023-05-19	Netherlands	other
+A/Lesser_black-backed_Gull/Netherlands/2/2023|EPI_ISL_17780482	2023-05-19	Netherlands	other
+A/Black-headed_Gull/Netherlands/47/2023|EPI_ISL_18075143	2023-03-07	Netherlands	other
+A/Common_Tern/Netherlands/20/2023|EPI_ISL_18059058	2023-07-14	Netherlands	other
+A/Common_Tern/England/260528/2023|EPI_ISL_18010495	2023-06-07	United Kingdom	other
+A/black-headed_gull/Denmark/05481-1.02/2023|EPI_ISL_20089843	2023-06-29	Denmark	other
+A/black-headed_gull/Denmark/04233-1.02/2023|EPI_ISL_20089828	2023-05-22	Denmark	other
+A/Black-headed_Gull/Netherlands/49/2023|EPI_ISL_18075144	2023-03-07	Netherlands	other
+A/black-headed_gull/Denmark/04749-1.01/2023|EPI_ISL_20089832	2023-06-11	Denmark	other
+A/chicken/England/085598/2022|EPI_ISL_13782459	2022-06-15	United Kingdom	other
+A/herring_gull/Germany-MV/2023AI05675/2023|EPI_ISL_18041995	2023-06-19	Germany	other
+A/sandwich_tern/Denmark/05121-6/2023|EPI_ISL_20089939	2023-06-19	Denmark	other
+A/black-headed_gull/Denmark/04750-1.02/2023|EPI_ISL_20089833	2023-06-09	Denmark	other
+A/Black-Headed_Gull/England/260445/2023|EPI_ISL_18010489	2023-06-02	United Kingdom	other
+A/common_tern/Italy/23VIR6744/2023|EPI_ISL_18076031	2023-07-07	Italy	other
+A/black-headed_gull/Denmark/05401-1.02/2023|EPI_ISL_20089839	2023-06-28	Denmark	other
+A/common_guillemot/Sweden/SVA230720SZ0277/FB002471/I-2023|EPI_ISL_18255395	2023-07-20	Sweden	other
+A/Common_Tern/Netherlands/23/2023|EPI_ISL_18059062	2023-07-13	Netherlands	other
+A/Herring_Gull/England/089636/2022|EPI_ISL_13782460	2022-06-21	United Kingdom	other
+A/Herring_Gull/England/328375/2023|EPI_ISL_18010487	2023-06-05	United Kingdom	other
+A/european_herring_gull/Leningrad_region/RII-WD477/2023|EPI_ISL_18501403	2023-10-11	Russian Federation	other
+A/Sandwich_Tern/Netherlands/1/2023|EPI_ISL_17780484	2023-05-17	Netherlands	other
+A/Black-headed_Gull/Netherlands/64/2023|EPI_ISL_17780478	2023-05-19	Netherlands	other
+A/black-headed_gull/Austria/23041151-001/2023|EPI_ISL_18058688	2023-03-28	Austria	other
+A/common_tern/Italy/23VIR6437-3/2023|EPI_ISL_18076011	2023-07-03	Italy	other
+A/Larus_argentatus/Belgium/07522_0002/2023|EPI_ISL_18436067	2023-08-08	Belgium	Belgium
+A/arctic-fox/Finland/614/2023|EPI_ISL_18123934	2023-07-24	Finland	other
+A/Chroicocephalus_ridibundus/Belgium/06764_0001/2023|EPI_ISL_18435856	2023-07-09	Belgium	Belgium
+A/black-headed_gull/Leningrad_region/RII-WD359/2023|EPI_ISL_18501398	2023-10-11	Russian Federation	other
+A/Artic_tern/Netherlands/2/2023|EPI_ISL_18877429	2023-07-11	Netherlands	other
+A/european_herring_gull/Leningrad_region/RII-WD492/2023|EPI_ISL_18501397	2023-10-11	Russian Federation	other
+A/fox/Finland/610/2023|EPI_ISL_18123932	2023-07-20	Finland	other
+A/Black-headed_Gull/Netherlands/60/2023|EPI_ISL_17780474	2023-05-19	Netherlands	other
+A/Black-headed_Gull/Netherlands/65/2023|EPI_ISL_17780479	2023-05-19	Netherlands	other
+A/black-headed_gull/Denmark/03665-1.02/2023|EPI_ISL_20089824	2023-05-08	Denmark	other
+A/arctic-fox/Finland/613/2023|EPI_ISL_18123933	2023-07-24	Finland	other
+A/peregrine_falcon/Sweden/SVA230808SZ0403/FB002649/E-2023|EPI_ISL_18255288	2023-07-20	Sweden	other
+A/black-headed_gull/Germany-MV/2023AI04780/2023|EPI_ISL_18041993	2023-05-17	Germany	other
+A/common_tern/Austria/23076736-001/2023|EPI_ISL_18058703	2023-06-14	Austria	other
+A/black-headed_gull/Germany-BB/2023AI05305/2023|EPI_ISL_18041992	2023-06-13	Germany	other
+A/Common_Tern/England/401299/2023|EPI_ISL_18010498	2023-06-06	United Kingdom	other
+A/black-headed_gull/Denmark/05479-1.02/2023|EPI_ISL_20089842	2023-06-29	Denmark	other
+A/black-headed_gull/Austria/23072665-002/2023|EPI_ISL_18058691	2023-06-05	Austria	other
+A/black-headed_gull/Denmark/06169-1.01/2023|EPI_ISL_20089846	2023-07-30	Denmark	other
+A/black-headed_gull/Finland/8254_23VIR7026-19/2023|EPI_ISL_18321756	2023-07-20	Finland	other
+A/black-headed_gull/Denmark/05569-1.02/2023|EPI_ISL_20089844	2023-07-03	Denmark	other
+A/Common_Tern/Netherlands/25/2023|EPI_ISL_18059064	2023-07-13	Netherlands	other
+A/black-headed-gull/Finland/8095/2023|EPI_ISL_18123938	2023-07-18	Finland	other
+A/black-headed_gull/Denmark/05877-1.01/2023-06-22|EPI_ISL_18271509	2023-06-22	Denmark	other
+A/Common_Tern/Netherlands/27/2023|EPI_ISL_18059066	2023-07-13	Netherlands	other
+A/Black-headed_Gull/Netherlands/63/2023|EPI_ISL_17780477	2023-05-19	Netherlands	other
+A/black-headed-gull/Finland/8244/2023|EPI_ISL_18123944	2023-07-20	Finland	other
+A/sandwich_tern/Denmark/05257-11/2023|EPI_ISL_20089940	2023-06-23	Denmark	other
+A/Common_Tern/Netherlands/26/2023|EPI_ISL_18059065	2023-07-13	Netherlands	other
+A/Black-headed_Gull/Netherlands/53/2023|EPI_ISL_18075151	2023-03-18	Netherlands	other
+A/Black-headed_Gull/Netherlands/51/2023|EPI_ISL_18075149	2023-03-10	Netherlands	other
+A/black-headed_gull/Denmark/04563-1.01/2023|EPI_ISL_20089829	2023-06-05	Denmark	other
+A/Chicken/England/067400/2023|EPI_ISL_18010406	2023-05-15	United Kingdom	other
+A/parasitic_jaeger/Spain/2283-5-2023_23VIR6502-13/2023|EPI_ISL_18075706	2023-04-25	Spain	other
+A/black-headed_gull/Denmark/05877-1.01/2023|EPI_ISL_20089845	2023-06-22	Denmark	other
+A/common_guillemot/Sweden/SVA230720SZ0277/FB002470/I-2023|EPI_ISL_18255396	2023-07-20	Sweden	other
+A/black-headed_gull/Denmark/06169-1.01/2023-07-30|EPI_ISL_18271510	2023-07-30	Denmark	other
+A/arctic-fox/Finland/HVVI_492_23_23VIR6803-2/2023|EPI_ISL_18321743	2023-07-06	Finland	other
+A/black-headed_gull/Denmark/03878-1.02/2023|EPI_ISL_20089826	2023-05-14	Denmark	other
+A/Peregrine_Falcon/Netherlands/12/2023|EPI_ISL_18075147	2023-03-10	Netherlands	other
+A/black-headed-gull/Finland/8243/2023|EPI_ISL_18123943	2023-07-20	Finland	other
+A/Lesser_auk/Sweden/SVA230720SZ0315/FB002445/I-2023|EPI_ISL_18255416	2023-07-20	Sweden	other
+A/european_herring_gull/Leningrad_region/RII-WD437/2023|EPI_ISL_18501405	2023-10-11	Russian Federation	other
+A/Sandwich_Tern/Netherlands/12/2023|EPI_ISL_18059048	2023-07-03	Netherlands	other
+A/sandwich_tern/Denmark/05257-20/2023|EPI_ISL_20089941	2023-06-23	Denmark	other
+A/black-headed_gull/Denmark/04681-1.02/2023|EPI_ISL_20089830	2023-06-08	Denmark	other
+A/Herring_Gull/England/260576/2023|EPI_ISL_18010496	2023-06-07	United Kingdom	other
+A/european_herring_gull/Leningrad_region/RII-WD460/2023|EPI_ISL_18501394	2023-10-11	Russian Federation	other
+A/black-headed_gull/Denmark/04111-3.02/2023|EPI_ISL_20089827	2023-05-17	Denmark	other
+A/Mink/Spain/3691-2_22VIR10586-8/2022|EPI_ISL_15878541	2022-10-18	Spain	other
+A/Black-headed_Gull/Netherlands/52/2023|EPI_ISL_18075150	2023-03-10	Netherlands	other
+A/Black-Headed_Gull/England/078990/2023|EPI_ISL_18010500	2023-06-02	United Kingdom	other
+A/black-headed_gull/Denmark/05234-1.02/2023|EPI_ISL_20089837	2023-06-22	Denmark	other
+A/Peregrine_Falcon/Netherlands/11/2023|EPI_ISL_18075146	2023-01-31	Netherlands	other
+A/peregrine_falcon/Sweden/SVA230725SZ0382/FB002504/M-2023|EPI_ISL_18255293	2023-06-06	Sweden	other
+A/Common_Tern/Netherlands/15/2023|EPI_ISL_18059050	2023-07-04	Netherlands	other
+A/black-headed_gull/Finland/8096_23VIR7026-6/2023|EPI_ISL_18321754	2023-07-20	Finland	other
+A/common_tern/Italy/23VIR6412-2/2023|EPI_ISL_18076016	2023-06-19	Italy	other
+A/Black-headed_Gull/Netherlands/110/2023|EPI_ISL_18059049	2023-07-06	Netherlands	other
+A/chicken/Denmark/05670-4/2023|EPI_ISL_20089853	2023-07-11	Denmark	other
+A/canada_goose/Finland/8109_23VIR7026-20/2023|EPI_ISL_18321751	2023-07-18	Finland	other
+A/black-headed-gull/Finland/8145/2023|EPI_ISL_18123942	2023-07-19	Finland	other
+A/black-headed-gull/Finland/8143/2023|EPI_ISL_18123941	2023-07-19	Finland	other
+A/black-headed_gull/Denmark/05169-1.02/2023|EPI_ISL_20089836	2023-06-21	Denmark	other
+A/european_herring_gull/Leningrad_region/RII-WD392/2023|EPI_ISL_18501401	2023-10-11	Russian Federation	other
+A/Black-headed_Gull/Netherlands/66/2023|EPI_ISL_17780481	2023-05-19	Netherlands	other
+A/black-headed_gull/Finland/8077_23VIR6928-9/2023|EPI_ISL_18321747	2023-07-12	Finland	other
+A/Black-headed_Gull/Netherlands/67/2023|EPI_ISL_17780485	2023-05-05	Netherlands	other
+A/Common_Tern/Netherlands/21/2023|EPI_ISL_18059059	2023-07-13	Netherlands	other
+A/Black-headed_Gull/Netherlands/50/2023|EPI_ISL_18075145	2023-03-07	Netherlands	other
+A/arctic-fox/Finland/HVVI_503_23_23VIR6803-6/2023|EPI_ISL_18321745	2023-07-10	Finland	other
+A/black-headed-gull/Finland/8135/2023|EPI_ISL_18123940	2023-07-19	Finland	other
+A/black-headed_gull/Denmark/03668-1.02/2023|EPI_ISL_20089825	2023-05-04	Denmark	other
+A/european_herring_gull/Leningrad_region/RII-WD568/2023|EPI_ISL_18501402	2023-10-11	Russian Federation	other
+A/black-headed_gull/Denmark/05301-1.02/2023|EPI_ISL_20089838	2023-06-26	Denmark	other
+A/black-headed_gull/Finland/8079_23VIR6928-11/2023|EPI_ISL_18321749	2023-07-12	Finland	other
+A/Chroicocephalus_ridibundus/Belgium/03706_0003/2023|EPI_ISL_17830874	2023-04-14	Belgium	Belgium
+A/Falco_peregrinus/Belgium/02026_0003/2023|EPI_ISL_17830866	2023-02-24	Belgium	Belgium
+A/Chroicocephalus_ridibundus/Belgium/01145_0008/2023|EPI_ISL_17830839	2023-01-22	Belgium	Belgium
+A/Falco_peregrinus/Belgium/01145_0005/2023|EPI_ISL_17830837	2023-02-01	Belgium	Belgium
+A/Chroicocephalus_ridibundus/Belgium/01145_0006/2023|EPI_ISL_17830838	2023-01-17	Belgium	Belgium
+A/Falco_peregrinus/Belgium/03518_0004/2023|EPI_ISL_17830868	2023-04-03	Belgium	Belgium
+A/Chroicocephalus_ridibundus/Belgium/03706_0002/2023|EPI_ISL_17830871	2023-04-14	Belgium	Belgium
+A/Falco_peregrinus/Belgium/01145_0004/2023|EPI_ISL_17830836	2023-01-30	Belgium	Belgium
+A/Gallus_gallus/Belgium/01393_0001/2023|EPI_ISL_17601100	2023-02-13	Belgium	Belgium
+A/black-headed_gull/Czech_Republic/5695-1/2023|EPI_ISL_17584820	2023-04-13	Czech Republic	other
+A/black-headed_gull/Austria/23054865-001/2023|EPI_ISL_17716070	2023-04-25	Austria	other
+A/black-headed_gull/Leningrad_region/RII-WD301/2023|EPI_ISL_18503030	2023-08-29	Russian Federation	other
+A/arctic_fox/Finland/548-23/2023|EPI_ISL_18011066	2023-07-14	Finland	other
+A/Black-headed_Gull/Netherlands/107/2023|EPI_ISL_18010919	2023-06-30	Netherlands	other
+A/peregrine_falcon/Czech_Republic/7735-2_chymus/2023|EPI_ISL_17732340	2023-05-17	Czech Republic	other
+A/black-headed_gull_/Sweden/SVA230509SZ0614/FB001431/AB-2023|EPI_ISL_17699037	2023-05-07	Sweden	other
+A/black-headed_gull/Czech_Republic/6066-5/2023|EPI_ISL_17584827	2023-04-20	Czech Republic	other
+A/Gallus_gallus/Belgium/01694_0001/2023|EPI_ISL_17601183	2023-02-24	Belgium	Belgium
+A/black-headed_gull/Czech_Republic/5487-2/2023|EPI_ISL_17584817	2023-04-12	Czech Republic	other
+A/common_tern/Spain/2713-21-2023_23VIR6502-20/2023|EPI_ISL_18075713	2023-06-05	Spain	other
+A/artic_fox/Finland/496-23/2023|EPI_ISL_18010964	2023-07-10	Finland	other
+A/domestic_duck/England/119203/2022|EPI_ISL_15586123	2022-09-15	United Kingdom	other
+A/Lesser_black-backed_Gull/Netherlands/6/2023|EPI_ISL_18010927	2023-06-30	Netherlands	other
+A/black-headed_gull/Czech_Republic/5695-7/2023|EPI_ISL_17584825	2023-04-13	Czech Republic	other
+A/black-headed_gull/Spain/1509-1-2023_23VIR6502-8/2023|EPI_ISL_18075732	2023-03-16	Spain	other
+A/black-headed_gull/Czech_Republic/5152-2/2023|EPI_ISL_17470106	2023-04-04	Czech Republic	other
+A/red_fox/Finland/554-23/2023|EPI_ISL_18011100	2023-07-17	Finland	other
+A/black-headed_gull/Austria/23056483-003/2023|EPI_ISL_17716071	2023-04-27	Austria	other
+A/black-headed_gull/Czech_Republic/5695-8/2023|EPI_ISL_17584826	2023-04-13	Czech Republic	other
+A/chicken/Jersey/106733/2022|EPI_ISL_14864647	2022-08-13	United Kingdom	other
+A/Black-headed_Gull/Netherlands/99/2023|EPI_ISL_18010922	2023-06-23	Netherlands	other
+A/european_herring_gull/Leningrad_region/RII-WD304/2023|EPI_ISL_18503031	2023-08-30	Russian Federation	other
+A/black-headed_gull/Czech_Republic/5152-4/2023|EPI_ISL_17470108	2023-04-04	Czech Republic	other
+A/black-headed_gull/Czech_Republic/5452-4/2023|EPI_ISL_17584816	2023-04-11	Czech Republic	other
+A/sandwich_tern/Spain/2713-25-2023_23VIR6502-22/2023|EPI_ISL_18075715	2023-06-05	Spain	other
+A/blach-headed_gull/Leningrad_region/RII-WD331Mb/2023|EPI_ISL_18503032	2023-08-31	Russian Federation	other
+A/mediterranean_gull/Spain/2842-15-2023_23VIR6502-29/2023|EPI_ISL_18075719	2023-06-15	Spain	other
+A/black-headed_gull/Austria/23061496-001/2023|EPI_ISL_17716079	2023-05-09	Austria	other
+A/black-headed_gull/Czech_Republic/5452-1/2023|EPI_ISL_17584813	2023-04-11	Czech Republic	other
+A/gull/Spain/5524-1_24VIR4860-12/2023|EPI_ISL_19207491	2023-12-11	Spain	other
+A/yellow-legged_gull/Spain/2679-1-2023_23VIR6502-15/2023|EPI_ISL_18075708	2023-05-30	Spain	other
+A/sandwich_tern/Spain/2988-6-2023_23VIR6502-36/2023|EPI_ISL_18075725	2023-06-19	Spain	other
+A/Black-headed_gull/Netherlands/11/2023|EPI_ISL_17208160	2023-02-19	Netherlands	other
+A/herring_gull/England/324803/2022|EPI_ISL_15585900	2022-09-29	United Kingdom	other
+A/gull-billed_tern/Spain/2740-28-2023_23VIR6502-24/2023|EPI_ISL_18075717	2023-06-07	Spain	other
+A/black-headed_gull/Czech_Republic/5487-4/2023|EPI_ISL_17584818	2023-04-12	Czech Republic	other
+A/Black-headed_Gull/Netherlands/101/2023|EPI_ISL_18010913	2023-06-23	Netherlands	other
+A/black-headed_gull/Austria/23058525-004/2023|EPI_ISL_17716074	2023-05-03	Austria	other
+A/Sandwich_Tern/Netherlands/9/2023|EPI_ISL_18010932	2023-06-24	Netherlands	other
+A/arctic_fox/Finland/546-23/2023|EPI_ISL_18011065	2023-07-14	Finland	other
+A/chicken/England/112410/2022|EPI_ISL_14864651	2022-08-28	United Kingdom	other
+A/Black-headed_gull/Netherlands/10/2023|EPI_ISL_17208159	2023-02-19	Netherlands	other
+A/Sandwich_Tern/Netherlands/8/2023|EPI_ISL_18010931	2023-06-24	Netherlands	other
+A/chicken/England/119062/2022|EPI_ISL_15585859	2022-09-19	United Kingdom	other
+A/peregrine_falcon/Czech_Republic/7735-2/2023|EPI_ISL_17732339	2023-05-17	Czech Republic	other
+A/Black-headed_Gull/Netherlands/104/2023|EPI_ISL_18010916	2023-06-30	Netherlands	other
+A/Black-headed_Gull/Netherlands/105/2023|EPI_ISL_18010917	2023-06-30	Netherlands	other
+A/black-headed_gull/Spain/1168-1-2023_23VIR6502-5/2023|EPI_ISL_18075729	2023-02-22	Spain	other
+A/turkey/England/122476/2022|EPI_ISL_15585907	2022-09-21	United Kingdom	other
+A/chicken/England/120099/2022|EPI_ISL_15585860	2022-09-21	United Kingdom	other
+A/Common_Tern/Netherlands/14/2023|EPI_ISL_18010923	2023-06-30	Netherlands	other
+A/arctic_fox/Finland/538-23/2023|EPI_ISL_18011064	2023-07-14	Finland	other
+A/black-headed_gull/Austria/23058525-001/2023|EPI_ISL_17716073	2023-05-03	Austria	other
+A/common_tern/Spain/2774-12-2023_23VIR6502-25/2023|EPI_ISL_18075718	2023-06-08	Spain	other
+A/sandwich_tern/Spain/2740-23-2023_23VIR6502-23/2023|EPI_ISL_18075716	2023-06-07	Spain	other
+A/black-headed_gull/Czech_Republic/5425-3/2023|EPI_ISL_17584812	2023-04-11	Czech Republic	other
+A/sandwich_tern/Spain/2681-31-2023_23VIR6502-19/2023|EPI_ISL_18075712	2023-06-02	Spain	other
+A/black-headed_gull/Czech_Republic/5695-2/2023|EPI_ISL_17584821	2023-04-13	Czech Republic	other
+A/mink/Finland/512-23/2023|EPI_ISL_18011099	2023-07-10	Finland	other
+A/black-headed_gull/Austria/23060170-007/2023|EPI_ISL_17716076	2023-05-05	Austria	other
+A/black-headed_gull/Czech_Republic/5425-1/2023|EPI_ISL_17584811	2023-04-11	Czech Republic	other
+A/gull-billed_tern/Spain/2681-21-2023_23VIR6502-17/2023|EPI_ISL_18075710	2023-06-02	Spain	other
+A/Sandwich_Tern/Netherlands/10/2023|EPI_ISL_18010929	2023-06-24	Netherlands	other
+A/mediterranean_gull/Spain/2886-14-2023_23VIR6502-31/2023|EPI_ISL_18075722	2023-06-20	Spain	other
+A/black-headed_gull/Czech_Republic/5695-3/2023|EPI_ISL_17584822	2023-04-13	Czech Republic	other
+A/black-headed_gull/Spain/1193-1-2023_23VIR6502-6/2023|EPI_ISL_18075730	2023-02-21	Spain	other
+A/arctic_fox/Finland/559-23/2023|EPI_ISL_18011094	2023-07-17	Finland	other
+A/Lesser_black-backed_Gull/Netherlands/4/2023|EPI_ISL_18010925	2023-06-23	Netherlands	other
+A/Turkey/England/130119/2022|EPI_ISL_15585843	2022-10-10	United Kingdom	other
+A/domestic_goose/England/107529/2022|EPI_ISL_14864649	2022-08-20	United Kingdom	other
+A/black-headed_gull/Spain/1399-5-2023_23VIR6502-7/2023|EPI_ISL_18075731	2023-03-07	Spain	other
+A/black-headed_gull/Austria/23061383-001/2023|EPI_ISL_17716078	2023-05-09	Austria	other
+A/blach-headed_gull/Leningrad_region/RII-WD233/2023|EPI_ISL_18503033	2023-09-01	Russian Federation	other
+A/arctic_fox/Finland/503-23/2023|EPI_ISL_18011047	2023-07-10	Finland	other
+A/lesser_black-backed_gull_/Sweden/SVA230509SZ0608/FB001430/AB-2023|EPI_ISL_17699034	2023-05-07	Sweden	other
+A/black-headed_gull/Austria/23060170-003/2023|EPI_ISL_17716075	2023-05-05	Austria	other
+A/Lesser_black-backed_Gull/Netherlands/5/2023|EPI_ISL_18010926	2023-06-23	Netherlands	other
+A/Black-headed_Gull/Netherlands/103/2023|EPI_ISL_18010915	2023-06-26	Netherlands	other
+A/Eurasian_oystercatcher/Netherlands/1/2023|EPI_ISL_17208166	2023-02-26	Netherlands	other
+A/gull-billed_tern/Spain/2681-23-2023_23VIR6502-18/2023|EPI_ISL_18075711	2023-06-02	Spain	other
+A/black-headed_gull/Czech_Republic/5452-2/2023|EPI_ISL_17584814	2023-04-11	Czech Republic	other
+A/black-headed_gull/Czech_Republic/5487-5/2023|EPI_ISL_17584819	2023-04-12	Czech Republic	other
+A/Black-headed_Gull/Netherlands/98/2023|EPI_ISL_18010921	2023-06-23	Netherlands	other
+A/Black-headed_gull/Netherlands/9/2023|EPI_ISL_17208165	2023-02-19	Netherlands	other
+A/black-headed_gull/Spain/1528-7-2023_23VIR6502-9/2023|EPI_ISL_18075733	2023-03-07	Spain	other
+A/eagle_owl/Spain/1607-3-2023_23VIR6502-10/2023|EPI_ISL_18075770	2023-03-15	Spain	other
+A/Lesser_black-backed_Gull/Netherlands/7/2023|EPI_ISL_18010928	2023-06-30	Netherlands	other
+A/black-headed_gull/Czech_Republic/5695-5/2023|EPI_ISL_17584824	2023-04-13	Czech Republic	other
+A/black-headed_gull/Spain/929-18-2023_23VIR6502-2/2023|EPI_ISL_18075720	2023-02-14	Spain	other
+A/Black-headed_Gull/Netherlands/106/2023|EPI_ISL_18010918	2023-06-30	Netherlands	other
+A/gull/England/107384/2022|EPI_ISL_14864648	2022-08-18	United Kingdom	other
+A/arctic_fox/Finland/491-23/2023|EPI_ISL_18010933	2023-07-06	Finland	other
+A/black-headed_gull/Czech_Republic/5152-5/2023|EPI_ISL_17470109	2023-04-04	Czech Republic	other
+A/Lesser_black-backed_Gull/Netherlands/3/2023|EPI_ISL_18010924	2023-06-23	Netherlands	other
+A/chicken/England/115900/2022|EPI_ISL_15585855	2022-09-07	United Kingdom	other
+A/black-headed_gull/Czech_Republic/5695-4/2023|EPI_ISL_17584823	2023-04-13	Czech Republic	other
+A/common_tern/Spain/2713-24-2023_23VIR6502-21/2023|EPI_ISL_18075714	2023-06-05	Spain	other
+A/mediterranean_gull/Spain/2994-9-2023_23VIR6502-37/2023|EPI_ISL_18075726	2023-06-27	Spain	other
+A/sandwich_tern/Spain/2681-18-2023_23VIR6502-16/2023|EPI_ISL_18075709	2023-06-02	Spain	other
+A/black-headed_gull/Czech_Republic/5295-3/2023|EPI_ISL_17584810	2023-04-03	Czech Republic	other
+A/Black-headed_gull/Netherlands/8/2023|EPI_ISL_17208164	2023-02-20	Netherlands	other
+A/black-headed_gull/Czech_Republic/5452-3/2023|EPI_ISL_17584815	2023-04-11	Czech Republic	other
+A/Black-headed_Gull/Netherlands/100/2023|EPI_ISL_18010912	2023-06-23	Netherlands	other
+A/black-headed_gull/Czech_Republic/5152-3/2023|EPI_ISL_17470107	2023-04-04	Czech Republic	other
+A/Chicken/England/126673/2022|EPI_ISL_15585748	2022-10-04	United Kingdom	other
+A/Black-headed_gull/Netherlands/13/2023|EPI_ISL_17208162	2023-02-28	Netherlands	other
+A/Sandwich_Tern/Netherlands/11/2023|EPI_ISL_18010930	2023-06-24	Netherlands	other
+A/Black-headed_Gull/Netherlands/108/2023|EPI_ISL_18010920	2023-06-30	Netherlands	other
+A/black-headed_gull/Czech_Republic/5152-1/2023|EPI_ISL_17470105	2023-04-04	Czech Republic	other
+A/peregrine_falcon/Czech_Republic/7735-1/2023|EPI_ISL_17732338	2023-05-17	Czech Republic	other
+A/common_quail/Ivanovo/351-2V/2023|EPI_ISL_17995882	2023-05-17	Russian Federation	other
+A/Northern_fulmar/Norway/2023-07-1883/2023|EPI_ISL_18963380	2023-08-10	Norway	other
+A/mink/Finland/731/2023|EPI_ISL_18290479	2023-08-07	Finland	other
+A/gull/Mari_El/354-8V/2023|EPI_ISL_17995887	2023-05-19	Russian Federation	other
+A/black-headed_gull/England/053469/2023|EPI_ISL_17521049	2023-03-23	United Kingdom	other
+A/black-headed_gull/Czech_Republic/6947-4/2023|EPI_ISL_17716819	2023-05-03	Czech Republic	other
+A/sandwich_tern/Italy/23VIR5828-8/2023|EPI_ISL_17996132	2023-06-16	Italy	other
+A/gull/Yaroslavl/357-9V/2023|EPI_ISL_17995889	2023-05-22	Russian Federation	other
+A/black-headed_gull/Denmark/03515-1.01/2023-05-01|EPI_ISL_17716780	2023-05-01	Denmark	other
+A/blue_fox/Finland/UH-004-E1/2023|EPI_ISL_18764855	2023-08-03	Finland	other
+A/Common_Tern/England/260258/2023|EPI_ISL_17831136	2023-05-17	United Kingdom	other
+A/arctic-fox/Finland/504_23VIR6803-7/2023|EPI_ISL_18011223	2023-07-10	Finland	other
+A/Black-headed_gull/Netherlands/4/2023|EPI_ISL_16881185	2023-01-28	Netherlands	other
+A/black-headed_gull/Sweden/SVA230622SZ0219/FB002087/C-2023|EPI_ISL_18257880	2023-06-22	Sweden	other
+A/arctic-fox/Finland/497_23VIR6803-5/2023|EPI_ISL_18011222	2023-07-10	Finland	other
+A/peregrine_falcon/Czech_Republic/7459-1/2023|EPI_ISL_17716826	2023-05-15	Czech Republic	other
+A/black-headed_gull/Czech_Republic/6947-1/2023|EPI_ISL_17716817	2023-05-03	Czech Republic	other
+A/arctic_tern/Scotland/092455/2023|EPI_ISL_18258046	2023-07-05	United Kingdom	other
+A/black-headed_gull/Finland/7728_23VIR6803-9/2023|EPI_ISL_18011224	2023-07-03	Finland	other
+A/fox/Finland/1361/2023|EPI_ISL_18290484	2023-08-10	Finland	other
+A/mink/Finland/3079/2023|EPI_ISL_18618768	2023-09-20	Finland	other
+A/guinea_fowl/England/049422/2023|EPI_ISL_17521023	2023-03-30	United Kingdom	other
+A/black-headed_gull/Sweden/SVA230621SZ0030/FB002054/H-2023|EPI_ISL_18257963	2023-06-20	Sweden	other
+A/gull/Kirov/347-2V/2023|EPI_ISL_17995877	2023-05-09	Russian Federation	other
+A/black-headed_gull/Czech_Republic/6577-1/2023|EPI_ISL_17716810	2023-04-24	Czech Republic	other
+A/sandwich_tern/Italy/23VIR5983/2023|EPI_ISL_17996135	2023-06-11	Italy	other
+A/turkey/Czech_Republic/6734_orig/2023|EPI_ISL_17650921	2023-05-02	Czech Republic	other
+A/black-headed_gull/Finland/7826_23VIR6803-11/2023|EPI_ISL_18011225	2023-07-08	Finland	other
+A/wild_bird/Gambia/23_198_TJ008_23VIR5825-8/2023|EPI_ISL_18127713	2023-04-01	Gambia	other
+A/black-headed_gull/Sweden/SVA230621SZ0030/FB002056/H-2023|EPI_ISL_18257883	2023-06-16	Sweden	other
+A/black-headed_gull/Italy/23VIR1102-4/2023|EPI_ISL_16979819	2023-01-30	Italy	other
+A/black-headed_gull/Czech_Republic/6633-2/2023|EPI_ISL_17716815	2023-04-24	Czech Republic	other
+A/gull/Kaliningrad/350-4V/2023|EPI_ISL_17995870	2023-05-12	Russian Federation	other
+A/Chroicocephalus_ridibundus/Belgium/00814_0004/2023|EPI_ISL_18043916	2023-01-21	Belgium	Belgium
+A/Black-Headed_Gull/England/400845/2023|EPI_ISL_17831140	2023-05-13	United Kingdom	other
+A/Black-Headed_Gull/England/350132/2023|EPI_ISL_17831138	2023-05-09	United Kingdom	other
+A/gull/Kaliningrad/350-4V/2023|EPI_ISL_17995879	2023-05-12	Russian Federation	other
+A/Chroicocephalus_ridibundus/Belgium/00815_0004/2023|EPI_ISL_18043917	2023-01-23	Belgium	Belgium
+A/black-headed_gull/Finland/8598/2023|EPI_ISL_18290492	2023-07-20	Finland	other
+A/black-headed_gull/Czech_Republic/7334-5/2023|EPI_ISL_17716825	2023-05-11	Czech Republic	other
+A/arctic-fox/Finland/682/2023|EPI_ISL_18618442	2023-08-04	Finland	other
+A/gull/Smolensk/358-5V/2023|EPI_ISL_17995890	2023-05-23	Russian Federation	other
+A/mink/Finland/3078/2023|EPI_ISL_18618767	2023-09-20	Finland	other
+A/Arctic_tern/Norway/2023-07-1881-tr/2023|EPI_ISL_18963379	2023-08-10	Norway	other
+A/gull/Komi/353-2V/2023|EPI_ISL_17995883	2023-05-17	Russian Federation	other
+A/sandwich_tern/Italy/23VIR5828-3/2023|EPI_ISL_17996131	2023-06-16	Italy	other
+A/mink/Finland/1002_23VIR6803-8/2023|EPI_ISL_18011231	2023-07-03	Finland	other
+A/black-headed_gull/England/329874/2023|EPI_ISL_18258051	2023-06-30	United Kingdom	other
+A/sandwich_tern/Italy/23VIR5796/2023|EPI_ISL_17996133	2023-06-04	Italy	other
+A/black-headed_gull/Czech_Republic/6634-3/2023|EPI_ISL_17650918	2023-04-24	Czech Republic	other
+A/arctic-fox/Finland/1909/2023|EPI_ISL_18290490	2023-08-21	Finland	other
+A/Pheasant/Scotland/107939/2023|EPI_ISL_18258050	2023-08-17	United Kingdom	other
+A/black-headed_gull/Czech_Republic/6577-4/2023|EPI_ISL_17716813	2023-04-24	Czech Republic	other
+A/turkey/Czech_Republic/7123-1/2023|EPI_ISL_17716820	2023-05-05	Czech Republic	other
+A/black-headed_gull/Finland/7897_23VIR6803-15/2023|EPI_ISL_18011229	2023-07-11	Finland	other
+A/Black-Headed_Gull/England/350135/2023|EPI_ISL_17831139	2023-05-09	United Kingdom	other
+A/black-headed_gull/Czech_Republic/7334-4/2023|EPI_ISL_17716824	2023-05-11	Czech Republic	other
+A/black-headed_gull/Finland/7827_23VIR6803-12/2023|EPI_ISL_18011226	2023-07-08	Finland	other
+A/gull/Mari_El/345-3V/2023|EPI_ISL_17995872	2023-05-18	Russian Federation	other
+A/black-headed_gull/Czech_Republic/6577-5/2023|EPI_ISL_17650916	2023-04-24	Czech Republic	other
+A/sandwich_tern/Italy/23VIR5828-2/2023|EPI_ISL_17996130	2023-06-16	Italy	other
+A/black-headed_gull/Czech_Republic/6577-3/2023|EPI_ISL_17716812	2023-04-24	Czech Republic	other
+A/black-headed_gull/Sweden/SVA230621SZ0030/FB002054/H-2023|EPI_ISL_18257964	2023-06-20	Sweden	other
+A/black-headed_gull/Italy/23VIR1106-4/2023|EPI_ISL_16979820	2023-02-01	Italy	other
+A/Black-legged_kittiwake/Norway/2023-07-2475-2/2023|EPI_ISL_18963388	2023-09-18	Norway	other
+A/gull/Mari_El/345-7V/2023|EPI_ISL_17995876	2023-05-18	Russian Federation	other
+A/sandwich_tern/Italy/23VIR5985/2023|EPI_ISL_17996137	2023-06-20	Italy	other
+A/common_shelduck/Netherlands/22012866-001/2022|EPI_ISL_14751461	2022-07-25	Netherlands	other
+A/gull/Mari_El/340-2V/2023|EPI_ISL_17995857	2023-05-02	Russian Federation	other
+A/gull/Mari_El/340-2V/2023|EPI_ISL_17995860	2023-05-02	Russian Federation	other
+A/wild_bird/Gambia/23_198_TJ009_23VIR5825-9/2023|EPI_ISL_18127714	2023-04-01	Gambia	other
+A/Falco_peregrinus/Belgium/04695_0002/2023|EPI_ISL_17831040	2023-05-07	Belgium	Belgium
+A/gull/Kirov/347-2V/2023|EPI_ISL_17995869	2023-05-09	Russian Federation	other
+A/Black-legged_kittiwake/Norway/2023-07-2062/2023|EPI_ISL_18963384	2023-08-23	Norway	other
+A/Black-legged_kittiwake/Norway/2023-07-1238-1/2023|EPI_ISL_18963372	2023-06-28	Norway	other
+A/gull/Mari_El/345-6V/2023|EPI_ISL_17995875	2023-05-18	Russian Federation	other
+A/mink/Finland/688/2023|EPI_ISL_18618377	2023-08-05	Finland	other
+A/turkey/Czech_Republic/7124-2/2023|EPI_ISL_17716823	2023-05-05	Czech Republic	other
+A/turkey/Czech_Republic/7123-2/2023|EPI_ISL_17716821	2023-05-05	Czech Republic	other
+A/peregrine_falcon/Czech_Republic/7459-3/2023|EPI_ISL_17716828	2023-05-15	Czech Republic	other
+A/black-headed_gull/Italy/23VIR1107-4/2022|EPI_ISL_16979817	2022-12-30	Italy	other
+A/black-headed_gull/Czech_Republic/6634-1/2023|EPI_ISL_17716816	2023-04-24	Czech Republic	other
+A/gull/Mari_El/340-1V/2023|EPI_ISL_17995859	2023-05-02	Russian Federation	other
+A/black-headed_gull/Finland/7477/2023|EPI_ISL_18290491	2023-06-25	Finland	other
+A/arctic-fox/Finland/545/2023|EPI_ISL_18290469	2023-07-14	Finland	other
+A/Larus_argentatus/Belgium/00906_0001/2023|EPI_ISL_18043920	2023-01-24	Belgium	Belgium
+A/Common_Tern/England/327279/2023|EPI_ISL_17831133	2023-05-11	United Kingdom	other
+A/common_quail/Ivanovo/351-1V/2023|EPI_ISL_17995881	2023-05-17	Russian Federation	other
+A/mink/Finland/1002/2023|EPI_ISL_18290467	2023-07-03	Finland	other
+A/Herring_gull/Norway/2023-07-1147/2023|EPI_ISL_18963369	2023-06-21	Norway	other
+A/black-headed_gull/Italy/23VIR1108-4/2023|EPI_ISL_16979818	2023-01-16	Italy	other
+A/black-headed_gull/Czech_Republic/6577-2/2023|EPI_ISL_17716811	2023-04-24	Czech Republic	other
+A/gull/Moscow/349-1V/2023|EPI_ISL_17995878	2023-05-19	Russian Federation	other
+A/gull/Komi/353-5V/2023|EPI_ISL_17995885	2023-05-17	Russian Federation	other
+A/Reed_Warbler/England/125961/2023|EPI_ISL_17831137	2023-05-16	United Kingdom	other
+A/wild_bird/Gambia/23_198_TJ005_23VIR5825-5/2023|EPI_ISL_18127710	2023-04-01	Gambia	other
+A/Red_fox/Germany/51023-261/2023|EPI_ISL_17880914	2023-03-29	Germany	other
+A/gull/Kaliningrad/350-6V/2023|EPI_ISL_17995880	2023-05-12	Russian Federation	other
+A/black-headed_gull/Finland/9418/2023|EPI_ISL_18290494	2023-08-10	Finland	other
+A/herring_gull/Finland/10812/2023|EPI_ISL_18618530	2023-09-14	Finland	other
+A/gull/Udmurtia/342-2V/2023|EPI_ISL_17995862	2023-05-08	Russian Federation	other
+A/common_magpie/Sweden/SVA230622SZ0223/FB002088/AB-2023|EPI_ISL_18257879	2023-06-17	Sweden	other
+A/Black-Headed_Gull/England/260252/2023|EPI_ISL_17831135	2023-05-17	United Kingdom	other
+A/Black-legged_kittiwake/Norway/2023-07-2475-3/2023|EPI_ISL_18963389	2023-09-18	Norway	other
+A/arctic-fox/Finland/736/2023|EPI_ISL_18290473	2023-08-07	Finland	other
+A/wild_bird/Gambia/23_198_TJ006_23VIR5825-6/2023|EPI_ISL_18127711	2023-04-01	Gambia	other
+A/gull/Mari_El/340-1V/2023|EPI_ISL_17995856	2023-05-02	Russian Federation	other
+A/mink/Finland/3076/2023|EPI_ISL_18618701	2023-09-20	Finland	other
+A/mink/Finland/735/2023|EPI_ISL_18290480	2023-08-07	Finland	other
+A/black-headed_gull/Finland/7898_23VIR6803-16/2023|EPI_ISL_18011230	2023-07-11	Finland	other
+A/Black-legged_kittiwake/Norway/2023-07-1884/2023|EPI_ISL_18963381	2023-08-10	Norway	other
+A/Peregrine_Falcon/England/260225/2023|EPI_ISL_17831134	2023-05-17	United Kingdom	other
+A/arctic-fox/Finland/674/2023|EPI_ISL_18290472	2023-08-01	Finland	other
+A/gull/Udmurtia/342-5V/2023|EPI_ISL_17995864	2023-05-08	Russian Federation	other
+A/turkey/Czech_Republic/7124-1/2023|EPI_ISL_17716822	2023-05-05	Czech Republic	other
+A/gull/Udmurtia/342-4V/2023|EPI_ISL_17995863	2023-05-08	Russian Federation	other
+A/Pheasant/Scotland/107872/2023|EPI_ISL_18258049	2023-08-17	United Kingdom	other
+A/chicken/Kaliningrad/333-2V/2023|EPI_ISL_17995855	2023-04-12	Russian Federation	other
+A/arctic-fox/Finland/578/2023|EPI_ISL_18290470	2023-07-18	Finland	other
+A/Pheasant/Scotland/107797/2023|EPI_ISL_18258048	2023-08-14	United Kingdom	other
+A/black-headed_gull/Italy/23VIR1099-4/2023|EPI_ISL_16979821	2023-02-03	Italy	other
+A/gull/Udmurtia/342-8V/2023|EPI_ISL_17995866	2023-05-08	Russian Federation	other
+A/gull/Udmurtia/342-7V/2023|EPI_ISL_17995865	2023-05-08	Russian Federation	other
+A/Black-legged_kittiwake/Norway/2023-07-1332-2-s/2023|EPI_ISL_18963374	2023-07-05	Norway	other
+A/arctic-fox/Finland/783/2023|EPI_ISL_18290474	2023-08-08	Finland	other
+A/black-headed_gull/Leningrad_region/RII-WD263M/2023|EPI_ISL_18094395	2023-07-28	Russian Federation	other
+A/black-headed_gull/Czech_Republic/6633-1/2023|EPI_ISL_17716814	2023-04-24	Czech Republic	other
+A/arctic-fox/Finland/1086/2023|EPI_ISL_18290476	2023-08-09	Finland	other
+A/gull/Netherlands/22012799-003/2022|EPI_ISL_14751462	2022-07-24	Netherlands	other
+A/mediterranean_gull/Italy/23VIR5981-3/2023|EPI_ISL_17996139	2023-06-23	Italy	other
+A/black-headed_gull/Czech_Republic/6634-2/2023|EPI_ISL_17650917	2023-04-24	Czech Republic	other
+A/black-headed_gull/Finland/7896_23VIR6803-14/2023|EPI_ISL_18011228	2023-07-11	Finland	other
+A/gull/Mari_El/354-9V/2023|EPI_ISL_17995888	2023-05-19	Russian Federation	other
+A/gull/Mari_El/345-7V/2023|EPI_ISL_17995868	2023-05-18	Russian Federation	other
+A/herring_gull/Finland/10450/2023|EPI_ISL_18290495	2023-08-29	Finland	other
+A/arctic-fox/Finland/738/2023|EPI_ISL_18290481	2023-08-07	Finland	other
+A/wild_bird/Gambia/23_198_TJ007_23VIR5825-7/2023|EPI_ISL_18127712	2023-04-01	Gambia	other
+A/peregrine_falcon/Czech_Republic/7459-2/2023|EPI_ISL_17716827	2023-05-15	Czech Republic	other
+A/black-headed_gull/Czech_Republic/6634-5/2023|EPI_ISL_17650920	2023-05-02	Czech Republic	other
+A/mink/Finland/3081/2023|EPI_ISL_18618766	2023-09-20	Finland	other
+A/chicken/Kaliningrad/333-1V/2023|EPI_ISL_17995854	2023-04-12	Russian Federation	other
+A/gull/Kaluga/344-1V/2023|EPI_ISL_17995886	2023-05-16	Russian Federation	other
+A/gull/Kaluga/344-1V/2023|EPI_ISL_17995867	2023-05-16	Russian Federation	other
+A/black-headed_gull/Leningrad_region/RII-WD244M/2023|EPI_ISL_18094394	2023-07-27	Russian Federation	other
+A/gull/Mari_El/345-4V/2023|EPI_ISL_17995873	2023-05-18	Russian Federation	other
+A/gull/Udmurtia/342-1V/2023|EPI_ISL_17995861	2023-05-08	Russian Federation	other
+A/black-headed_gull/Sweden/SVA230621SZ0030/FB002055/H-2023|EPI_ISL_18257885	2023-06-16	Sweden	other
+A/sandwich_tern/Italy/23VIR5984/2023|EPI_ISL_17996136	2023-06-23	Italy	other
+A/mink/Finland/1003/2023|EPI_ISL_18290468	2023-07-03	Finland	other
+A/black-headed_gull/Czech_Republic/6947-3/2023|EPI_ISL_17716818	2023-05-03	Czech Republic	other
+A/arctic-fox/Finland/752/2023|EPI_ISL_18618528	2023-08-07	Finland	other
+A/black-headed_gull/Finland/7895_23VIR6803-13/2023|EPI_ISL_18011227	2023-07-11	Finland	other
+A/Black-legged_kittiwake/Norway/2023-07-2475-4/2023|EPI_ISL_18963390	2023-09-18	Norway	other
+A/Buteo_buteo/Belgium/00815_0002/2023|EPI_ISL_18043919	2023-01-21	Belgium	Belgium
+A/lesser_black-backed_gull/Netherlands/22012469-002/2022|EPI_ISL_14751463	2022-07-14	Netherlands	other
+A/arctic-fox/Finland/1908/2023|EPI_ISL_18290489	2023-08-21	Finland	other
+A/arctic-fox/Finland/673/2023|EPI_ISL_18290471	2023-08-01	Finland	other
+A/Black-legged_kittiwake/Norway/2023-07-2475-1/2023|EPI_ISL_18963387	2023-09-18	Norway	other
+A/black-headed_gull/Czech_Republic/6634-4/2023|EPI_ISL_17650919	2023-04-24	Czech Republic	other
+A/domestic_duck/England/049343/2023|EPI_ISL_17521022	2023-03-30	United Kingdom	other
+A/gull/Komi/353-3V/2023|EPI_ISL_17995884	2023-05-17	Russian Federation	other
+A/black-headed_gull/Sweden/SVA230621SZ0030/FB002052/H-2023|EPI_ISL_18257965	2023-06-20	Sweden	other
+A/arctic-fox/Finland/966/2023|EPI_ISL_18290482	2023-08-10	Finland	other
+A/black-headed_gull/Wales/094394/2023|EPI_ISL_18112327	2023-07-11	United Kingdom	other
+A/gull/Germany-BY/AI04406/2023|EPI_ISL_18014044	2023-04-26	Germany	other
+A/black-legged_kittiwake/Finland/11344/2023|EPI_ISL_18521399	2023-09-24	Finland	other
+A/pheasant/Scotland/106271/2023|EPI_ISL_18209367	2023-08-13	United Kingdom	other
+A/kittiwake/Scotland/091757/2023|EPI_ISL_18112336	2023-06-30	United Kingdom	other
+A/Peregrine_Falcon/England/261694/2023|EPI_ISL_18325133	2023-07-25	United Kingdom	other
+A/black-headed_gull/England/402114/2023|EPI_ISL_18112335	2023-07-09	United Kingdom	other
+A/Common_Tern/England/330798/2023|EPI_ISL_18325125	2023-07-14	United Kingdom	other
+A/Herring_Gull/England/331010/2023|EPI_ISL_18325127	2023-07-14	United Kingdom	other
+A/chicken/Scotland/103894/2023|EPI_ISL_18209359	2023-08-07	United Kingdom	other
+A/Guillemot/Wales/402696/2023|EPI_ISL_18325140	2023-07-31	United Kingdom	other
+A/black-headed_gull/England/354816/2023|EPI_ISL_18112334	2023-07-11	United Kingdom	other
+A/gull/Germany-NW/AI02594/2023|EPI_ISL_18013429	2023-03-13	Germany	other
+A/Chicken/Norway/2023-07-2939-1/2023|EPI_ISL_18963392	2023-10-06	Norway	other
+A/pheasant/Scotland/103940/2023|EPI_ISL_18209360	2023-08-07	United Kingdom	other
+A/pheasant/Scotland/103986/2023|EPI_ISL_18209361	2023-08-07	United Kingdom	other
+A/kittiwake/Scotland/092365/2023|EPI_ISL_18112325	2023-07-04	United Kingdom	other
+A/Guillemot/Wales/402680/2023|EPI_ISL_18325138	2023-07-31	United Kingdom	other
+A/pheasant/Scotland/106215/2023|EPI_ISL_18209366	2023-08-13	United Kingdom	other
+A/kittiwake/England/330253/2023|EPI_ISL_18112333	2023-07-08	United Kingdom	other
+A/Black-legged_kittiwake/Norway/2023-07-2304-1/2023|EPI_ISL_18963410	2023-09-11	Norway	other
+A/Razorbill/Scotland/098652/2023|EPI_ISL_18325123	2023-07-21	United Kingdom	other
+A/common_gull/Northern_Ireland/23002/2023|EPI_ISL_18226741	2023-07-26	United Kingdom	other
+A/red_fox/Northern_Ireland/22185/2023|EPI_ISL_18226743	2023-07-26	United Kingdom	other
+A/hen/Ireland/031341_22VIR12757-6/2022|EPI_ISL_20077609	2022-10-12	Ireland	other
+A/European_Herring_Gull/Netherlands/23013704-002/2023|EPI_ISL_18373694	2023-08-25	Netherlands	other
+A/Kittiwake/England/331460/2023|EPI_ISL_18325131	2023-07-28	United Kingdom	other
+A/pheasant/Scotland/106145/2023|EPI_ISL_18209364	2023-08-08	United Kingdom	other
+A/red_fox/Northern_Ireland/22191/2023|EPI_ISL_18226744	2023-07-26	United Kingdom	other
+A/Little_Tern/England/402285/2023|EPI_ISL_18325135	2023-07-13	United Kingdom	other
+A/duck/Ireland/031951_22VIR12757-7/2022|EPI_ISL_20077610	2022-10-17	Ireland	other
+A/pheasant/Scotland/106109/2023|EPI_ISL_18209363	2023-08-08	United Kingdom	other
+A/European_herring_gull/Germany-MV/AI03502/2023|EPI_ISL_18013423	2023-04-04	Germany	other
+A/Sandwich_tern/Netherlands/17/2023|EPI_ISL_18882069	2023-07-04	Netherlands	other
+A/Sandwich_tern/Netherlands/16/2023|EPI_ISL_18882016	2023-06-22	Netherlands	other
+A/common_gull/Northern_Ireland/23006/2023|EPI_ISL_18226742	2023-07-26	United Kingdom	other
+A/kittiwake/Scotland/095368/2023|EPI_ISL_18112330	2023-07-12	United Kingdom	other
+A/chicken/Scotland/119223/2023|EPI_ISL_18439561	2023-09-24	United Kingdom	other
+A/common_tern/Germany-SH/2023AI05269/2023|EPI_ISL_18013308	2023-06-02	Germany	other
+A/little_tern/England/093351/2023|EPI_ISL_18112326	2023-07-11	United Kingdom	other
+A/chicken/Scotland/115515/2023|EPI_ISL_18439558	2023-09-13	United Kingdom	other
+A/chicken/Italy/23VIR3799-1/2023|EPI_ISL_19767156	2023-04-24	Italy	other
+A/black-headed_gull/Germany-NW/2023AI04982/2023|EPI_ISL_18013311	2023-06-01	Germany	other
+A/herring_gull/Scotland/095035/2023|EPI_ISL_18112329	2023-07-11	United Kingdom	other
+A/black-headed_gull/Germany-ST/AI04420/2023|EPI_ISL_18013415	2023-04-28	Germany	other
+A/chicken/Scotland/104282/2023|EPI_ISL_18209362	2023-08-08	United Kingdom	other
+A/Kittiwake/England/331378/2023|EPI_ISL_18325128	2023-07-27	United Kingdom	other
+A/pheasant/Scotland/106285/2023|EPI_ISL_18209368	2023-08-13	United Kingdom	other
+A/chicken/Scotland/103890/2023|EPI_ISL_18209369	2023-08-07	United Kingdom	other
+A/Ichtyaetus_melanocephalus/Belgium/06376_0006/2023|EPI_ISL_18439513	2023-06-30	Belgium	Belgium
+A/black-headed_gull/Germany-BW/AI04476/2023|EPI_ISL_18014047	2023-05-04	Germany	other
+A/black-headed_gull/Germany-ST/AI04480/2023|EPI_ISL_18013413	2023-05-05	Germany	other
+A/Black-headed_Gull/Netherlands/23013985-002/2023|EPI_ISL_18373695	2023-08-29	Netherlands	other
+A/black-headed_gull/Germany-BW/AI04471/2023|EPI_ISL_18014040	2023-05-04	Germany	other
+A/chicken/Scotland/115517/2023|EPI_ISL_18439559	2023-09-13	United Kingdom	other
+A/chicken/Scotland/119215/2023|EPI_ISL_18439560	2023-09-24	United Kingdom	other
+A/gull/Germany-SN/AI04284/2023|EPI_ISL_18013305	2023-04-25	Germany	other
+A/gull/Germany-SH/AI03159/2023|EPI_ISL_18013426	2023-03-22	Germany	other
+A/european_herring_gull/Leningrad_region/RII-WD392S/2023|EPI_ISL_18161267	2023-08-14	Russian Federation	other
+A/Guillemot/Wales/402694/2023|EPI_ISL_18325139	2023-07-31	United Kingdom	other
+A/Arctic_Tern/England/402279/2023|EPI_ISL_18325134	2023-07-13	United Kingdom	other
+A/Kittiwake/England/331450/2023|EPI_ISL_18325130	2023-07-28	United Kingdom	other
+A/black-headed_gull/Germany-NW/AI04301/2023|EPI_ISL_18013416	2023-04-19	Germany	other
+A/Curlew/Scotland/097010/2023|EPI_ISL_18325122	2023-07-20	United Kingdom	other
+A/gull/Scotland/094785/2023|EPI_ISL_18112328	2023-07-13	United Kingdom	other
+A/pheasant/Scotland/106191/2023|EPI_ISL_18209365	2023-08-13	United Kingdom	other
+A/Guillemot/Scotland/096069/2023|EPI_ISL_18325141	2023-07-12	United Kingdom	other
+A/Black-legged_kittiwake/Norway/2023-07-650-3/2023|EPI_ISL_18963397	2023-05-23	Norway	other
+A/chicken/Jersey/095599/2023|EPI_ISL_18112332	2023-07-17	Jersey	other
+A/Kittiwake/England/331380/2023|EPI_ISL_18325129	2023-07-27	United Kingdom	other
+A/european_herring_gull/Leningrad_region/RII-WD404/2023|EPI_ISL_18422467	2023-08-14	Russian Federation	other
+A/Chicken/Norway/2023-07-3049-1/2023|EPI_ISL_18963393	2023-10-09	Norway	other
+A/black-headed_gull/Germany-NW/AI04300/2023|EPI_ISL_18014043	2023-04-19	Germany	other
+A/european_herring_gull/Leningrad_region/RII-WD567/2023|EPI_ISL_18422469	2023-09-08	Russian Federation	other
+A/common_murre/Germany-SH/2023AI04976/2023|EPI_ISL_18013313	2023-06-02	Germany	other
+A/chicken/Scotland/115450/2023|EPI_ISL_18439582	2023-09-13	United Kingdom	other
+A/Sparrowhawk/Scotland/131359/2023|EPI_ISL_18538409	2023-10-25	United Kingdom	other
+A/chicken/Jersey/095598/2023|EPI_ISL_18112331	2023-07-17	Jersey	other
+A/chicken/Scotland/115458/2023|EPI_ISL_18439557	2023-09-13	United Kingdom	other
+A/Peregrine_falcon/England/261690/2023|EPI_ISL_18325132	2023-07-25	United Kingdom	other
+A/Common_Tern/England/330853/2023|EPI_ISL_18325126	2023-07-18	United Kingdom	other
+A/Herring_Gull/Wales/402315/2023|EPI_ISL_18325137	2023-07-19	United Kingdom	other
+A/Black_legged_kittiwake/Norway/2023-07-650-2T/2023|EPI_ISL_18455264	2023-05-23	Norway	other
+A/black-headed_gull/Germany-ST/AI04295/2023|EPI_ISL_18014042	2023-04-24	Germany	other
+A/Herring_Gull/Scotland/101845/2023|EPI_ISL_18325124	2023-07-29	United Kingdom	other
+A/common_gull/Germany-MV/2023AI05165/2023|EPI_ISL_18013310	2023-06-05	Germany	other
+A/European_Herring_Gull/Netherlands/8/2022|EPI_ISL_14163712	2022-07-07	Netherlands	other
+A/common_tern/Germany-NW/2023AI04981/2023|EPI_ISL_18013312	2023-06-01	Germany	other
+A/Vulpes_vulpes/Belgium/01924_0003/2023|EPI_ISL_17245141	2023-02-09	Belgium	Belgium
+A/Vulpes_vulpes/Belgium/01784_0004/2023|EPI_ISL_17244973	2023-02-13	Belgium	Belgium
+A/Vulpes_vulpes/Belgium/01784_0008/2023|EPI_ISL_17245098	2023-02-05	Belgium	Belgium
+A/Vulpes_vulpes/Belgium/01784_0010/2023|EPI_ISL_17245099	2023-02-20	Belgium	Belgium
+A/Eurasian_Curlew/Netherlands/2/2022|EPI_ISL_13902858	2022-07-03	Netherlands	other
+A/Black-headed_Gull/Netherlands/82/2023|EPI_ISL_17982384	2023-06-09	Netherlands	other
+A/European_herring_gull/Netherlands/1/2023|EPI_ISL_16524213	2023-01-01	Netherlands	other
+A/arctic-fox/Finland/666/2023|EPI_ISL_18292954	2023-07-31	Finland	other
+A/Sandwich_Tern/Netherlands/4/2023|EPI_ISL_17982390	2023-06-16	Netherlands	other
+A/common_tern/Czech_Republic/8807-1/2023|EPI_ISL_17884626	2023-05-05	Czech Republic	other
+A/Sandwich_Tern/Netherlands/3/2023|EPI_ISL_17982389	2023-06-09	Netherlands	other
+A/England/231990002/2023|EPI_ISL_17736649	2023-05-06	United Kingdom	other
+A/Peregrine_falcon/Netherlands/1/2023|EPI_ISL_16524247	2023-01-02	Netherlands	other
+A/mink/Finland/710/2023|EPI_ISL_18292966	2023-08-05	Finland	other
+A/common_tern/Finland/7479/2023|EPI_ISL_18292962	2023-06-25	Finland	other
+A/European_herring_gull/Netherlands/21/2022|EPI_ISL_16524248	2022-12-27	Netherlands	other
+A/mink/Finland/709/2023|EPI_ISL_18292965	2023-08-05	Finland	other
+A/arctic-fox/Finland/675/2023|EPI_ISL_18292958	2023-08-01	Finland	other
+A/raxorbill/Finland/9072/2023|EPI_ISL_18292960	2023-07-27	Finland	other
+A/lesser_black-backed_gull/Sweden/SVA230509SZ0608/FB001412/AB-2023|EPI_ISL_17785741	2023-05-08	Sweden	other
+A/mink/Spain/22VIR12774-14_3869-3/2022|EPI_ISL_16507096	2022-10-26	Spain	other
+A/mink/Finland/506/2023|EPI_ISL_18292952	2023-07-03	Finland	other
+A/black-headed_gull/Finland/6726/2023|EPI_ISL_18292961	2023-06-13	Finland	other
+A/yellow_legged_gull/Portugal/17996/15/GAAP/2022|EPI_ISL_19883454	2022-07-29	Portugal	other
+A/yellow_leggend-gull/Spain/4672-6_24VIR4860-6/2023|EPI_ISL_19210417	2023-10-16	Spain	other
+A/black-legged_kittiwake/Finland/8808/2023|EPI_ISL_18292959	2023-07-28	Finland	other
+A/European_herring_gull/Netherlands/16/2023|EPI_ISL_18490247	2023-10-17	Netherlands	other
+A/England/232780677/2023|EPI_ISL_18161874	2023-07-07	United Kingdom	other
+A/common_tern/Czech_Republic/8807-5/2023|EPI_ISL_17884628	2023-05-05	Czech Republic	other
+A/Gallus_gallus/Belgium/01434_0001/2023|EPI_ISL_17244818	2023-02-15	Belgium	Belgium
+A/Sandwich_Tern/Netherlands/7/2023|EPI_ISL_17982393	2023-06-16	Netherlands	other
+A/Sandwich_Tern/Netherlands/6/2023|EPI_ISL_17982392	2023-06-16	Netherlands	other
+A/arctic-fox/Finland/684/2023|EPI_ISL_18292963	2023-08-04	Finland	other
+A/mink/Spain/22VIR12774-13_3869-2/2022|EPI_ISL_16507095	2022-10-26	Spain	other
+A/black-headed_gull/Finland/8257/2023|EPI_ISL_18292957	2023-07-18	Finland	other
+A/Common_Tern/Netherlands/10/2023|EPI_ISL_17982387	2023-06-09	Netherlands	other
+A/Black-headed_Gull/Netherlands/81/2023|EPI_ISL_17982383	2023-06-10	Netherlands	other
+A/Gull/Netherlands/22012656-015020/2022|EPI_ISL_14755053	2022-07-21	Netherlands	other
+A/Caspian_gull/Netherlands/1/2023|EPI_ISL_16524246	2023-01-01	Netherlands	other
+A/peregrine_falcon/Czech_Republic/8420/2023|EPI_ISL_17884625	2023-05-26	Czech Republic	other
+A/European_herring_gull/Netherlands/15/2023|EPI_ISL_17982388	2023-06-12	Netherlands	other
+A/seagull/Spain/22VIR12774-15_4347-15/2022|EPI_ISL_16507097	2022-11-17	Spain	other
+A/arctic-fox/Finland/501/2023|EPI_ISL_18292967	2023-07-10	Finland	other
+A/Sandwich_Tern/Netherlands/5/2023|EPI_ISL_17982391	2023-06-16	Netherlands	other
+A/Black-headed_gull/Netherlands/12/2022|EPI_ISL_16524203	2022-12-23	Netherlands	other
+A/arctic-fox/Finland/670/2023|EPI_ISL_18292955	2023-07-31	Finland	other
+A/black-headed_gull/Finland/8247/2023|EPI_ISL_18292956	2023-07-18	Finland	other
+A/common_tern/Czech_Republic/8807-4/2023|EPI_ISL_17884627	2023-05-05	Czech Republic	other
+A/Sterna_hirundo/Belgium/05884_0002/2023|EPI_ISL_18343464	2023-06-09	Belgium	Belgium
+A/Gallus_gallus/Belgium/02824_0001/2023|EPI_ISL_17606260	2023-03-21	Belgium	Belgium
+A/Vulpes_vulpes/Belgium/01295_0002/2023|EPI_ISL_17606263	2023-01-20	Belgium	Belgium
+A/Buteo_buteo/Zuerich/V0119/2023|EPI_ISL_19310917	2023-02-13	Switzerland	other
+A/Chroicocephalus_ridibundus/Thalwil/V0278/2023|EPI_ISL_19310910	2023-03-07	Switzerland	other
+A/common_tern/England/090570/2023|EPI_ISL_18065337	2023-06-24	United Kingdom	other
+A/Black-headed_gull/Netherlands/27/2023|EPI_ISL_17409673	2023-03-10	Netherlands	other
+A/Chroicocephalus_ridibundus/Kaeiligen/V0250/2023|EPI_ISL_19310914	2023-03-06	Switzerland	other
+A/black-headed_gull/Scotland/087339/2023|EPI_ISL_18065348	2023-06-27	United Kingdom	other
+A/European_herring_gull/Netherlands/11/2023|EPI_ISL_17409677	2023-03-27	Netherlands	other
+A/Chicken/Scotland/092731/2023|EPI_ISL_18065339	2023-07-08	United Kingdom	other
+A/Larus_ridibundus/Spain/CR4063/2023|EPI_ISL_18983379	2023-03-07	Spain	other
+A/yellow_legged-gull/Spain/4565-11_24VIR4860-5/2023|EPI_ISL_19277039	2023-10-06	Spain	other
+A/Chroicocephalus_ridibundus/Baldegg/V0270/2023|EPI_ISL_19310915	2023-03-07	Switzerland	other
+A/Chroicocephalus_ridibundus/Belgium/04326_0003/2023|EPI_ISL_18343474	2023-04-28	Belgium	Belgium
+A/common_tern/England/086637/2023|EPI_ISL_18065393	2023-06-21	United Kingdom	other
+A/Black-headed_gull/Netherlands/28/2023|EPI_ISL_17409675	2023-03-24	Netherlands	other
+A/chicken/England/089934/2023|EPI_ISL_18065336	2023-07-01	United Kingdom	other
+A/domestic_duck/England/097229/2023|EPI_ISL_18065341	2023-07-23	United Kingdom	other
+A/blue_fox/Finland/2023AI06876_071/2023|EPI_ISL_18131280	2023-08-04	Finland	other
+A/Great_black-backed_gull/Netherlands/3/2023|EPI_ISL_17409678	2023-03-27	Netherlands	other
+A/Mediterranean_Gull/Netherlands/2/2023|EPI_ISL_18064619	2023-05-12	Netherlands	other
+A/herring_gull/England/089428/2023|EPI_ISL_18065333	2023-06-29	United Kingdom	other
+A/partridge/England/097407/2023|EPI_ISL_18065343	2023-07-23	United Kingdom	other
+A/black-headed_gull/Luxembourg/23111454/2023|EPI_ISL_17672077	2023-05-12	Luxembourg	other
+A/Chroicocephalus_ridibundus/Zuerich/V0121/2023|EPI_ISL_19310907	2023-02-13	Switzerland	other
+A/black-headed_gull/Sweden/SVA230509SZ0611/FB001429/AB-2023|EPI_ISL_17786646	2023-05-08	Sweden	other
+A/Chroicocephalus_ridibundus/Yverdon-les-Bains/V0244/2023|EPI_ISL_19310908	2023-03-03	Switzerland	other
+A/herring_gull/Scotland/329444/2023|EPI_ISL_18065345	2023-06-29	United Kingdom	other
+A/Chroicocephalus_ridibundus/Stein_am_Rhein/V0245/2023|EPI_ISL_19310911	2023-03-06	Switzerland	other
+A/Chroicocephalus_ridibundus/Altnau/V0282/2023|EPI_ISL_19310916	2023-03-08	Switzerland	other
+A/Sterna_hirundo/Belgium/05889_0001/2023|EPI_ISL_18343477	2023-06-15	Belgium	Belgium
+A/gull/Spain/4953-4_24VIR4860-7/2023|EPI_ISL_19277006	2023-12-07	Spain	other
+A/kittiwake/Scotland/091080/2023|EPI_ISL_18065338	2023-06-26	United Kingdom	other
+A/peregrine_falcon/Czech_Republic/10854/2023|EPI_ISL_18048779	2023-07-17	Czech Republic	other
+A/Black-headed_Gull/Netherlands/58/2023|EPI_ISL_18064620	2023-05-12	Netherlands	other
+A/common_tern/England/353415/2023|EPI_ISL_18065347	2023-06-22	United Kingdom	other
+A/domestic_duck/England/097245/2023|EPI_ISL_18065342	2023-07-23	United Kingdom	other
+A/sandwich_tern/England/086897/2023|EPI_ISL_18065330	2023-06-20	United Kingdom	other
+A/Chroicocephalus_ridibundus/Lutry/V0268/2023|EPI_ISL_19310913	2023-03-07	Switzerland	other
+A/Chroicocephalus_ridibundus/Zug/V0211/2023|EPI_ISL_19310905	2023-02-26	Switzerland	other
+A/gull/Scotland/087342/2023|EPI_ISL_18065331	2023-06-23	United Kingdom	other
+A/red_fox/Finland/2023AI06879_074/2023|EPI_ISL_18131277	2023-08-03	Finland	other
+A/silver_fox/Finland/2023AI06834_029/2023|EPI_ISL_18131279	2023-08-04	Finland	other
+A/common_tern/Wales/089438/2023|EPI_ISL_18065334	2023-06-28	United Kingdom	other
+A/Chroicocephalus_ridibundus/Luzern/V0161/2023|EPI_ISL_19310912	2023-02-21	Switzerland	other
+A/European_herring_gull/Netherlands/10/2023|EPI_ISL_17409676	2023-03-23	Netherlands	other
+A/yellow_legged-gull/Spain/4565-9_24VIR4860-4/2023|EPI_ISL_19277038	2023-10-06	Spain	other
+A/Chroicocephalus_ridibundus/Vevey/V0254/2023|EPI_ISL_19310909	2023-03-06	Switzerland	other
+A/partridge/England/097413/2023|EPI_ISL_18065344	2023-07-23	United Kingdom	other
+A/Eurasian_Eagle-Owl/Netherlands/23009501-002/2023|EPI_ISL_18048778	2023-05-29	Netherlands	other
+A/blue_fox/Finland/2023AI06820_015/2023|EPI_ISL_18131276	2023-08-03	Finland	other
+A/sandwich_tern/England/086895/2023|EPI_ISL_18065329	2023-06-20	United Kingdom	other
+A/chicken/England/089930/2023|EPI_ISL_18065335	2023-07-01	United Kingdom	other
+A/common_gull/England/127517/2023|EPI_ISL_18065346	2023-06-29	United Kingdom	other
+A/Black-headed_Gull/Netherlands/56/2023|EPI_ISL_18064618	2023-05-12	Netherlands	other
+A/Black-headed_Gull/Netherlands/57/2023|EPI_ISL_18064622	2023-05-12	Netherlands	other
+A/Chicken/Netherlands/23011978-001005/2023|EPI_ISL_18048777	2023-07-24	Netherlands	other
+A/domestic_duck/England/097209/2023|EPI_ISL_18065340	2023-07-23	United Kingdom	other
+A/silver_fox/Finland/2023AI06838_033/2023|EPI_ISL_18131278	2023-08-03	Finland	other
+A/chicken/Isle_of_Man/172945/2022|EPI_ISL_16574529	2022-12-26	Isle of Man	other
+A/herring_gull/England/089426/2023|EPI_ISL_18065332	2023-06-29	United Kingdom	other
+A/Columba_palumbus/Belgium/04695_0003/2023|EPI_ISL_18343463	2023-05-07	Belgium	Belgium
+A/gull/Murmansk/385-5V/2023|EPI_ISL_18525108	2023-07-04	Russian Federation	other
+A/Numenius_arquata/Belgium/01456_0003/2023|EPI_ISL_17606759	2023-02-12	Belgium	Belgium
+A/Vulpes_vulpes/Belgium/02359_0002/2023|EPI_ISL_17606755	2023-02-28	Belgium	Belgium
+A/Vulpes_vulpes/Belgium/03117_0004/2023|EPI_ISL_17606758	2023-03-20	Belgium	Belgium
+A/Gallus_gallus/Belgium/9548_0001/2022|EPI_ISL_14494933	2022-08-01	Belgium	Belgium
+A/Chroicocephalus_ridibundus/Belgium/00132_0002/2022|EPI_ISL_16984685	2022-12-23	Belgium	Belgium
+A/Vulpes_vulpes/Belgium/03117_0001/2023|EPI_ISL_17606757	2023-03-14	Belgium	Belgium
+A/Vulpes_vulpes/Belgium/02359_0006/2023|EPI_ISL_17606756	2023-03-06	Belgium	Belgium
+A/common_tern/Latvia/26493-1_23VIR8835-10/2023|EPI_ISL_18509065	2023-05-19	Latvia	other
+A/Black-headed_Gull/Netherlands/80/2023|EPI_ISL_17821065	2023-05-24	Netherlands	other
+A/Caspian_gull/Netherlands/3/2023|EPI_ISL_17821067	2023-06-02	Netherlands	other
+A/chicken/Tatarstan/403-3V/2023|EPI_ISL_18525118	2023-08-26	Russian Federation	other
+A/black-headed_gull/Poland/MB237-T3/2023|EPI_ISL_18033241	2023-05-30	Poland	other
+A/Eurasian_oystercatcher/Sweden/SVA230523SZ0440/FB1741/AB-2023|EPI_ISL_17787131	2023-05-22	Sweden	other
+A/black-headed_gull/Latvia/29104-4_23VIR8835-4/2023|EPI_ISL_18509074	2023-05-05	Latvia	other
+A/gull/Perm/382-2V/2023|EPI_ISL_18525101	2023-06-29	Russian Federation	other
+A/chicken/Komi/24-3V/2023|EPI_ISL_18525097	2023-10-09	Russian Federation	other
+A/black-headed_gull/Sweden/SVA230512SZ0306/FB001617/AB-2023|EPI_ISL_17787071	2023-05-11	Sweden	other
+A/chicken/Tatarstan/403-1V/2023|EPI_ISL_18525117	2023-08-26	Russian Federation	other
+A/Anser_anser/Belgium/00286_0004/2023|EPI_ISL_16984642	2023-01-02	Belgium	Belgium
+A/gull/Mari_El/345-5V/2023|EPI_ISL_18525123	2023-05-18	Russian Federation	other
+A/chicken/Vologda/390-5V/2023|EPI_ISL_18525113	2023-07-26	Russian Federation	other
+A/black-headed_gull/Latvia/28923_23VIR8835-7/2023|EPI_ISL_18509077	2023-05-12	Latvia	other
+A/black-headed_gull/Poland/MB150/2023|EPI_ISL_18033214	2023-04-27	Poland	other
+A/chicken/Komi/24-3V/2023|EPI_ISL_18525096	2023-10-09	Russian Federation	other
+A/black-headed_gull/Poland/MB166/2023|EPI_ISL_18033219	2023-05-05	Poland	other
+A/Common_Tern/Netherlands/3/2023|EPI_ISL_17821069	2023-05-26	Netherlands	other
+A/black-headed_gull/Poland/MB146-1/2023|EPI_ISL_18033209	2023-04-24	Poland	other
+A/black-headed_gull/Poland/MB181-6/2023|EPI_ISL_18033225	2023-05-10	Poland	other
+A/chicken/Bashkortostan/395-1V/2023|EPI_ISL_18525095	2023-08-12	Russian Federation	other
+A/black-headed_gull/England/257241/2023|EPI_ISL_17214733	2023-02-07	United Kingdom	other
+A/chicken/Komi/10-2V/2023|EPI_ISL_18525094	2023-10-02	Russian Federation	other
+A/black-headed_gull/Poland/MB151/2023|EPI_ISL_18033215	2023-04-30	Poland	other
+A/chicken/Vologda/390-4V/2023|EPI_ISL_18525112	2023-07-26	Russian Federation	other
+A/black-headed_gull/Poland/MB198-NJ/2023|EPI_ISL_18033229	2023-05-11	Poland	other
+A/Chroicocephalus_ridibundus/Belgium/00226_0001/2023|EPI_ISL_16984863	2023-01-02	Belgium	Belgium
+A/Caspian_gull/Netherlands/2/2023|EPI_ISL_17821066	2023-06-02	Netherlands	other
+A/black_headed_gull/Poland/MB142-T/2023|EPI_ISL_18033206	2023-04-20	Poland	other
+A/Black-headed_Gull/Netherlands/77/2023|EPI_ISL_17821062	2023-02-11	Netherlands	other
+A/black_headed_gull/Poland/MB143-M1/2023|EPI_ISL_18033207	2023-04-21	Poland	other
+A/black-headed_gull/Poland/MB159/2023|EPI_ISL_18033218	2023-05-01	Poland	other
+A/Larus_argentatus/Belgium/9013_0001/2022|EPI_ISL_14494351	2022-07-08	Belgium	Belgium
+A/Gallus_gallus/Belgium/14828_0003/2022|EPI_ISL_17606778	2022-12-27	Belgium	Belgium
+A/black-headed_gull/Poland/MB185-NJ/2023|EPI_ISL_18033227	2023-05-10	Poland	other
+A/chicken/Vologda/390-6V/2023|EPI_ISL_18525114	2023-07-26	Russian Federation	other
+A/chicken/Komi/24-4V/2023|EPI_ISL_18525098	2023-10-09	Russian Federation	other
+A/herring_gull/Latvia/34644_23VIR8835-14/2023|EPI_ISL_18509067	2023-05-29	Latvia	other
+A/gull/Murmansk/388-12V/2023|EPI_ISL_18525110	2023-07-04	Russian Federation	other
+A/white_stork/Poland/MB274-M3/2023|EPI_ISL_18033420	2023-07-07	Poland	other
+A/chicken/Komi/402-8V/2023|EPI_ISL_18525116	2023-08-21	Russian Federation	other
+A/gull/Murmansk/385-11V/2023|EPI_ISL_18525109	2023-07-04	Russian Federation	other
+A/black-headed_gull/Poland/MB238-m1-2/2023|EPI_ISL_18033239	2023-05-31	Poland	other
+A/black-headed_gull/Poland/MB196-NJ/2023|EPI_ISL_18033228	2023-05-11	Poland	other
+A/black-headed_gull/Poland/MB145/2023|EPI_ISL_18033208	2023-04-25	Poland	other
+A/fox/Latvia/34393_23VIR8835-1/2023|EPI_ISL_18509071	2023-05-25	Latvia	other
+A/herring_gull/Latvia/27049-2_23VIR8835-8/2023|EPI_ISL_18509078	2023-05-15	Latvia	other
+A/black-headed_gull/Poland/MB156/2023|EPI_ISL_18033217	2023-05-02	Poland	other
+A/chicken/Komi/3-1V/2023|EPI_ISL_18525093	2023-09-21	Russian Federation	other
+A/Common_Tern/Netherlands/4/2023|EPI_ISL_17821070	2023-05-26	Netherlands	other
+A/Black-headed_Gull/Netherlands/78/2023|EPI_ISL_17821063	2023-06-01	Netherlands	other
+A/black-headed_gull/Leningrad_region/RII-WD329S/2023|EPI_ISL_18115436	2023-08-02	Russian Federation	other
+A/chicken/Tatarstan/403-10V/2023|EPI_ISL_18525121	2023-08-26	Russian Federation	other
+A/black-headed_gull/Poland/MB131-J/2023|EPI_ISL_18033204	2023-03-23	Poland	other
+A/black-headed_gull/Poland/MB152/2023|EPI_ISL_18033216	2023-04-28	Poland	other
+A/chicken/Vologda/390-2V/2023|EPI_ISL_18525111	2023-07-26	Russian Federation	other
+A/black-headed_gull_/Sweden/SVA230424SZ0189/FB1178/AB-2023|EPI_ISL_17672954	2023-04-24	Sweden	other
+A/black-headed_gull/Leningrad_region/RII-WD319M/2023|EPI_ISL_18115435	2023-08-02	Russian Federation	other
+A/gull/Perm/382-1V/2023|EPI_ISL_18525100	2023-06-29	Russian Federation	other
+A/black-headed_gull/Sweden/SVA230529SZ0305/FB001827/AB-2023|EPI_ISL_17787586	2023-05-29	Sweden	other
+A/black-headed_gull/Poland/MB210/2023|EPI_ISL_18033233	2023-05-16	Poland	other
+A/great_crested_grebe/Latvia/31759_23VIR8835-9/2023|EPI_ISL_18509079	2023-05-18	Latvia	other
+A/black-headed_gull/Poland/MB180-NMJ/2023|EPI_ISL_18033223	2023-05-09	Poland	other
+A/Black-headed_Gull/Netherlands/79/2023|EPI_ISL_17821064	2023-05-24	Netherlands	other
+A/black-headed_gull/Poland/MB121-M/2023|EPI_ISL_18033200	2023-03-13	Poland	other
+A/black-headed_gull/Poland/MB211/2023|EPI_ISL_18033234	2023-05-14	Poland	other
+A/gull/Udmurtia/383-18V/2023|EPI_ISL_18525102	2023-06-28	Russian Federation	other
+A/Black-legged_Kittiwake/Iceland/2024AI04836/2023|EPI_ISL_19704704	2023-07-08	Iceland	other
+A/black-headed_gull/Poland/MB081/2023|EPI_ISL_18033185	2023-02-07	Poland	other
+A/Eurasian_oystercatcher/Sweden/SVA230523SZ0440/FB1740/AB-2023|EPI_ISL_17787130	2023-05-22	Sweden	other
+A/peregrine_falcon/Sweden/SVA230523SZ0426/FB001739/M-2023|EPI_ISL_17787128	2023-05-06	Sweden	other
+A/oyster_catcher/Poland/MB167/2023|EPI_ISL_18033220	2023-05-08	Poland	other
+A/Common_tern/Luxembourg/23109715/2023|EPI_ISL_17656637	2023-05-10	Luxembourg	other
+A/black-headed_gull/Latvia/34869-1_23VIR8835-15/2023|EPI_ISL_18509068	2023-05-29	Latvia	other
+A/common_buzzard/Sweden/SVA230525SZ0468/FB001790/AB-2023|EPI_ISL_17787584	2023-05-25	Sweden	other
+A/chicken/Tatarstan/403-6V/2023|EPI_ISL_18525119	2023-08-26	Russian Federation	other
+A/Larus_argentatus/Belgium/08182_0012/2022|EPI_ISL_17606776	2022-06-17	Belgium	Belgium
+A/black-headed_gull/Leningrad_region/RII-WD300S/2023|EPI_ISL_18115433	2023-08-02	Russian Federation	other
+A/black-headed_gull/Poland/MB168-M2/2023|EPI_ISL_18033221	2023-05-05	Poland	other
+A/white_stork/Poland/MB274-M2/2023|EPI_ISL_18033419	2023-07-07	Poland	other
+A/chicken/Komi/24-5V/2023|EPI_ISL_18525099	2023-10-09	Russian Federation	other
+A/chicken/Poland/H282-T/2023|EPI_ISL_18033421	2023-06-28	Poland	other
+A/black-headed_gull/Latvia/29912-5_23VIR8835-5/2023|EPI_ISL_18509075	2023-05-09	Latvia	other
+A/black-headed_gull/Poland/MB221-TKLM/2023|EPI_ISL_18033238	2023-05-17	Poland	other
+A/gull/Udmurtia/383-19V/2023|EPI_ISL_18525103	2023-06-28	Russian Federation	other
+A/black-headed_gull/Poland/MB176-M6/2023|EPI_ISL_18033222	2023-05-05	Poland	other
+A/black-headed_gull/Poland/MB148/2023|EPI_ISL_18033212	2023-04-23	Poland	other
+A/black-headed_gull_/Sweden/SVA230424SZ0189/FB1181/AB-2023|EPI_ISL_17673036	2023-04-24	Sweden	other
+A/Eurasian_magpie/Sweden/SVA230529SZ0212/FB001803/AB-2023|EPI_ISL_17787585	2023-05-24	Sweden	other
+A/black-headed_gull/Poland/MB146-4/2023|EPI_ISL_18033210	2023-04-24	Poland	other
+A/Black-headed_Gull/Netherlands/71/2023|EPI_ISL_17821042	2023-05-22	Netherlands	other
+A/Mediterranean_gull/Poland/MB204/2023|EPI_ISL_18033231	2023-05-08	Poland	other
+A/black-headed_gull/Poland/MB181-4/2023|EPI_ISL_18033224	2023-05-10	Poland	other
+A/black-headed_gull/Poland/MB238-m3/2023|EPI_ISL_18033242	2023-05-31	Poland	other
+A/bald_eagle/Poland/MB218-NJM/2023|EPI_ISL_18033237	2023-05-18	Poland	other
+A/chicken/Tatarstan/403-8V/2023|EPI_ISL_18525120	2023-08-26	Russian Federation	other
+A/black-headed_gull/Poland/MB141-T/2023|EPI_ISL_18033205	2023-04-20	Poland	other
+A/common_tern/Poland/MB182-NJ/2023|EPI_ISL_18033226	2023-05-10	Poland	other
+A/mute_swan/Poland/MB203-NJ/2023|EPI_ISL_18033230	2023-05-11	Poland	other
+A/Common_Tern/Netherlands/5/2023|EPI_ISL_17821071	2023-05-28	Netherlands	other
+A/black-headed_gull/Latvia/27845_23VIR8835-6/2023|EPI_ISL_18509076	2023-05-12	Latvia	other
+A/common_tern/Poland/MB247-5/2023|EPI_ISL_18033235	2023-05-30	Poland	other
+A/chicken/Komi/402-7V/2023|EPI_ISL_18525115	2023-08-21	Russian Federation	other
+A/black-headed_gull/Poland/MB129-NJ/2023|EPI_ISL_18033203	2023-03-22	Poland	other
+A/white_mink/Finland/UH-357-E1/2023|EPI_ISL_18771244	2023-10-17	Finland	other
+A/white_mink/Finland/UH-361-E1/2023|EPI_ISL_18771245	2023-10-17	Finland	other
+A/black-headed_gull/Poland/MB147/2023|EPI_ISL_18033211	2023-04-24	Poland	other
+A/great_black-backed_gull/Latvia/37618_23VIR8835-16/2023|EPI_ISL_18509069	2023-06-09	Latvia	other
+A/black-headed_gull/Poland/MB149/2023|EPI_ISL_18033213	2023-04-28	Poland	other
+A/Black-headed_Gull/Italy/23VIR1101-4/2023|EPI_ISL_20082078	2023-01-29	Italy	other
+A/Laying_hen/Italy/23VIR3021-13/2023|EPI_ISL_20082089	2023-04-02	Italy	other
+A/chicken/Scotland/110512/2023|EPI_ISL_18378730	2023-08-05	United Kingdom	other
+A/Black-headed_Gull/Italy/23VIR3013-3/2023|EPI_ISL_20082091	2023-03-24	Italy	other
+A/Eurasian_Oystercatcher/Italy/23VIR2984-2/2023|EPI_ISL_20082082	2023-03-20	Italy	other
+A/Chicken/Scotland/109635/2023|EPI_ISL_18378729	2023-08-20	United Kingdom	other
+A/Black-headed_Gull/Italy/23VIR2983-2/2023|EPI_ISL_20082092	2023-03-15	Italy	other
+A/Black-headed_Gull/Italy/23VIR1206-2/2023|EPI_ISL_20082088	2023-02-05	Italy	other
+A/Black-headed_Gull/Netherlands/97/2023|EPI_ISL_17985407	2023-06-20	Netherlands	other
+A/layer/Italy/23VIR3658-2/2023|EPI_ISL_18067225	2023-04-17	Italy	other
+A/Sandwich_Tern/Netherlands/2/2023|EPI_ISL_17821079	2023-05-24	Netherlands	other
+A/Mediterranean_Gull/Netherlands/4/2023|EPI_ISL_17821078	2023-05-26	Netherlands	other
+A/Black-headed_Gull/Netherlands/92/2023|EPI_ISL_17985402	2023-06-16	Netherlands	other
+A/Peregrin_Falcon/Italy/23VIR3236-1/2023|EPI_ISL_20082076	2023-02-25	Italy	other
+A/Black-headed_Gull/Italy/23VIR2052-4/2023|EPI_ISL_20082079	2023-03-14	Italy	other
+A/Black-headed_Gull/Netherlands/74/2023|EPI_ISL_17821059	2023-05-28	Netherlands	other
+A/Black-headed_Gull/Netherlands/87/2023|EPI_ISL_17985398	2023-06-16	Netherlands	other
+A/Vulpes_vulpes/Belgium/9031_0008/2022|EPI_ISL_14494796	2022-06-16	Belgium	Belgium
+A/Common_Tern/Netherlands/12/2023|EPI_ISL_17985409	2023-06-20	Netherlands	other
+A/Black-headed_Gull/Netherlands/94/2023|EPI_ISL_17985404	2023-06-18	Netherlands	other
+A/Common_Tern/Netherlands/9/2023|EPI_ISL_17821075	2023-06-02	Netherlands	other
+A/Black-headed_Gull/Netherlands/88/2023|EPI_ISL_17985399	2023-06-16	Netherlands	other
+A/Black-headed_Gull/Italy/23VIR1517-1/2023|EPI_ISL_20082093	2023-02-28	Italy	other
+A/Black-headed_Gull/Netherlands/86/2023|EPI_ISL_17985397	2023-06-16	Netherlands	other
+A/Black-headed_Gull/Netherlands/96/2023|EPI_ISL_17985406	2023-06-20	Netherlands	other
+A/Meleagris_gallopavo/Belgium/14826_0002/2022|EPI_ISL_16985112	2022-12-24	Belgium	Belgium
+A/Black-headed_gull/Netherlands/5/2023|EPI_ISL_18067125	2023-02-08	Netherlands	other
+A/Common_Tern/Netherlands/7/2023|EPI_ISL_17821073	2023-06-03	Netherlands	other
+A/Black-headed_Gull/Netherlands/85/2023|EPI_ISL_17985396	2023-06-16	Netherlands	other
+A/Common_Tern/Netherlands/13/2023|EPI_ISL_17985410	2023-06-21	Netherlands	other
+A/Chicken/Scotland/109598/2023|EPI_ISL_18378728	2023-08-20	United Kingdom	other
+A/Mediterranean_Gull/Netherlands/5/2023|EPI_ISL_17985411	2023-06-20	Netherlands	other
+A/Black-headed_Gull/Italy/23VIR1369-1/2023|EPI_ISL_20082081	2023-02-14	Italy	other
+A/Pheasant/England/114047/2023|EPI_ISL_18378732	2023-09-07	United Kingdom	other
+A/Black-headed_Gull/Italy/23VIR7586-2/2023|EPI_ISL_20082067	2023-07-25	Italy	other
+A/Black-headed_Gull/Netherlands/95/2023|EPI_ISL_17985405	2023-06-18	Netherlands	other
+A/black-headed_gull/Finland/8599/2023|EPI_ISL_18755127	2023-07-20	Finland	other
+A/Pheasant/England/114017/2023|EPI_ISL_18378731	2023-09-07	United Kingdom	other
+A/mink/Finland/3080/2023|EPI_ISL_18755129	2023-09-20	Finland	other
+A/Black-headed_Gull/Netherlands/76/2023|EPI_ISL_17821061	2023-06-02	Netherlands	other
+A/chicken/England/062635/2023|EPI_ISL_17657734	2023-04-28	United Kingdom	other
+A/Black-headed_Gull/Italy/23VIR2201-2/2023|EPI_ISL_20082086	2023-02-23	Italy	other
+A/white_mink/Finland/UH-353-E1/2023|EPI_ISL_18771178	2023-10-17	Finland	other
+A/turkey/Italy/23VIR1887-9/2023|EPI_ISL_20082058	2023-03-06	Italy	other
+A/Common_Tern/Netherlands/8/2023|EPI_ISL_17821074	2023-06-03	Netherlands	other
+A/Black-headed_Gull/Netherlands/72/2023|EPI_ISL_17821057	2023-05-22	Netherlands	other
+A/Black-headed_Gull/Netherlands/84/2023|EPI_ISL_17985395	2023-06-20	Netherlands	other
+A/Black-headed_Gull/Netherlands/89/2023|EPI_ISL_17985400	2023-06-16	Netherlands	other
+A/mink/Finland/3082/2023|EPI_ISL_18755130	2023-09-20	Finland	other
+A/Peregrin_Falcon/Italy/23VIR7098/2023|EPI_ISL_20082065	2023-07-13	Italy	other
+A/Peregrine_falcon/Netherlands/6/2023|EPI_ISL_18067124	2023-02-07	Netherlands	other
+A/Black-headed_Gull/Netherlands/90/2023|EPI_ISL_17985401	2023-06-16	Netherlands	other
+A/Kittiwake/Netherlands/1/2023|EPI_ISL_17821076	2023-05-28	Netherlands	other
+A/Black-headed_Gull/Italy/23VIR2052-5/2023|EPI_ISL_20082080	2023-03-18	Italy	other
+A/Black-headed_Gull/Netherlands/93/2023|EPI_ISL_17985403	2023-06-16	Netherlands	other
+A/Common_Tern/Netherlands/11/2023|EPI_ISL_17985408	2023-06-20	Netherlands	other
+A/chicken/Mari_El/369-8V/2023|EPI_ISL_18462503	2023-06-06	Russian Federation	other
+A/chicken/Mari_El/369-6V/2023|EPI_ISL_18462501	2023-06-06	Russian Federation	other
+A/chicken/Mari_El/369-5V/2023|EPI_ISL_18462500	2023-06-06	Russian Federation	other
+A/chicken/Mari_El/369-4V/2023|EPI_ISL_18462499	2023-06-06	Russian Federation	other
+A/chicken/Mari_El/369-2V/2023|EPI_ISL_18462497	2023-06-06	Russian Federation	other
+A/chicken/Mari_El/369-10V/2023|EPI_ISL_18462505	2023-06-06	Russian Federation	other
+A/chicken/Mari_El/369-7V/2023|EPI_ISL_18462502	2023-06-06	Russian Federation	other
+A/chicken/Mari_El/369-3V/2023|EPI_ISL_18462498	2023-06-06	Russian Federation	other
+A/chicken/Mari_El/369-10V/2023|EPI_ISL_18462495	2023-06-06	Russian Federation	other
+A/chicken/Mari_El/369-9V/2023|EPI_ISL_18462494	2023-06-06	Russian Federation	other
+A/Falco_peregrinus/Belgium/02423_0004/2023|EPI_ISL_17774062	2023-03-05	Belgium	Belgium
+A/Vulpes_Vulpes/Belgium/04016_0001/2023|EPI_ISL_17774570	2023-04-05	Belgium	Belgium
+A/Vulpes_Vulpes/Belgium/03703_0003/2023|EPI_ISL_17774308	2023-04-01	Belgium	Belgium
+A/Vulpes_Vulpes/Belgium/03704_0001/2023|EPI_ISL_17774358	2023-03-17	Belgium	Belgium
+A/Vulpes_vulpes/Belgium/04757_0004/2023|EPI_ISL_18347730	2023-05-08	Belgium	Belgium
+A/Vulpes_Vulpes/Belgium/03703_0001/2023|EPI_ISL_17774224	2023-03-24	Belgium	Belgium
+A/Vulpes_Vulpes/Belgium/03703_0007/2023|EPI_ISL_17774357	2023-03-30	Belgium	Belgium
+A/gull/Mari_El/345-5V/2023|EPI_ISL_20100686	2023-05-18	Russian Federation	other
+A/Black-headed_Gull/Netherlands/23006674-001/2023|EPI_ISL_17625763	2023-04-14	Netherlands	other
+A/Curlew/France/22P018028/2022|EPI_ISL_18445727	2022-06-07	France	other
+A/European_Herring_Gull/Netherlands/18/2022|EPI_ISL_15364789	2022-09-10	Netherlands	other
+A/Nothern_gannet/France/22P018031/2022|EPI_ISL_18445730	2022-06-09	France	other
+A/Herring_gull/France/22P016992/2022|EPI_ISL_18445719	2022-05-30	France	other
+A/chicken/Tatarstan/403-10V/2023|EPI_ISL_18462523	2023-08-26	Russian Federation	other
+A/Herring_gull/France/22P016968/2022|EPI_ISL_18445722	2022-05-31	France	other
+A/gull/Murmansk/388-13V/2023|EPI_ISL_18462509	2023-07-24	Russian Federation	other
+A/Peregrine_falcon/Netherlands/8/2023|EPI_ISL_17626173	2023-04-04	Netherlands	other
+A/gull/Udmurtia/355-12V/2023|EPI_ISL_18462487	2023-05-28	Russian Federation	other
+A/chicken/Mari_El/369-9V/2023|EPI_ISL_18462504	2023-06-06	Russian Federation	other
+A/Herring_gull/France/22P018162/2022|EPI_ISL_18445740	2022-06-14	France	other
+A/Herring_gull/France/22P016964/2022|EPI_ISL_18445721	2022-05-31	France	other
+A/European_Herring_Gull/Netherlands/12/2022|EPI_ISL_15069398	2022-08-10	Netherlands	other
+A/Herring_gull/France/22P017913/2022|EPI_ISL_18445731	2022-06-10	France	other
+A/Peregrine_falcon/Netherlands/9/2023|EPI_ISL_17626174	2023-04-04	Netherlands	other
+A/chicken/Vologda/390-4V/2023|EPI_ISL_18462511	2023-07-26	Russian Federation	other
+A/Black-headed_gull/Netherlands/41/2023|EPI_ISL_17626168	2023-04-19	Netherlands	other
+A/Black-headed_gull/Netherlands/43/2023|EPI_ISL_17626170	2023-04-29	Netherlands	other
+A/kittiwake/England/116381/2022|EPI_ISL_16398197	2022-08-12	United Kingdom	other
+A/Gull/France/22P017927/2022|EPI_ISL_18445736	2022-06-13	France	other
+A/chicken/Tatarstan/403-1V/2023|EPI_ISL_18462519	2023-08-26	Russian Federation	other
+A/chicken/Vologda/390-2V/2023|EPI_ISL_18462510	2023-07-26	Russian Federation	other
+A/crow/Mari_El/369-1V/2023|EPI_ISL_18462496	2023-06-06	Russian Federation	other
+A/gull/Tver/374-1V/2023|EPI_ISL_18462506	2023-06-18	Russian Federation	other
+A/Herrin_gull/France/22P016381/2022|EPI_ISL_18445710	2022-05-19	France	other
+A/Herring_gull/France/22P018146/2022|EPI_ISL_18445737	2022-06-13	France	other
+A/Herring_gull/France/22P016390/2022|EPI_ISL_18445714	2022-05-21	France	other
+A/Herring_gull/France/22P017325/2022|EPI_ISL_18445729	2022-06-09	France	other
+A/Peregrine_falcon/Netherlands/10/2023|EPI_ISL_17626175	2023-04-04	Netherlands	other
+A/Herring_gull/France/22P017327/2022|EPI_ISL_18445728	2022-06-08	France	other
+A/gull/Udmurtia/355-14V/2023|EPI_ISL_18462488	2023-05-28	Russian Federation	other
+A/gull/Yaroslavl/357-9V/2023|EPI_ISL_18462489	2023-05-22	Russian Federation	other
+A/Black-headed_gull/Netherlands/42/2023|EPI_ISL_17626169	2023-04-29	Netherlands	other
+A/Herring_gull/France/22P016372/2022|EPI_ISL_18445708	2022-05-18	France	other
+A/Herring_gull/France/22P019551/2022|EPI_ISL_18445748	2022-07-22	France	other
+A/Herring_gull/France/22P016394/2022|EPI_ISL_18445715	2022-05-24	France	other
+A/Herring_gull/France/22P016972/2022|EPI_ISL_18445717	2022-05-25	France	other
+A/Black-headed_gull/Netherlands/40/2023|EPI_ISL_17626167	2023-04-19	Netherlands	other
+A/Black-headed_gull/France/22P017916/2022|EPI_ISL_18445732	2022-06-10	France	other
+A/Herring_gull/France/22P019328/2022|EPI_ISL_18445747	2022-07-11	France	other
+A/common_gull/Scotland/106638/2022|EPI_ISL_16398198	2022-08-09	United Kingdom	other
+A/gull/Murmansk/388-12V/2023|EPI_ISL_18462508	2023-07-24	Russian Federation	other
+A/Black-headed_gull/Netherlands/44/2023|EPI_ISL_17626171	2023-04-30	Netherlands	other
+A/fox/France/23P002844/2023|EPI_ISL_17233302	2023-02-10	France	other
+A/Black-headed_gull/France/22P017918/2022|EPI_ISL_18445733	2022-06-10	France	other
+A/Black-headed_Gull/Netherlands/23006300-001/2023|EPI_ISL_17625761	2023-04-09	Netherlands	other
+A/chicken/Vologda/390-6V/2023|EPI_ISL_18462513	2023-07-26	Russian Federation	other
+A/chicken/Komi/402-8V/2023|EPI_ISL_18462518	2023-08-21	Russian Federation	other
+A/Herring_gull/France/22P018152/2022|EPI_ISL_18445738	2022-06-13	France	other
+A/Black-headed_gull/France/22P018177/2022|EPI_ISL_18445743	2022-06-15	France	other
+A/Black-headed_gull/France/22P017926/2022|EPI_ISL_18445735	2022-06-13	France	other
+A/Peregrine_falcon/Netherlands/7/2023|EPI_ISL_17626172	2023-04-04	Netherlands	other
+A/Herring_gull/France/22P019691/2022|EPI_ISL_18445750	2022-07-23	France	other
+A/Herring_gull/France/22P016393/2022|EPI_ISL_18445713	2022-05-20	France	other
+A/chicken/Mari_El/369-8V/2023|EPI_ISL_18462493	2023-06-06	Russian Federation	other
+A/Eurasian_Sparrowhawk/Netherlands/23006788-001/2023|EPI_ISL_17625762	2023-04-11	Netherlands	other
+A/chicken/Vologda/390-5V/2023|EPI_ISL_18462512	2023-07-26	Russian Federation	other
+A/Black-headed_gull/Netherlands/38/2023|EPI_ISL_17626165	2023-04-17	Netherlands	other
+A/gull/Smolensk/358-5V/2023|EPI_ISL_18462490	2023-06-02	Russian Federation	other
+A/Red_fox/Norway/2023-80-49-2/2023|EPI_ISL_19232456	2023-06-26	Norway	other
+A/Chroicocephalus_ridibundus/Belgium/04872_0003/2023|EPI_ISL_18347731	2023-05-23	Belgium	Belgium
+A/Black-headed_gull/France/22P018179/2022|EPI_ISL_18445744	2022-06-16	France	other
+A/gull/Murmansk/385-10V/2023|EPI_ISL_18462507	2023-07-04	Russian Federation	other
+A/Herring_gull/France/22P017314/2022|EPI_ISL_18445725	2022-06-01	France	other
+A/Herring_gull/France/22P018154/2022|EPI_ISL_18445739	2022-06-14	France	other
+A/chicken/Vologda/390-8V/2023|EPI_ISL_18462514	2023-07-26	Russian Federation	other
+A/chicken/Tatarstan/403-8V/2023|EPI_ISL_18462522	2023-08-26	Russian Federation	other
+A/Herring_gull/France/22P016375/2022|EPI_ISL_18445709	2022-05-18	France	other
+A/Chroicocephalus_ridibundus/Belgium/04695_0001/2023|EPI_ISL_18347729	2023-05-08	Belgium	Belgium
+A/Common_Tern/Netherlands/26/2022|EPI_ISL_15069401	2022-08-12	Netherlands	other
+A/Black-headed_gull/Netherlands/37/2023|EPI_ISL_17626164	2023-04-17	Netherlands	other
+A/Black-headed_Gull/Netherlands/23006666-002/2023|EPI_ISL_17625764	2023-04-17	Netherlands	other
+A/Herring_gull/France/22P016177/2022|EPI_ISL_18445707	2022-05-17	France	other
+A/Herring_gull/France/22P016997/2022|EPI_ISL_18445724	2022-06-01	France	other
+A/Red_Fox/Wales/017836/2023|EPI_ISL_16904555	2023-01-12	United Kingdom	other
+A/chicken/Tatarstan/403-6V/2023|EPI_ISL_18462521	2023-08-26	Russian Federation	other
+A/Black-headed_gull/France/22P016962/2022|EPI_ISL_18445720	2022-05-31	France	other
+A/Herring_gull/France/22P017318/2022|EPI_ISL_18445726	2022-06-07	France	other
+A/black-headed_gull/Italy/23VIR2243-1/2023|EPI_ISL_19462800	2023-03-05	Italy	other
+A/black-headed_gull/Italy/23VIR2013-4/2023|EPI_ISL_19462798	2023-02-24	Italy	other
+A/black-headed_gull/Italy/23VIR2013-18/2023|EPI_ISL_19462799	2023-03-01	Italy	other
+A/common-kestrel/Italy/23VIR3053-1/2023|EPI_ISL_19462802	2023-03-16	Italy	other
+A/peregrine_falcon/Italy/23VIR2255-1/2023|EPI_ISL_19462801	2023-03-08	Italy	other
+A/peregrine_falcon/Italy/23VIR1617-1/2023|EPI_ISL_19462794	2023-02-20	Italy	other
+A/black-headed_gull/Italy/23VIR2013-11/2023|EPI_ISL_19462793	2023-02-27	Italy	other
+A/peregrine_falcon/Italy/23VIR1618-1/2023|EPI_ISL_19462795	2023-02-15	Italy	other
+A/black-headed_gull/Italy/23VIR1615-1/2023|EPI_ISL_19462792	2023-02-19	Italy	other
+A/seagull/Italy/23VIR3054-1/2023|EPI_ISL_19462791	2023-03-18	Italy	other
+A/black-headed_gull/Italy/23VIR2258-1/2023|EPI_ISL_19462790	2023-03-07	Italy	other
+A/black-headed_gull/Italy/23VIR2013-16/2023|EPI_ISL_19462787	2023-02-26	Italy	other
+A/black-headed_gull/Italy/23VIR2257-1/2023|EPI_ISL_19462789	2023-03-04	Italy	other
+A/Black-headed_gull/Netherands/125-2/2023|EPI_ISL_19855567	2023-06-02	Netherlands	other
+A/Black-Headed_Gull/England/125079/2023|EPI_ISL_17710041	2023-04-13	United Kingdom	other
+A/Black-Headed_Gull/England/059281/2023|EPI_ISL_17710020	2023-04-19	United Kingdom	other
+A/black-headed_gull/Italy/23VIR2013-8/2023|EPI_ISL_19462803	2023-02-26	Italy	other
+A/gull/France/23P001401/2023|EPI_ISL_19135859	2023-01-18	France	other
+A/gull/France/23P000768/2023|EPI_ISL_19135849	2023-01-14	France	other
+A/Black-headed_Gull/Netherlands/116/2023|EPI_ISL_18118723	2023-07-21	Netherlands	other
+A/Black-Headed_Gull/Wales/066100/2023|EPI_ISL_17710030	2023-05-08	United Kingdom	other
+A/gull/France/23P001594/2023|EPI_ISL_19135870	2023-01-24	France	other
+A/gull/France/23P001597/2023|EPI_ISL_19135871	2023-01-20	France	other
+A/gull/France/23P000717/2023|EPI_ISL_19135847	2023-01-10	France	other
+A/pelican/England/112670/2022|EPI_ISL_15038823	2022-08-28	United Kingdom	other
+A/gull/France/23P001592/2023|EPI_ISL_19135869	2023-01-25	France	other
+A/Black-Headed_Gull/England/059292/2023|EPI_ISL_17710021	2023-04-19	United Kingdom	other
+A/black-headed_gull/Italy/23VIR2013-5/2023|EPI_ISL_19462805	2023-02-25	Italy	other
+A/Black-headed_gull/Netherlands/20/2023|EPI_ISL_17267149	2023-03-05	Netherlands	other
+A/European_Herring_Gull/Netherlands/13/2022|EPI_ISL_15088296	2022-08-19	Netherlands	other
+A/Black-headed_gull/Netherlands/25/2023|EPI_ISL_17267154	2023-03-09	Netherlands	other
+A/Black-headed_Gull/Netherlands/23007590-002/2023|EPI_ISL_17791392	2023-05-01	Netherlands	other
+A/Black-Headed_Gull/England/064254/2023|EPI_ISL_17710029	2023-05-02	United Kingdom	other
+A/Black-headed_Gull/Netherlands/23007954-002/2023|EPI_ISL_17791391	2023-05-08	Netherlands	other
+A/European_herring_gull/Netherlands/8/2023|EPI_ISL_17267156	2023-03-03	Netherlands	other
+A/black-headed_gull/Italy/23VIR2251-2/2023|EPI_ISL_19462788	2023-02-23	Italy	other
+A/Black-headed_Gull/Netherlands/114/2023|EPI_ISL_18118721	2023-07-21	Netherlands	other
+A/gull/France/22P020655/2022|EPI_ISL_19135772	2022-09-05	France	other
+A/Black-headed_gull/Netherlands/15/2023|EPI_ISL_17267144	2023-03-01	Netherlands	other
+A/Black-Headed_Gull/England/125550/2023|EPI_ISL_17710043	2023-04-28	United Kingdom	other
+A/gull/France/23P001454/2023|EPI_ISL_19135860	2023-01-16	France	other
+A/Black-Headed_Gull/England/063263/2023|EPI_ISL_17710028	2023-05-01	United Kingdom	other
+A/Black-headed_gull/Netherlands/23/2023|EPI_ISL_17267152	2023-03-03	Netherlands	other
+A/Black-Headed_Gull/England/400654/2023|EPI_ISL_17710055	2023-05-03	United Kingdom	other
+A/Black-headed_Gull/Netherlands/115/2023|EPI_ISL_18118722	2023-07-21	Netherlands	other
+A/Black-Headed_Gull/England/125698/2023|EPI_ISL_17710045	2023-05-03	United Kingdom	other
+A/Black-Headed_Gull/England/259880/2023|EPI_ISL_17710040	2023-05-08	United Kingdom	other
+A/gull/France/23P001104/2023|EPI_ISL_19135852	2023-01-12	France	other
+A/Black-Headed_Gull/England/125653/2023|EPI_ISL_17710044	2023-04-20	United Kingdom	other
+A/gull/France/22P020808/2022|EPI_ISL_19135822	2022-09-13	France	other
+A/gull/France/23P001549/2023|EPI_ISL_19135861	2023-01-21	France	other
+A/Black-Headed_Gull/England/259311/2023|EPI_ISL_17710034	2023-04-14	United Kingdom	other
+A/Black-headed_gull/Netherlands/14/2023|EPI_ISL_17267143	2023-03-01	Netherlands	other
+A/Black-headed_gull/Netherlands/22/2023|EPI_ISL_17267151	2023-03-04	Netherlands	other
+A/European_Herring_Gull/Netherlands/19/2022|EPI_ISL_15579535	2022-09-21	Netherlands	other
+A/Black-Headed_Gull/England/259288/2023|EPI_ISL_17710031	2023-04-14	United Kingdom	other
+A/Black-Headed_Gull/England/125703/2023|EPI_ISL_17710046	2023-05-03	United Kingdom	other
+A/gull/France/23P001392/2023|EPI_ISL_19135856	2023-01-13	France	other
+A/black-headed_gull/Italy/23VIR1437-8/2023|EPI_ISL_19462782	2023-02-10	Italy	other
+A/Black-headed_gull/Netherlands/24/2023|EPI_ISL_17267153	2023-03-09	Netherlands	other
+A/Common_Tern/Netherlands/32/2023|EPI_ISL_18118729	2023-07-28	Netherlands	other
+A/gull/France/23P001564/2023|EPI_ISL_19135864	2023-01-22	France	other
+A/Black-Headed_Gull/England/400219/2023|EPI_ISL_17710053	2023-04-21	United Kingdom	other
+A/Black-Headed_Gull/England/076101/2023|EPI_ISL_17971921	2023-05-25	United Kingdom	other
+A/gull/France/23P000715/2023|EPI_ISL_19135846	2023-01-10	France	other
+A/seagull/Italy/23VIR3057-1/2023|EPI_ISL_19462806	2023-02-28	Italy	other
+A/Common_Tern/Netherlands/33/2023|EPI_ISL_18118730	2023-07-28	Netherlands	other
+A/Black-headed_gull/Netherlands/21/2023|EPI_ISL_17267150	2023-03-05	Netherlands	other
+A/Black-headed_gull/Netherlands/19/2023|EPI_ISL_17267148	2023-03-03	Netherlands	other
+A/black-headed_gull/Italy/23VIR1436-3/2023|EPI_ISL_19462783	2023-02-19	Italy	other
+A/gull/France/23P000720/2023|EPI_ISL_19135848	2023-01-11	France	other
+A/gull/France/23P000614/2022|EPI_ISL_19135840	2022-12-27	France	other
+A/black-headed_gull/Italy/23VIR2240-1/2023|EPI_ISL_19462804	2023-03-06	Italy	other
+A/seagull/Italy/23VIR2779-1/2023|EPI_ISL_19462808	2023-03-15	Italy	other
+A/seagull/Italy/23VIR2773-1/2023|EPI_ISL_19462796	2023-03-03	Italy	other
+A/gull/France/23P001097/2023|EPI_ISL_19135851	2023-01-16	France	other
+A/gull/France/23P000619/2022|EPI_ISL_19135841	2022-12-28	France	other
+A/chicken/England/103907/2022|EPI_ISL_14497841	2022-08-02	United Kingdom	other
+A/gull/France/23P000770/2023|EPI_ISL_19135850	2023-01-11	France	other
+A/Black-Headed_Gull/England/125722/2023|EPI_ISL_17710048	2023-05-03	United Kingdom	other
+A/black-headed_gull/Italy/23VIR1614-1/2023|EPI_ISL_19462784	2023-02-17	Italy	other
+A/chicken/England/098080/2022|EPI_ISL_14497836	2022-07-20	United Kingdom	other
+A/gull/France/23P001358/2023|EPI_ISL_19135853	2023-01-19	France	other
+A/gull/France/23P001385/2023|EPI_ISL_19135854	2023-01-15	France	other
+A/black-headed_gull/Italy/23VIR1616-1/2023|EPI_ISL_19462785	2023-02-20	Italy	other
+A/black-headed_gull/Italy/23VIR2013-9/2023|EPI_ISL_19462807	2023-02-10	Italy	other
+A/Black-Headed_Gull/England/060002/2023|EPI_ISL_17710024	2023-04-20	United Kingdom	other
+A/gull/France/23P000668/2023|EPI_ISL_19135844	2023-01-11	France	other
+A/Common_Buzzard/England/125155/2023|EPI_ISL_17710042	2023-04-17	United Kingdom	other
+A/Common_Tern/Netherlands/31/2023|EPI_ISL_18118727	2023-07-28	Netherlands	other
+A/gull/France/23P001561/2023|EPI_ISL_19135863	2023-01-22	France	other
+A/Black-Headed_Gull/England/259369/2023|EPI_ISL_17710035	2023-04-18	United Kingdom	other
+A/Lesser_black-backed_Gull/Netherlands/9/2023|EPI_ISL_18118733	2023-07-28	Netherlands	other
+A/gull/France/23P000623/2023|EPI_ISL_19135842	2023-01-03	France	other
+A/gull/France/22P020473/2022|EPI_ISL_19135748	2022-09-06	France	other
+A/chicken/Jersey/112779/2022|EPI_ISL_15038824	2022-08-30	United Kingdom	other
+A/gull/France/23P000688/2023|EPI_ISL_19135845	2023-01-11	France	other
+A/Black-Headed_Gull/England/399994/2023|EPI_ISL_17710049	2023-04-13	United Kingdom	other
+A/European_herring_gull/Netherlands/17/2023|EPI_ISL_18660627	2023-11-12	Netherlands	other
+A/Sandwich_Tern/Wales/076064/2023|EPI_ISL_17971919	2023-05-28	United Kingdom	other
+A/Black-Headed_Gull/England/399997/2023|EPI_ISL_17710050	2023-04-13	United Kingdom	other
+A/gull/France/23P001575/2023|EPI_ISL_19135867	2023-01-25	France	other
+A/gull/France/23P001577/2023|EPI_ISL_19135868	2023-01-20	France	other
+A/Black-Headed_Gull/England/125713/2023|EPI_ISL_17710047	2023-05-03	United Kingdom	other
+A/gull/France/23P001389/2023|EPI_ISL_19135855	2023-01-18	France	other
+A/black-headed_gull/Italy/23VIR2241-1/2023|EPI_ISL_19462810	2023-03-05	Italy	other
+A/Black-Headed_Gull/England/259302/2023|EPI_ISL_17710032	2023-04-16	United Kingdom	other
+A/black-headed_gull/Italy/23VIR2013-7/2023|EPI_ISL_19462786	2023-02-26	Italy	other
+A/Black-Headed_Gull/England/126426/2023|EPI_ISL_17971922	2023-05-30	United Kingdom	other
+A/gull/France/23P001565/2023|EPI_ISL_19135865	2023-01-21	France	other
+A/European_Herring_Gull/Netherlands/20/2022|EPI_ISL_15579539	2022-10-02	Netherlands	other
+A/gull/France/23P001397/2023|EPI_ISL_19135858	2023-01-14	France	other
+A/gull/France/23P001571/2023|EPI_ISL_19135866	2023-01-24	France	other
+A/gull/France/23P001394/2023|EPI_ISL_19135857	2023-01-18	France	other
+A/black-headed_gull/Italy/23VIR2242-1/2023|EPI_ISL_19462809	2023-03-05	Italy	other
+A/Black-headed_gull/Netherlands/26/2023|EPI_ISL_17267155	2023-03-09	Netherlands	other
+A/Arctic_Tern/Wales/076069/2023|EPI_ISL_17971920	2023-05-28	United Kingdom	other
+A/Falco_peregrinus/Belgium/02424_0002/2023|EPI_ISL_18643547	2023-03-02	Belgium	Belgium
+A/Black-headed_gull/Netherlands/17/2023|EPI_ISL_17267146	2023-03-05	Netherlands	other
+A/Sandwich_Tern/Wales/076060/2023|EPI_ISL_17971918	2023-05-28	United Kingdom	other
+A/Black-Headed_Gull/England/259616/2023|EPI_ISL_17710036	2023-04-25	United Kingdom	other
+A/northern_gannet/France/22P020659/2022|EPI_ISL_19135782	2022-09-08	France	other
+A/chicken/England/070359/2023|EPI_ISL_17791552	2023-05-23	United Kingdom	other
+A/Black-Headed_Gull/England/400174/2023|EPI_ISL_17710052	2023-04-18	United Kingdom	other
+A/Black-Headed_Gull/England/126428/2023|EPI_ISL_17971923	2023-05-30	United Kingdom	other
+A/chicken/Wales/114874/2022|EPI_ISL_15038821	2022-09-04	United Kingdom	other
+A/chicken/England/062653/2023|EPI_ISL_17791545	2023-04-28	United Kingdom	other
+A/gull/France/23P000665/2023|EPI_ISL_19135843	2023-01-10	France	other
+A/chicken/England/062596/2023|EPI_ISL_17710027	2023-04-28	United Kingdom	other
+A/European_Herring_Gull/Netherlands/15/2022|EPI_ISL_15088304	2022-08-29	Netherlands	other
+A/chicken/England/062649/2023|EPI_ISL_17791553	2023-04-28	United Kingdom	other
+A/European_Herring_Gull/Netherlands/14/2022|EPI_ISL_15088297	2022-08-23	Netherlands	other
+A/pheasant/England/112976/2022|EPI_ISL_15038826	2022-08-31	United Kingdom	other
+A/gull/France/23P001551/2023|EPI_ISL_19135862	2023-01-23	France	other
+A/gull/France/23P002080/2023|EPI_ISL_19135941	2023-02-02	France	other
+A/gull/France/23P002331/2023|EPI_ISL_19135951	2023-02-02	France	other
+A/gull/France/23P002534/2023|EPI_ISL_19135981	2023-02-13	France	other
+A/gull/France/23P003123/2023|EPI_ISL_19136018	2023-02-19	France	other
+A/gull/France/23P006550/2023|EPI_ISL_19136122	2023-06-13	France	other
+A/gull/France/23P006511/2023|EPI_ISL_19136120	2023-06-05	France	other
+A/Black-legged_kittiwake/Norway/2023-04-21371-2/2023|EPI_ISL_18939098	2023-07-26	Norway	other
+A/gull/France/23P001616/2023|EPI_ISL_19135877	2023-01-24	France	other
+A/gull/France/22P017325/2022|EPI_ISL_19135577	2022-06-09	France	other
+A/gull/France/23P001969/2023|EPI_ISL_19135914	2023-01-31	France	other
+A/gull/France/22P020883/2022|EPI_ISL_19135828	2022-09-16	France	other
+A/gull/France/23P005587/2023|EPI_ISL_19136080	2023-05-15	France	other
+A/gull/France/23P005190/2023|EPI_ISL_19136076	2023-05-05	France	other
+A/gull/France/23P002339/2023|EPI_ISL_19135953	2023-01-29	France	other
+A/gull/France/23P002275/2023|EPI_ISL_19135946	2023-02-01	France	other
+A/Black-legged_kittiwake/Norway/2023-04-21371-3/2023|EPI_ISL_18939099	2023-07-26	Norway	other
+A/gull/France/23P006567/2023|EPI_ISL_19136125	2023-06-19	France	other
+A/gull/France/23P006197/2023|EPI_ISL_19136110	2023-06-01	France	other
+A/tern/France/23P006560/2023|EPI_ISL_19136124	2023-06-16	France	other
+A/gull/France/23P002223/2023|EPI_ISL_19135942	2023-02-08	France	other
+A/gull/France/23P002296/2023|EPI_ISL_19135949	2023-02-06	France	other
+A/Black-legged_kittiwake/Norway/2023-07-651/2023|EPI_ISL_18939119	2023-05-16	Norway	other
+A/gull/France/23P001957/2023|EPI_ISL_19135909	2023-01-30	France	other
+A/gull/France/22P019723/2022|EPI_ISL_19135614	2022-07-28	France	other
+A/gull/France/23P002591/2023|EPI_ISL_19135987	2023-02-12	France	other
+A/gull/France/23P002043/2023|EPI_ISL_19135931	2023-01-28	France	other
+A/gull/France/22P017318/2022|EPI_ISL_19135576	2022-06-07	France	other
+A/gull/France/23P006508/2023|EPI_ISL_19136118	2023-06-08	France	other
+A/gull/France/23P002377/2023|EPI_ISL_19135964	2023-02-01	France	other
+A/tern/France/23P006917/2023|EPI_ISL_19136131	2023-06-23	France	other
+A/Black-legged_kittiwake/Norway/2023-04-21371-4/2023|EPI_ISL_18939100	2023-07-26	Norway	other
+A/gull/France/23P001855/2023|EPI_ISL_19135901	2023-01-23	France	other
+A/gull/France/23P001785/2023|EPI_ISL_19135890	2023-01-27	France	other
+A/tern/France/23P006576/2023|EPI_ISL_19136129	2023-06-14	France	other
+A/gull/France/23P001600/2023|EPI_ISL_19135873	2023-01-25	France	other
+A/Black-legged_kittiwake/Norway/2023-07-1533-2/2023|EPI_ISL_18939113	2023-07-19	Norway	other
+A/gull/France/22P018587/2022|EPI_ISL_19135598	2022-06-28	France	other
+A/gull/France/23P002022/2023|EPI_ISL_19135927	2023-01-31	France	other
+A/gull/France/22P018525/2022|EPI_ISL_19135591	2022-06-18	France	other
+A/Canada_goose/England/394558/2022|EPI_ISL_17268133	2022-10-21	United Kingdom	other
+A/gull/France/23P005590/2023|EPI_ISL_19136081	2023-05-11	France	other
+A/gull/France/22P019766/2022|EPI_ISL_19135620	2022-08-02	France	other
+A/gull/France/23P007955/2023|EPI_ISL_19136171	2023-08-10	France	other
+A/gull/France/23P005661/2023|EPI_ISL_19136083	2023-05-09	France	other
+A/gull/France/22P018451/2022|EPI_ISL_19135590	2022-06-27	France	other
+A/gull/France/23P002553/2023|EPI_ISL_19135986	2023-02-10	France	other
+A/Black-legged_kitiwake/Norway/2023-07-1332-1-s/2023|EPI_ISL_18939110	2023-07-13	Norway	other
+A/gull/France/23P003097/2023|EPI_ISL_19136013	2023-02-14	France	other
+A/gull/France/23P007715/2023|EPI_ISL_19136165	2023-01-31	France	other
+A/Black-legged_kittiwake/Norway/2023-04-21371-1/2023|EPI_ISL_18939097	2023-07-26	Norway	other
+A/gull/France/22P018146/2022|EPI_ISL_19135583	2022-06-13	France	other
+A/tern/France/23P006201/2023|EPI_ISL_19136111	2023-04-30	France	other
+A/gull/France/23P005846/2023|EPI_ISL_19136088	2023-05-17	France	other
+A/European_Herring_Gull/Netherlands/5/2022|EPI_ISL_13778468	2022-06-07	Netherlands	other
+A/tern/France/23P006509/2023|EPI_ISL_19136119	2023-06-08	France	other
+A/gull/France/23P003341/2023|EPI_ISL_19136048	2023-03-07	France	other
+A/gull/France/23P007041/2023|EPI_ISL_19136134	2023-06-26	France	other
+A/gull/France/23P007111/2023|EPI_ISL_19136138	2023-06-27	France	other
+A/gull/France/23P002528/2023|EPI_ISL_19135979	2023-02-11	France	other
+A/gull/France/22P019073/2022|EPI_ISL_19135603	2022-07-04	France	other
+A/gull/France/23P003113/2023|EPI_ISL_19136017	2023-02-16	France	other
+A/gull/France/22P020305/2022|EPI_ISL_19135704	2022-08-30	France	other
+A/gull/France/23P001805/2023|EPI_ISL_19135893	2023-01-26	France	other
+A/gull/France/23P001829/2023|EPI_ISL_19135895	2023-01-30	France	other
+A/gull/France/23P002446/2023|EPI_ISL_19135977	2023-02-07	France	other
+A/gull/France/23P002038/2023|EPI_ISL_19135929	2023-01-28	France	other
+A/gull/France/23P007708/2023|EPI_ISL_19136163	2023-07-19	France	other
+A/gull/France/23P003414/2023|EPI_ISL_19136049	2023-03-09	France	other
+A/Herring_gull/Norway/2023-07-1237-t/2023|EPI_ISL_18939109	2023-06-22	Norway	other
+A/gull/France/22P020309/2022|EPI_ISL_19135713	2022-08-30	France	other
+A/gull/France/23P005871/2023|EPI_ISL_19136092	2023-05-19	France	other
+A/gull/France/23P007047/2023|EPI_ISL_19136136	2023-06-27	France	other
+A/gull/France/22P018162/2022|EPI_ISL_19135586	2022-06-14	France	other
+A/gull/France/23P003144/2023|EPI_ISL_19136023	2023-02-22	France	other
+A/gull/France/23P002264/2023|EPI_ISL_19135944	2023-02-02	France	other
+A/gull/France/22P020204/2022|EPI_ISL_19135658	2022-08-23	France	other
+A/gull/France/23P002364/2023|EPI_ISL_19135958	2023-02-07	France	other
+A/gull/France/23P002782/2023|EPI_ISL_19135998	2023-02-09	France	other
+A/gull/France/23P002236/2023|EPI_ISL_19135943	2023-02-04	France	other
+A/gull/France/23P003183/2023|EPI_ISL_19136027	2023-02-23	France	other
+A/gull/France/22P026393/2022|EPI_ISL_19135832	2022-12-28	France	other
+A/turkey/England/137861/2022|EPI_ISL_15957624	2022-10-18	United Kingdom	other
+A/gull/France/23P003185/2023|EPI_ISL_19136028	2023-03-01	France	other
+A/gull/France/23P002636/2023|EPI_ISL_19135995	2023-02-11	France	other
+A/gull/France/23P007048/2023|EPI_ISL_19136137	2023-06-27	France	other
+A/gull/France/23P003126/2023|EPI_ISL_19136019	2023-02-21	France	other
+A/black-headed_gull/Slovenia/PER509-23T2a_23VIR10323-8/2023|EPI_ISL_18612178	2023-03-20	Slovenia	other
+A/gull/France/22P018152/2022|EPI_ISL_19135584	2022-06-13	France	other
+A/gull/France/23P003193/2023|EPI_ISL_19136031	2023-02-27	France	other
+A/gull/France/23P007776/2023|EPI_ISL_19136167	2023-07-19	France	other
+A/gull/France/23P003338/2023|EPI_ISL_19136046	2023-03-08	France	other
+A/gull/France/23P007180/2023|EPI_ISL_19136142	2023-07-04	France	other
+A/tern/France/23P005156/2023|EPI_ISL_19136072	2023-05-03	France	other
+A/gull/France/23P003106/2023|EPI_ISL_19136015	2023-02-23	France	other
+A/gull/France/23P003131/2023|EPI_ISL_19136020	2023-02-23	France	other
+A/northern_gannet/France/22P019775/2022|EPI_ISL_19135621	2022-07-31	France	other
+A/gull/France/22P018581/2022|EPI_ISL_19135595	2022-06-28	France	other
+A/Herring_Gull/Scotland/340203/2023|EPI_ISL_18742319	2023-11-26	United Kingdom	other
+A/tern/France/23P005867/2023|EPI_ISL_19136091	2023-05-16	France	other
+A/gull/France/23P004291/2023|EPI_ISL_19136065	2023-04-18	France	other
+A/gull/France/23P004892/2023|EPI_ISL_19136069	2023-04-30	France	other
+A/gull/France/23P006019/2023|EPI_ISL_19136097	2023-05-22	France	other
+A/gull/France/23P000613/2023|EPI_ISL_19135839	2023-01-05	France	other
+A/gull/France/22P017918/2022|EPI_ISL_19135581	2022-06-10	France	other
+A/gull/France/23P005850/2023|EPI_ISL_19136089	2023-05-16	France	other
+A/gull/France/22P020039/2022|EPI_ISL_19135636	2022-08-18	France	other
+A/gull/France/23P002018/2023|EPI_ISL_19135926	2023-01-30	France	other
+A/gull/France/23P003418/2023|EPI_ISL_19136050	2023-03-05	France	other
+A/gull/France/23P002063/2023|EPI_ISL_19135936	2023-01-26	France	other
+A/gull/France/22P017327/2022|EPI_ISL_19135578	2022-06-08	France	other
+A/gull/France/23P002333/2023|EPI_ISL_19135952	2023-02-07	France	other
+A/gull/France/23P002627/2023|EPI_ISL_19135991	2023-02-13	France	other
+A/gull/France/23P001721/2023|EPI_ISL_19135881	2023-01-17	France	other
+A/tern/France/23P005993/2023|EPI_ISL_19136095	2023-05-18	France	other
+A/gull/France/22P020237/2022|EPI_ISL_19135685	2022-08-19	France	other
+A/gull/France/23P004857/2023|EPI_ISL_19136066	2023-04-19	France	other
+A/gull/France/23P002276/2023|EPI_ISL_19135947	2023-02-07	France	other
+A/gull/France/23P001941/2023|EPI_ISL_19135905	2023-01-27	France	other
+A/gull/France/23P002013/2023|EPI_ISL_19135923	2023-01-30	France	other
+A/gull/France/22P018532/2022|EPI_ISL_19135592	2022-06-20	France	other
+A/gull/France/23P000010/2022|EPI_ISL_19135834	2022-12-29	France	other
+A/gull/France/23P007523/2023|EPI_ISL_19136161	2023-07-18	France	other
+A/common_tern/Slovenia/PER942-23T2A_23VIR10323-6/2023|EPI_ISL_18612177	2023-05-16	Slovenia	other
+A/gull/France/23P001598/2023|EPI_ISL_19135872	2023-01-20	France	other
+A/gull/France/23P003475/2023|EPI_ISL_19136058	2023-03-20	France	other
+A/Black-legged_kittiwake/Norway/2023-04-21371-9/2023|EPI_ISL_18939105	2023-07-26	Norway	other
+A/gull/France/22P020814/2022|EPI_ISL_19135827	2022-09-10	France	other
+A/gull/France/23P001971/2023|EPI_ISL_19135915	2023-01-30	France	other
+A/Black-legged_kittiwake/Norway/2023-04-21371-10/2023|EPI_ISL_18939096	2023-07-26	Norway	other
+A/gull/France/23P001964/2023|EPI_ISL_19135911	2023-01-30	France	other
+A/gull/France/23P002058/2023|EPI_ISL_19135934	2023-02-01	France	other
+A/gull/France/23P005659/2023|EPI_ISL_19136082	2023-05-07	France	other
+A/gull/France/22P019745/2022|EPI_ISL_19135616	2022-07-25	France	other
+A/gull/France/23P001835/2023|EPI_ISL_19135897	2023-01-30	France	other
+A/tern/France/23P005865/2023|EPI_ISL_19136090	2023-05-16	France	other
+A/gull/France/23P001618/2023|EPI_ISL_19135878	2023-01-22	France	other
+A/gull/France/22P019755/2022|EPI_ISL_19135618	2022-07-29	France	other
+A/gull/France/22P018156/2022|EPI_ISL_19136337	2022-06-14	France	other
+A/gull/France/23P002412/2023|EPI_ISL_19135972	2023-02-10	France	other
+A/gull/France/23P003489/2023|EPI_ISL_19136060	2023-03-20	France	other
+A/gull/France/22P020216/2022|EPI_ISL_19135676	2022-08-23	France	other
+A/gull/France/23P002367/2023|EPI_ISL_19135959	2023-02-09	France	other
+A/gull/France/23P003501/2023|EPI_ISL_19136062	2023-02-28	France	other
+A/gull/France/23P001944/2023|EPI_ISL_19135906	2023-01-30	France	other
+A/gull/France/22P017314/2022|EPI_ISL_19135575	2022-06-01	France	other
+A/gull/France/22P018179/2022|EPI_ISL_19135588	2022-06-16	France	other
+A/gull/France/23P002793/2023|EPI_ISL_19136001	2023-02-10	France	other
+A/gull/France/23P002995/2023|EPI_ISL_19136011	2023-02-20	France	other
+A/tern/France/23P005908/2023|EPI_ISL_19136093	2023-05-21	France	other
+A/gull/France/23P002445/2023|EPI_ISL_19135976	2023-02-07	France	other
+A/gull/France/23P002787/2023|EPI_ISL_19135999	2023-02-13	France	other
+A/gull/France/23P003217/2023|EPI_ISL_19136033	2023-02-21	France	other
+A/gull/France/23P002538/2023|EPI_ISL_19135983	2023-02-10	France	other
+A/gull/France/23P001828/2023|EPI_ISL_19135894	2023-01-25	France	other
+A/gull/France/23P002631/2023|EPI_ISL_19135993	2023-02-15	France	other
+A/gull/France/23P003133/2023|EPI_ISL_19136021	2023-02-22	France	other
+A/gull/France/23P007173/2023|EPI_ISL_19136140	2023-06-29	France	other
+A/gull/France/23P003180/2023|EPI_ISL_19136026	2023-02-27	France	other
+A/gull/France/22P019721/2022|EPI_ISL_19135613	2022-07-28	France	other
+A/gull/France/23P002064/2023|EPI_ISL_19135937	2023-02-02	France	other
+A/gull/France/23P003464/2023|EPI_ISL_19136056	2023-03-16	France	other
+A/gull/France/23P002796/2023|EPI_ISL_19136003	2023-02-07	France	other
+A/gull/France/23P003332/2023|EPI_ISL_19136044	2023-02-06	France	other
+A/gull/France/22P018599/2022|EPI_ISL_19135599	2022-06-28	France	other
+A/gull/France/23P001833/2023|EPI_ISL_19135896	2023-01-30	France	other
+A/gull/France/22P019880/2022|EPI_ISL_19135628	2022-08-05	France	other
+A/gull/France/23P001837/2023|EPI_ISL_19135898	2023-01-28	France	other
+A/gull/France/23P002400/2023|EPI_ISL_19135967	2023-02-04	France	other
+A/gull/France/23P002641/2023|EPI_ISL_19135996	2023-02-13	France	other
+A/gull/France/23P005155/2023|EPI_ISL_19136071	2023-04-28	France	other
+A/gull/France/23P001738/2023|EPI_ISL_19135883	2023-01-13	France	other
+A/gull/France/22P018603/2022|EPI_ISL_19135600	2022-06-28	France	other
+A/Black-legged_kitiwake/Norway/2023-07-1144-tr/2023|EPI_ISL_18939108	2023-06-15	Norway	other
+A/gull/France/23P002450/2023|EPI_ISL_19135978	2023-02-07	France	other
+A/gull/France/22P019368/2022|EPI_ISL_19135605	2022-07-01	France	other
+A/gull/France/23P000524/2023|EPI_ISL_19135838	2023-01-03	France	other
+A/gull/France/23P002607/2023|EPI_ISL_19135990	2023-02-14	France	other
+A/gull/France/22P019689/2022|EPI_ISL_19135612	2022-07-27	France	other
+A/gull/France/23P001844/2023|EPI_ISL_19135900	2023-01-29	France	other
+A/tern/France/23P007524/2023|EPI_ISL_19136162	2023-07-18	France	other
+A/Black-legged_kittiwake/Norway/2023-07-793-kt/2023|EPI_ISL_18939120	2023-05-25	Norway	other
+A/gull/France/23P002069/2023|EPI_ISL_19135938	2023-01-20	France	other
+A/tern/France/23P004859/2023|EPI_ISL_19136067	2023-04-23	France	other
+A/gull/France/23P003307/2023|EPI_ISL_19136038	2023-03-06	France	other
+A/gull/France/23P004891/2023|EPI_ISL_19136068	2023-04-28	France	other
+A/gull/France/23P006519/2023|EPI_ISL_19136121	2023-06-15	France	other
+A/gull/France/22P019882/2022|EPI_ISL_19135629	2022-07-29	France	other
+A/tern/France/23P007172/2023|EPI_ISL_19136139	2023-07-03	France	other
+A/tern/France/23P006194/2023|EPI_ISL_19136109	2023-05-27	France	other
+A/gull/France/23P002629/2023|EPI_ISL_19135992	2023-02-14	France	other
+A/gull/France/23P003451/2023|EPI_ISL_19136054	2023-03-13	France	other
+A/gull/France/23P003195/2023|EPI_ISL_19136032	2023-02-27	France	other
+A/gull/France/23P001790/2023|EPI_ISL_19135892	2023-01-29	France	other
+A/gull/France/23P003479/2023|EPI_ISL_19136059	2023-03-20	France	other
+A/gull/France/23P002295/2023|EPI_ISL_19135948	2023-02-01	France	other
+A/tern/France/23P007800/2023|EPI_ISL_19136168	2023-07-20	France	other
+A/gull/France/23P002057/2023|EPI_ISL_19135933	2023-01-22	France	other
+A/gull/France/23P001750/2023|EPI_ISL_19135886	2023-01-17	France	other
+A/gull/France/23P002344/2023|EPI_ISL_19135954	2023-02-02	France	other
+A/gull/France/23P002634/2023|EPI_ISL_19135994	2023-02-15	France	other
+A/tern/France/23P005995/2023|EPI_ISL_19136096	2023-05-22	France	other
+A/gull/France/23P006578/2023|EPI_ISL_19136130	2023-06-22	France	other
+A/gull/France/23P001718/2023|EPI_ISL_19135880	2023-01-26	France	other
+A/Black-legged_kittiwake/Norway/2023-07-888-1k/2023|EPI_ISL_18939122	2023-06-02	Norway	other
+A/gull/France/23P003189/2023|EPI_ISL_19136029	2023-02-22	France	other
+A/gull/France/23P005159/2023|EPI_ISL_19136073	2023-05-05	France	other
+A/gull/France/23P001965/2023|EPI_ISL_19135912	2023-01-31	France	other
+A/gull/France/23P003075/2023|EPI_ISL_19136012	2023-02-21	France	other
+A/gull/France/23P003446/2023|EPI_ISL_19136052	2023-03-06	France	other
+A/gull/France/23P002371/2023|EPI_ISL_19135960	2023-02-10	France	other
+A/gull/France/23P002391/2023|EPI_ISL_19135965	2023-02-09	France	other
+A/gull/France/23P003433/2023|EPI_ISL_19136051	2023-03-02	France	other
+A/gull/France/23P007773/2023|EPI_ISL_19136166	2023-07-17	France	other
+A/tern/France/23P006431/2023|EPI_ISL_19136113	2023-06-01	France	other
+A/gull/France/22P018585/2022|EPI_ISL_19135596	2022-06-28	France	other
+A/tern/France/23P006428/2023|EPI_ISL_19136112	2023-06-01	France	other
+A/lesser_black-backed_gull/Netherlands/22012469-002/2022|EPI_ISL_19201535	2022-07-14	Netherlands	other
+A/gull/France/23P001745/2023|EPI_ISL_19135885	2023-01-23	France	other
+A/gull/France/23P003224/2023|EPI_ISL_19136035	2023-02-28	France	other
+A/gull/France/22P015977/2022|EPI_ISL_19136375	2022-05-11	France	other
+A/gull/France/23P001967/2023|EPI_ISL_19135913	2023-01-30	France	other
+A/gull/France/23P001735/2023|EPI_ISL_19135882	2023-01-25	France	other
+A/tern/France/23P006192/2023|EPI_ISL_19136108	2023-05-25	France	other
+A/gull/France/23P002860/2023|EPI_ISL_19136007	2023-02-11	France	other
+A/gull/France/23P005476/2023|EPI_ISL_19136078	2023-05-11	France	other
+A/Black-legged_kittiwake/Norway/2023-07-1028-1-2-t/2023|EPI_ISL_18939106	2023-06-07	Norway	other
+A/Black-legged_kittiwake/Norway/2023-04-21371-8/2023|EPI_ISL_18939104	2023-07-26	Norway	other
+A/gull/France/23P000487/2023|EPI_ISL_19135837	2023-01-05	France	other
+A/gull/France/23P003178/2023|EPI_ISL_19136025	2023-02-27	France	other
+A/gull/France/23P003309/2023|EPI_ISL_19136039	2023-03-06	France	other
+A/tern/France/23P006496/2023|EPI_ISL_19136117	2023-06-06	France	other
+A/gull/France/23P005186/2023|EPI_ISL_19136074	2023-05-07	France	other
+A/gull/France/23P005767/2023|EPI_ISL_19136086	2023-05-15	France	other
+A/Black-legged_kittiwake/Norway/2023-04-21371-6/2023|EPI_ISL_18939102	2023-07-26	Norway	other
+A/gull/France/23P003191/2023|EPI_ISL_19136030	2023-02-23	France	other
+A/gull/France/23P002851/2023|EPI_ISL_19136005	2023-02-13	France	other
+A/tern/France/23P006157/2023|EPI_ISL_19136105	2023-05-26	France	other
+A/gull/France/23P002004/2023|EPI_ISL_19135920	2023-02-01	France	other
+A/gull/France/23P002531/2023|EPI_ISL_19135980	2023-02-12	France	other
+A/gull/France/23P005479/2023|EPI_ISL_19136079	2023-05-11	France	other
+A/gull/France/23P006123/2023|EPI_ISL_19136104	2023-05-18	France	other
+A/gull/France/22P016997/2022|EPI_ISL_19135574	2022-06-01	France	other
+A/gull/France/22P016992/2022|EPI_ISL_19135573	2022-05-30	France	other
+A/gull/France/23P006466/2023|EPI_ISL_19136116	2023-05-24	France	other
+A/gull/France/23P002346/2023|EPI_ISL_19135955	2023-02-02	France	other
+A/gull/France/23P000317/2023|EPI_ISL_19135836	2023-01-02	France	other
+A/gull/France/23P002016/2023|EPI_ISL_19135925	2023-01-30	France	other
+A/gull/France/23P001955/2023|EPI_ISL_19135908	2023-01-30	France	other
+A/tern/France/23P006572/2023|EPI_ISL_19136127	2023-06-19	France	other
+A/Black-legged_kittiwake/Norway/2023-07-1640-1tr/2023|EPI_ISL_18939115	2023-07-20	Norway	other
+A/gull/France/23P001842/2023|EPI_ISL_19135899	2023-01-27	France	other
+A/gull/France/23P006026/2023|EPI_ISL_19136100	2023-05-18	France	other
+A/gull/France/22P016393/2022|EPI_ISL_19135565	2022-05-20	France	other
+A/chicken/Wales/138294/2022|EPI_ISL_15957660	2022-10-21	United Kingdom	other
+A/gull/France/22P020209/2022|EPI_ISL_19135667	2022-08-23	France	other
+A/gull/France/22P019961/2022|EPI_ISL_19135632	2022-08-15	France	other
+A/Black-legged_kittiwake/Norway/2023-04-21371-7/2023|EPI_ISL_18939103	2023-07-26	Norway	other
+A/gull/France/23P002791/2023|EPI_ISL_19136000	2023-02-08	France	other
+A/gull/France/23P002271/2023|EPI_ISL_19135945	2023-02-04	France	other
+A/gull/France/23P005153/2023|EPI_ISL_19136070	2023-05-02	France	other
+A/gull/France/22P016968/2022|EPI_ISL_19135571	2022-05-31	France	other
+A/gull/France/23P002435/2023|EPI_ISL_19135973	2023-02-10	France	other
+A/gull/France/23P002060/2023|EPI_ISL_19135935	2023-02-02	France	other
+A/gull/France/23P003460/2023|EPI_ISL_19136055	2023-03-14	France	other
+A/gull/France/23P001783/2023|EPI_ISL_19135889	2023-01-27	France	other
+A/gull/France/23P003319/2023|EPI_ISL_19136041	2023-03-02	France	other
+A/gull/France/23P002029/2023|EPI_ISL_19135928	2023-02-03	France	other
+A/gull/France/22P016375/2022|EPI_ISL_19135562	2022-05-18	France	other
+A/gull/France/23P002605/2023|EPI_ISL_19135989	2023-02-13	France	other
+A/tern/France/23P007222/2023|EPI_ISL_19136147	2023-07-05	France	other
+A/gull/France/22P020048/2022|EPI_ISL_19135637	2022-08-18	France	other
+A/gull/France/22P016396/2022|EPI_ISL_19135568	2022-05-24	France	other
+A/gull/France/22P017916/2022|EPI_ISL_19135580	2022-06-10	France	other
+A/Black-legged_kittiwake/Norway/2023-04-21371-5/2023|EPI_ISL_18939101	2023-07-26	Norway	other
+A/gull/France/23P003472/2023|EPI_ISL_19136057	2023-03-17	France	other
+A/gull/France/23P002535/2023|EPI_ISL_19135982	2023-02-13	France	other
+A/gull/France/23P002073/2023|EPI_ISL_19135939	2023-01-29	France	other
+A/gull/France/22P016972/2022|EPI_ISL_19135572	2022-05-25	France	other
+A/gull/France/23P007042/2023|EPI_ISL_19136135	2023-06-29	France	other
+A/gull/France/23P003498/2023|EPI_ISL_19136061	2023-02-25	France	other
+A/gull/France/23P003313/2023|EPI_ISL_19136040	2023-03-03	France	other
+A/gull/France/22P026696/2022|EPI_ISL_19135833	2022-12-27	France	other
+A/gull/France/23P000312/2023|EPI_ISL_19135835	2023-01-03	France	other
+A/gull/France/23P003102/2023|EPI_ISL_19136014	2023-02-16	France	other
+A/gull/France/23P001993/2023|EPI_ISL_19135918	2023-01-29	France	other
+A/gull/France/22P018442/2022|EPI_ISL_19135589	2022-06-24	France	other
+A/European_Herring_Gull/Netherlands/6/2022|EPI_ISL_13778469	2022-06-07	Netherlands	other
+A/gull/France/23P003146/2023|EPI_ISL_19136024	2023-02-25	France	other
+A/gull/France/23P002854/2023|EPI_ISL_19136006	2023-02-12	France	other
+A/tern/France/23P006029/2023|EPI_ISL_19136102	2023-05-17	France	other
+A/gull/France/23P001976/2023|EPI_ISL_19135916	2023-01-29	France	other
+A/gull/France/23P006573/2023|EPI_ISL_19136128	2023-06-14	France	other
+A/gull/France/22P019778/2022|EPI_ISL_19135622	2022-07-30	France	other
+A/gull/France/23P004122/2023|EPI_ISL_19136064	2023-04-06	France	other
+A/gull/France/23P001782/2023|EPI_ISL_19135888	2023-01-27	France	other
+A/gull/France/23P003112/2023|EPI_ISL_19136016	2023-02-21	France	other
+A/gull/France/23P003448/2023|EPI_ISL_19136053	2023-03-13	France	other
+A/gull/France/23P001751/2023|EPI_ISL_19135887	2023-01-20	France	other
+A/gull/France/22P016381/2022|EPI_ISL_19135563	2022-05-19	France	other
+A/gull/France/22P016390/2022|EPI_ISL_19135564	2022-05-21	France	other
+A/gull/France/22P018177/2022|EPI_ISL_19135587	2022-06-15	France	other
+A/gull/France/23P006190/2023|EPI_ISL_19136107	2023-05-25	France	other
+A/gull/France/22P019950/2022|EPI_ISL_19135631	2022-08-12	France	other
+A/gull/France/23P002330/2023|EPI_ISL_19135950	2023-02-06	France	other
+A/black-headed_gull/Slovenia/PER510-23M1A_23VIR10323-3/2023|EPI_ISL_18612174	2023-03-21	Slovenia	other
+A/turkey/England/140663/2022|EPI_ISL_15957702	2022-10-23	United Kingdom	other
+A/gull/France/23P003340/2023|EPI_ISL_19136047	2023-03-08	France	other
+A/gull/France/23P006122/2023|EPI_ISL_19136103	2023-05-18	France	other
+A/gull/France/23P002008/2023|EPI_ISL_19135922	2023-01-31	France	other
+A/Herring_gull/Norway/2023-07-240-1T/2023|EPI_ISL_18939118	2023-04-12	Norway	other
+A/gull/France/23P002541/2023|EPI_ISL_19135985	2023-02-12	France	other
+A/gull/France/23P007919/2023|EPI_ISL_19136169	2023-08-01	France	other
+A/gull/France/23P001962/2023|EPI_ISL_19135910	2023-01-26	France	other
+A/gull/France/23P001947/2023|EPI_ISL_19135907	2023-01-31	France	other
+A/gull/France/23P002405/2023|EPI_ISL_19135969	2023-02-10	France	other
+A/gull/France/23P006028/2023|EPI_ISL_19136101	2023-05-20	France	other
+A/Black-legged_kittiwake/Norway/2023-07-1645-1k/2023|EPI_ISL_18939117	2023-07-20	Norway	other
+A/gull/France/23P002014/2023|EPI_ISL_19135924	2023-01-29	France	other
+A/gull/France/23P002811/2023|EPI_ISL_19136004	2023-02-11	France	other
+A/gull/France/22P018567/2022|EPI_ISL_19135593	2022-06-21	France	other
+A/Black-legged_kittiwake/Norway/2023-07-1336-2-s/2023|EPI_ISL_18939111	2023-07-04	Norway	other
+A/gull/France/22P019876/2022|EPI_ISL_19135627	2022-08-11	France	other
+A/gull/France/22P016962/2022|EPI_ISL_19135569	2022-05-31	France	other
+A/gull/France/23P007177/2023|EPI_ISL_19136141	2023-07-02	France	other
+A/gull/France/23P005191/2023|EPI_ISL_19136077	2023-05-07	France	other
+A/gull/France/22P020394/2022|EPI_ISL_19135738	2022-09-03	France	other
+A/gull/France/23P005188/2023|EPI_ISL_19136075	2023-05-04	France	other
+A/Black-legged_kittiwake/Norway/2023-07-887-1tr/2023|EPI_ISL_18939121	2023-05-25	Norway	other
+A/gull/France/22P016394/2022|EPI_ISL_19135567	2022-05-24	France	other
+A/gull/France/23P002395/2023|EPI_ISL_19135966	2023-02-07	France	other
+A/gull/France/23P002041/2023|EPI_ISL_19135930	2023-01-27	France	other
+A/gull/France/22P018610/2022|EPI_ISL_19135601	2022-06-27	France	other
+A/gull/France/23P003336/2023|EPI_ISL_19136045	2023-03-03	France	other
+A/gull/France/23P007950/2023|EPI_ISL_19136170	2023-07-28	France	other
+A/gull/France/23P002440/2023|EPI_ISL_19135975	2023-02-09	France	other
+A/gull/France/22P018154/2022|EPI_ISL_19135585	2022-06-14	France	other
+A/gull/France/23P007713/2023|EPI_ISL_19136164	2023-07-18	France	other
+A/gull/France/23P003328/2023|EPI_ISL_19136043	2023-03-06	France	other
+A/gull/France/23P002002/2023|EPI_ISL_19135919	2023-01-30	France	other
+A/gull/France/23P002055/2023|EPI_ISL_19135932	2023-01-29	France	other
+A/tern/France/23P006461/2023|EPI_ISL_19136114	2023-05-31	France	other
+A/gull/France/23P002437/2023|EPI_ISL_19135974	2023-02-09	France	other
+A/gull/France/23P006923/2023|EPI_ISL_19136132	2023-06-17	France	other
+A/gull/France/23P002869/2023|EPI_ISL_19136009	2023-02-14	France	other
+A/gull/France/23P002877/2023|EPI_ISL_19136010	2023-02-15	France	other
+A/gull/France/23P002603/2023|EPI_ISL_19135988	2023-02-10	France	other
+A/gull/France/22P016964/2022|EPI_ISL_19135570	2022-05-31	France	other
+A/tern/France/23P005764/2023|EPI_ISL_19136085	2023-05-11	France	other
+A/gull/France/23P001939/2023|EPI_ISL_19135904	2023-01-30	France	other
+A/gull/France/23P005662/2023|EPI_ISL_19136084	2023-05-14	France	other
+A/gull/France/23P002411/2023|EPI_ISL_19135971	2023-02-07	France	other
+A/gull/France/23P002079/2023|EPI_ISL_19135940	2023-02-02	France	other
+A/tern/France/23P006955/2023|EPI_ISL_19136133	2023-06-28	France	other
+A/gull/France/23P003305/2023|EPI_ISL_19136037	2023-03-03	France	other
+A/gull/France/23P002350/2023|EPI_ISL_19135957	2023-02-06	France	other
+A/gull/France/23P007182/2023|EPI_ISL_19136143	2023-07-04	France	other
+A/Black-legged_kittiwake/Norway/2023-07-1641-1tr/2023|EPI_ISL_18939116	2023-07-20	Norway	other
+A/gull/France/23P002374/2023|EPI_ISL_19135963	2023-01-31	France	other
+A/gull/France/23P006024/2023|EPI_ISL_19136099	2023-05-22	France	other
+A/gull/France/22P016995/2022|EPI_ISL_19136336	2022-06-01	France	other
+A/gull/France/22P017926/2022|EPI_ISL_19135582	2022-06-13	France	other
+A/gull/France/23P001613/2023|EPI_ISL_19135876	2023-01-23	France	other
+A/gull/France/22P019863/2022|EPI_ISL_19135626	2022-08-10	France	other
+A/gull/France/23P001937/2023|EPI_ISL_19135903	2023-01-23	France	other
+A/gull/France/23P003325/2023|EPI_ISL_19136042	2023-03-04	France	other
+A/tern/France/23P006464/2023|EPI_ISL_19136115	2023-05-22	France	other
+A/gull/France/23P002348/2023|EPI_ISL_19135956	2023-01-31	France	other
+A/gull/France/23P005844/2023|EPI_ISL_19136087	2023-05-15	France	other
+A/gull/France/23P002781/2023|EPI_ISL_19135997	2023-02-12	France	other
+A/gull/France/23P001788/2023|EPI_ISL_19135891	2023-01-28	France	other
+A/chicken/England/146449/2022|EPI_ISL_15957892	2022-11-05	United Kingdom	other
+A/northern_gannet/France/23P007998/2023|EPI_ISL_19136172	2023-08-23	France	other
+A/gull/France/23P006021/2023|EPI_ISL_19136098	2023-05-22	France	other
+A/gull/France/22P020259/2022|EPI_ISL_19135694	2022-08-20	France	other
+A/gull/France/22P017913/2022|EPI_ISL_19135579	2022-06-10	France	other
+A/tern/France/23P007410/2023|EPI_ISL_19136160	2023-07-12	France	other
+A/tern/France/23P006569/2023|EPI_ISL_19136126	2023-06-19	France	other
+A/gull/France/23P004120/2023|EPI_ISL_19136063	2023-04-07	France	other
+A/tern/France/23P005989/2023|EPI_ISL_19136094	2023-05-18	France	other
+A/tern/France/23P006553/2023|EPI_ISL_19136123	2023-06-16	France	other
+A/gull/France/22P019677/2022|EPI_ISL_19135608	2022-07-05	France	other
+A/gull/France/23P001936/2023|EPI_ISL_19135902	2023-01-26	France	other
+A/gull/France/22P019071/2022|EPI_ISL_19135602	2022-06-30	France	other
+A/gull/France/23P002864/2023|EPI_ISL_19136008	2023-02-18	France	other
+A/gull/France/23P001717/2023|EPI_ISL_19135879	2023-01-30	France	other
+A/tern/France/23P006160/2023|EPI_ISL_19136106	2023-05-26	France	other
+A/gull/France/23P001742/2023|EPI_ISL_19135884	2023-01-26	France	other
+A/European_Herring_Gull/Netherlands/7/2022|EPI_ISL_13778474	2022-06-07	Netherlands	other
+A/gull/France/23P002408/2023|EPI_ISL_19135970	2023-02-01	France	other
+A/gull/France/23P002795/2023|EPI_ISL_19136002	2023-02-07	France	other
+A/gull/France/23P001992/2023|EPI_ISL_19135917	2023-01-30	France	other
+A/gull/France/23P002372/2023|EPI_ISL_19135962	2023-02-10	France	other
+A/gull/France/22P016372/2022|EPI_ISL_19135561	2022-05-18	France	other
+A/gull/France/23P003303/2023|EPI_ISL_19136036	2023-02-18	France	other
+A/gull/France/23P002404/2023|EPI_ISL_19135968	2023-02-04	France	other
+A/gull/France/23P002006/2023|EPI_ISL_19135921	2023-01-30	France	other
+A/falcon/Austria/23032458/2023|EPI_ISL_17514177	2023-03-10	Austria	other
+A/tern/France/23P007409/2023|EPI_ISL_19136159	2023-07-12	France	other
+A/gull/France/23P007382/2023|EPI_ISL_19136158	2023-07-10	France	other
+A/gull/France/23P007380/2023|EPI_ISL_19136157	2023-07-03	France	other
+A/tern/France/23P007377/2023|EPI_ISL_19136156	2023-07-05	France	other
+A/gull/France/23P007371/2023|EPI_ISL_19136155	2023-07-10	France	other
+A/gull/France/23P007369/2023|EPI_ISL_19136154	2023-07-04	France	other
+A/gull/France/23P007367/2023|EPI_ISL_19136153	2023-07-04	France	other
+A/tern/France/23P007366/2023|EPI_ISL_19136152	2023-07-10	France	other
+A/tern/France/23P007364/2023|EPI_ISL_19136151	2023-07-10	France	other
+A/gull/France/23P007361/2023|EPI_ISL_19136150	2023-07-10	France	other
+A/tern/France/23P007359/2023|EPI_ISL_19136149	2023-07-06	France	other
+A/tern/France/23P007358/2023|EPI_ISL_19136148	2023-07-12	France	other
+A/tern/France/23P007219/2023|EPI_ISL_19136146	2023-07-05	France	other
+A/gull/France/23P007215/2023|EPI_ISL_19136145	2023-07-05	France	other
+A/tern/France/23P007213/2023|EPI_ISL_19136144	2023-07-03	France	other

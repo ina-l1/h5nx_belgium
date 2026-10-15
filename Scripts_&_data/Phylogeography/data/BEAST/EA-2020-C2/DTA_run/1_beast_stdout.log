@@ -1,0 +1,355 @@
+
+                  BEAST v10.5.0, 2002-2025
+       Bayesian Evolutionary Analysis Sampling Trees
+                 Designed and developed by
+   Alexei J. Drummond, Andrew Rambaut and Marc A. Suchard
+                              
+               Department of Computer Science
+                   University of Auckland
+                  alexei@cs.auckland.ac.nz
+                              
+             Institute of Ecology and Evolution
+                  University of Edinburgh
+                     a.rambaut@ed.ac.uk
+                              
+              David Geffen School of Medicine
+           University of California, Los Angeles
+                     msuchard@ucla.edu
+                              
+                Downloads, Help & Resources:
+                  	http://beast.community
+                              
+Source code distributed under the GNU Lesser General Public License:
+          	http://github.com/beast-dev/beast-mcmc
+                              
+                     BEAST developers:
+	Alex Alekseyenko, Daniel Ayres, Guy Baele, Trevor Bedford, Filip Bielejec, Erik Bloomquist, 
+	Luiz Max Carvalho, Gabriela Cybis, Mandev Gill, Matthew Hall, Gabe Hassler, Joseph Heled, 
+	Sebastian Hoehna, Xiang Ji, Michael Karcher, Denise Kuehnert, Philippe Lemey, Wai Lok Sibon Li, 
+	Gerton Lunter, Andy Magee, Sidney Markowitz, JT McCrone, Volodymyr Minin, Julia Palacios, 
+	Michael Defoin Platel, Oliver Pybus, Yucai Shao, Max Tolkoff, Chieh-Hsi Wu, Walter Xie and Zhenyu Zhang
+                              
+                         Thanks to:
+    	Roald Forsberg, Beth Shapiro and Korbinian Strimmer
+
+Using BEAGLE library v4.0.1 (PRE-RELEASE) for accelerated, parallel likelihood evaluation
+2009-, BEAGLE Working Group - https://beagle-dev.github.io/
+Citation: Ayres et al (2019) Systematic Biology 68: 1052-1061 | doi:10.1093/sysbio/syz020
+
+
+Random number seed: 1770744040963
+
+
+
+Loading additional development parsers from development_parsers.properties, which is additional set of parsers only available for development version ...
+
+
+Parsing XML file: BEAST_DTA_EA-2020-C2.xml
+  File encoding: UTF8
+Looking for plugins in /opt/homebrew/Cellar/beast/10.5.0/libexec/plugins
+Looking for plugins in /Users/ina/git/flucart/data/BEAST/EA-2020-C2/treetime_DTA/plugins
+
+Taxon list 'taxa' created with 814 taxa.
+    most recent taxon date = 2023.1 years
+
+Read alignment: alignment
+  Sequences = 814
+      Sites = 4
+   Datatype = nucleotide
+
+Site patterns 'patterns' created from positions 1-4 of alignment 'alignment'
+  compressed to unique site patterns
+  pattern count = 1
+
+Creating the tree model, 'treeModel'
+             taxon count = 814
+             tree height = 2.01157
+          min tip height = -0.0
+          max tip height = 1.6310000000000855
+Read attribute patterns, 'location.pattern' for attribute, location
+
+Using strict molecular clock model.
+
+Creating state frequencies model 'location.frequencies': Initial frequencies = {0.5, 0.5}
+  General Substitution Model (stateCount=2)
+  Using BSSVS Complex Substitution Model
+
+Creating site rate model.
+
+Creating state frequencies model 'location.root.frequencies': Initial frequencies = {0.5, 0.5}
+
+Using BEAGLE TreeLikelihood
+  Branch rate model used: strictClockBranchRates
+  Using BEAGLE resource 0: CPU (arm64)
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_COMPLEX SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_CPP PROCESSOR_CPU FRAMEWORK_CPU PREORDER_TRANSPOSE_MANUAL
+  Ignoring ambiguities in tree likelihood.
+  With 1 unique site patterns.
+  Using rescaling scheme : dynamic (rescaling every 100 evaluations, delay rescaling until first overflow)
+
+Creating operator scheduler
+  Optimization schedule: log
+
+Creating CTMC Scale Reference Prior model
+Constructing a cache around likelihood 'null', signal = location.rates
+
+Likelihood computation is using an auto sizing thread pool.
+
+Creating the MCMC chain:
+  chain length = 200000
+  operator adaption = true
+  adaptation delayed for 2000 steps
+
+Citations for this analysis: 
+
+FRAMEWORK
+BEAST primary citation:
+	Baele G, Ji X, Hassler GW, McCrone JT, Shao Y, Zhang Z, Holbrook AJ, Lemey P, Drummond AJ, Rambaut A, Suchard MA (2025) BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference. Nature Methods. . DOI:10.1038/s41592-025-02751-x
+
+HIGH-PERFORMANCE COMPUTING
+BEAGLE citation:
+	Ayres DL, Cummings MP, Baele G, Darling AE, Lewis PO, Swofford DL, Huelsenbeck JP, Lemey P, Rambaut A, Suchard MA (2019) BEAGLE 3: Improved performance, scaling and usability for a high-performance computing library for statistical phylogenetics. Systematic Biology. 68, 1052-1061
+
+SUBSTITUTION MODELS
+Complex-diagonalizable, irreversible substitution model:
+	Edwards CJ, Suchard MA, Lemey P, Welch JJ, Barnes I, Fulton TL, Barnett R, O'Connell TC, Coxon P, Monaghan N, Valdiosera CE, Lorenzen ED, Willerslev E, Baryshnikov GF, Rambaut A, Thomas MG, Bradley DG, Shapiro B (2011) Ancient hybridization and an Irish origin for the modern polar bear matriline. Current Biology. 21, 1251-1258
+
+PRIOR MODELS
+CTMC Scale Reference Prior model:
+	Ferreira MAR, Suchard MA (2008) Bayesian analysis of elapsed times in continuous-time Markov chains. Canadian Journal of Statistics. 36, 355-368
+
+
+# BEAST v10.5.0
+# Generated Tue Feb 10 18:20:41 CET 2026 [seed=1770744040963]
+# -overwrite -prefix 1_ BEAST_DTA_EA-2020-C2.xml
+state	Joint       	Prior       	Likelihood  	location.clock.rate	location.nonZeroRates
+0	-239.4759   	-122.8994   	-116.5765   	1.00000     	2     	-
+Underflow calculating likelihood. Attempting a rescaling...
+1000	-32.9181    	-2.0887     	-30.8294    	2.45011E-2  	1     	-
+2000	-32.1678    	-1.6572     	-30.5105    	2.0676E-2   	1     	-
+3000	-32.0262    	-1.4338     	-30.5924    	1.54308E-2  	1     	-
+4000	-31.5310    	0.9040      	-32.4350    	8.19398E-3  	1     	-
+5000	-31.5424    	-0.2145     	-31.3280    	1.20338E-2  	2     	-
+6000	-36.7976    	-2.7262     	-34.0714    	1.46894E-2  	2     	-
+7000	-32.6934    	-1.2911     	-31.4023    	1.00367E-2  	1     	-
+8000	-31.0770    	-0.1884     	-30.8886    	1.71845E-2  	1     	-
+9000	-33.1148    	-2.2315     	-30.8833    	1.60486E-2  	2     	-
+10000	-31.2543    	0.0479      	-31.3022    	1.21842E-2  	1     	-
+11000	-34.0332    	-1.9462     	-32.0870    	1.07556E-2  	1     	2.16 minutes/million states
+Underflow calculating likelihood (1000 messages not shown).
+12000	-34.2262    	-3.6838     	-30.5424    	2.68914E-2  	1     	2.13 minutes/million states
+13000	-32.3846    	-0.8273     	-31.5573    	1.60804E-2  	2     	2.11 minutes/million states
+14000	-32.7836    	-1.9534     	-30.8302    	2.74148E-2  	1     	2.09 minutes/million states
+15000	-30.7347    	0.4228      	-31.1575    	1.31889E-2  	1     	2.07 minutes/million states
+16000	-34.2071    	-2.4655     	-31.7417    	2.57996E-2  	1     	2.06 minutes/million states
+17000	-33.5559    	-0.8786     	-32.6773    	1.84123E-2  	1     	2.04 minutes/million states
+18000	-33.2438    	-2.1176     	-31.1262    	2.56599E-2  	2     	2.03 minutes/million states
+19000	-31.7766    	1.9509      	-33.7275    	5.30736E-3  	1     	2.02 minutes/million states
+20000	-35.9739    	-4.5236     	-31.4503    	1.45242E-2  	2     	2.01 minutes/million states
+21000	-33.1692    	-1.7872     	-31.3819    	1.29085E-2  	1     	2 minutes/million states
+Underflow calculating likelihood (2000 messages not shown).
+22000	-30.3420    	0.7951      	-31.1371    	1.38409E-2  	1     	2 minutes/million states
+23000	-30.7663    	1.5706      	-32.3369    	8.30578E-3  	1     	1.99 minutes/million states
+24000	-32.3484    	1.5654      	-33.9137    	5.28543E-3  	1     	1.98 minutes/million states
+25000	-33.7244    	-2.7458     	-30.9786    	2.04393E-2  	1     	1.97 minutes/million states
+26000	-31.7727    	-0.1317     	-31.6411    	1.26473E-2  	1     	1.97 minutes/million states
+27000	-35.5057    	-3.8440     	-31.6616    	2.67303E-2  	2     	1.96 minutes/million states
+28000	-32.2874    	-1.3643     	-30.9231    	1.27877E-2  	1     	1.96 minutes/million states
+29000	-32.2859    	-1.3792     	-30.9067    	2.74399E-2  	1     	1.95 minutes/million states
+30000	-31.3500    	0.0569      	-31.4069    	1.23169E-2  	2     	1.95 minutes/million states
+31000	-30.6927    	0.7140      	-31.4067    	1.18733E-2  	1     	1.94 minutes/million states
+Underflow calculating likelihood (3000 messages not shown).
+32000	-32.3482    	-1.6084     	-30.7398    	2.58614E-2  	1     	1.94 minutes/million states
+33000	-31.0417    	-0.5944     	-30.4473    	2.03445E-2  	1     	1.94 minutes/million states
+34000	-30.9287    	-0.3241     	-30.6046    	1.6201E-2   	1     	1.93 minutes/million states
+35000	-31.6656    	-0.7569     	-30.9087    	1.81013E-2  	1     	1.93 minutes/million states
+36000	-31.8580    	-1.0709     	-30.7871    	1.39213E-2  	1     	1.93 minutes/million states
+37000	-31.3666    	0.6980      	-32.0646    	1.06246E-2  	1     	1.93 minutes/million states
+38000	-31.7726    	-0.8897     	-30.8829    	2.06528E-2  	2     	1.92 minutes/million states
+39000	-39.0287    	-8.5941     	-30.4346    	1.70501E-2  	1     	1.92 minutes/million states
+40000	-32.9880    	-2.0421     	-30.9459    	2.26008E-2  	1     	1.92 minutes/million states
+41000	-30.3002    	1.1328      	-31.4330    	1.37957E-2  	1     	1.92 minutes/million states
+Underflow calculating likelihood (4000 messages not shown).
+42000	-30.1833    	0.8211      	-31.0044    	1.48298E-2  	1     	1.92 minutes/million states
+43000	-35.7031    	-4.5715     	-31.1316    	3.14178E-2  	2     	1.91 minutes/million states
+44000	-32.6765    	-1.8173     	-30.8592    	2.14334E-2  	2     	1.91 minutes/million states
+45000	-33.2198    	-1.5273     	-31.6926    	1.35695E-2  	1     	1.91 minutes/million states
+46000	-33.9999    	-2.1793     	-31.8206    	1.26598E-2  	1     	1.91 minutes/million states
+47000	-32.6895    	-1.6569     	-31.0326    	1.68525E-2  	1     	1.91 minutes/million states
+48000	-29.4929    	1.8087      	-31.3017    	1.05839E-2  	1     	1.91 minutes/million states
+49000	-30.4492    	0.0845      	-30.5337    	1.61904E-2  	1     	1.9 minutes/million states
+50000	-31.2977    	-0.8610     	-30.4368    	2.38626E-2  	1     	1.9 minutes/million states
+51000	-30.3231    	0.3219      	-30.6450    	1.71929E-2  	1     	1.9 minutes/million states
+Underflow calculating likelihood (5000 messages not shown).
+52000	-32.6849    	-1.0765     	-31.6084    	1.81968E-2  	1     	1.9 minutes/million states
+53000	-31.4385    	-0.6507     	-30.7878    	1.54726E-2  	1     	1.9 minutes/million states
+54000	-30.4670    	0.8816      	-31.3485    	1.30166E-2  	1     	1.9 minutes/million states
+55000	-34.4860    	-3.2449     	-31.2411    	1.97935E-2  	1     	1.9 minutes/million states
+56000	-31.5109    	-0.4145     	-31.0964    	1.24498E-2  	1     	1.9 minutes/million states
+57000	-37.6358    	0.4024      	-38.0382    	3.47399E-3  	2     	1.9 minutes/million states
+58000	-34.1916    	-2.9765     	-31.2151    	1.15948E-2  	1     	1.9 minutes/million states
+59000	-30.2053    	1.6348      	-31.8400    	8.77109E-3  	1     	1.9 minutes/million states
+60000	-36.7840    	-5.7859     	-30.9980    	4.40956E-2  	2     	1.9 minutes/million states
+61000	-33.9644    	-2.4900     	-31.4744    	1.37193E-2  	1     	1.89 minutes/million states
+Underflow calculating likelihood (6000 messages not shown).
+62000	-33.7763    	-3.1360     	-30.6403    	2.12823E-2  	1     	1.89 minutes/million states
+63000	-32.0265    	-1.3593     	-30.6672    	2.51934E-2  	1     	1.89 minutes/million states
+64000	-33.2655    	-2.0400     	-31.2255    	1.70687E-2  	2     	1.89 minutes/million states
+65000	-33.0991    	-2.1608     	-30.9383    	1.40379E-2  	2     	1.89 minutes/million states
+66000	-32.9892    	-0.2530     	-32.7362    	6.55498E-3  	1     	1.89 minutes/million states
+67000	-33.6745    	-0.5383     	-33.1361    	9.21827E-3  	2     	1.89 minutes/million states
+68000	-32.3237    	-1.2871     	-31.0366    	1.36494E-2  	1     	1.89 minutes/million states
+69000	-31.2653    	0.2885      	-31.5538    	1.62466E-2  	1     	1.88 minutes/million states
+70000	-32.7543    	-1.6643     	-31.0900    	2.00528E-2  	1     	1.88 minutes/million states
+71000	-35.1892    	-3.7426     	-31.4466    	1.23678E-2  	2     	1.88 minutes/million states
+Underflow calculating likelihood (7000 messages not shown).
+72000	-30.2700    	0.5052      	-30.7752    	1.63201E-2  	1     	1.88 minutes/million states
+73000	-35.9871    	-5.4101     	-30.5771    	1.80101E-2  	1     	1.88 minutes/million states
+74000	-31.0366    	-0.4227     	-30.6139    	1.72739E-2  	1     	1.88 minutes/million states
+75000	-32.0935    	-1.3572     	-30.7363    	1.9877E-2   	1     	1.88 minutes/million states
+76000	-33.0720    	-1.7116     	-31.3604    	2.18029E-2  	2     	1.88 minutes/million states
+77000	-33.5348    	-0.7210     	-32.8138    	2.04754E-2  	2     	1.88 minutes/million states
+78000	-32.6736    	-1.1083     	-31.5653    	9.74028E-3  	1     	1.88 minutes/million states
+79000	-31.3015    	2.6291      	-33.9306    	4.84049E-3  	1     	1.88 minutes/million states
+80000	-30.9041    	1.0770      	-31.9811    	9.81824E-3  	1     	1.87 minutes/million states
+81000	-33.2791    	-1.0332     	-32.2459    	1.22014E-2  	2     	1.87 minutes/million states
+82000	-32.6612    	-1.9677     	-30.6935    	2.01793E-2  	2     	1.87 minutes/million states
+Underflow calculating likelihood (8000 messages not shown).
+83000	-32.4679    	-1.1235     	-31.3445    	1.3788E-2   	2     	1.87 minutes/million states
+84000	-30.9613    	-0.0511     	-30.9102    	1.28884E-2  	1     	1.87 minutes/million states
+85000	-33.3539    	0.8198      	-34.1737    	4.69249E-3  	1     	1.87 minutes/million states
+86000	-31.0610    	0.1246      	-31.1856    	1.13966E-2  	1     	1.87 minutes/million states
+87000	-30.5353    	0.8824      	-31.4178    	1.42934E-2  	1     	1.87 minutes/million states
+88000	-31.9566    	-1.2165     	-30.7401    	1.5923E-2   	1     	1.87 minutes/million states
+89000	-34.1353    	-2.4291     	-31.7062    	3.16998E-2  	1     	1.87 minutes/million states
+90000	-30.9886    	0.3080      	-31.2966    	1.18632E-2  	1     	1.87 minutes/million states
+91000	-31.2346    	-0.4710     	-30.7636    	1.7029E-2   	1     	1.87 minutes/million states
+Underflow calculating likelihood (9000 messages not shown).
+92000	-31.6479    	-0.2001     	-31.4478    	1.13289E-2  	1     	1.87 minutes/million states
+93000	-35.9102    	-4.3587     	-31.5515    	2.26893E-2  	2     	1.87 minutes/million states
+94000	-36.5358    	-5.4702     	-31.0655    	4.88927E-2  	2     	1.87 minutes/million states
+95000	-37.3286    	-6.3213     	-31.0073    	5.15699E-2  	2     	1.87 minutes/million states
+96000	-30.2269    	0.4817      	-30.7087    	1.55018E-2  	1     	1.87 minutes/million states
+97000	-36.7732    	-5.0642     	-31.7090    	2.22855E-2  	1     	1.86 minutes/million states
+98000	-33.9857    	-3.1987     	-30.7870    	1.34589E-2  	1     	1.86 minutes/million states
+99000	-31.5164    	1.0350      	-32.5514    	9.5952E-3   	1     	1.86 minutes/million states
+100000	-31.7944    	-0.0387     	-31.7557    	1.07124E-2  	1     	1.83 minutes/million states
+101000	-31.4898    	-0.8868     	-30.6030    	1.65809E-2  	1     	1.83 minutes/million states
+102000	-33.5081    	-2.8847     	-30.6234    	2.48831E-2  	2     	1.83 minutes/million states
+Underflow calculating likelihood (10000 messages not shown).
+103000	-34.8200    	-2.5118     	-32.3082    	2.0176E-2   	1     	1.83 minutes/million states
+104000	-30.9723    	0.7696      	-31.7419    	1.19919E-2  	1     	1.83 minutes/million states
+105000	-31.3574    	-0.6867     	-30.6707    	1.55356E-2  	1     	1.83 minutes/million states
+106000	-32.8282    	-2.4038     	-30.4244    	2.09039E-2  	2     	1.83 minutes/million states
+107000	-32.9725    	-1.8932     	-31.0793    	1.69588E-2  	2     	1.83 minutes/million states
+108000	-31.9196    	1.3644      	-33.2840    	6.03851E-3  	1     	1.83 minutes/million states
+109000	-35.7504    	-3.4864     	-32.2640    	9.33322E-3  	2     	1.83 minutes/million states
+110000	-31.5947    	-0.6630     	-30.9317    	1.56508E-2  	1     	1.83 minutes/million states
+111000	-37.2324    	-3.1492     	-34.0832    	5.56656E-3  	1     	1.83 minutes/million states
+Underflow calculating likelihood (11000 messages not shown).
+112000	-30.9597    	-0.5145     	-30.4452    	1.97208E-2  	1     	1.83 minutes/million states
+113000	-34.1658    	-3.4434     	-30.7223    	1.83915E-2  	1     	1.83 minutes/million states
+114000	-32.2061    	-0.8222     	-31.3839    	1.35033E-2  	1     	1.83 minutes/million states
+115000	-33.6901    	-1.7248     	-31.9653    	9.84867E-3  	1     	1.83 minutes/million states
+116000	-32.5331    	-0.3098     	-32.2233    	1.09005E-2  	2     	1.83 minutes/million states
+117000	-35.8264    	-5.2453     	-30.5811    	2.88603E-2  	2     	1.83 minutes/million states
+118000	-32.3002    	-1.6872     	-30.6130    	1.98982E-2  	2     	1.83 minutes/million states
+119000	-31.9654    	-1.3044     	-30.6610    	1.68001E-2  	1     	1.83 minutes/million states
+120000	-32.1351    	-1.1622     	-30.9729    	1.79478E-2  	1     	1.83 minutes/million states
+121000	-35.3488    	-3.6346     	-31.7142    	2.42572E-2  	2     	1.83 minutes/million states
+122000	-31.9252    	-1.0952     	-30.8299    	1.39525E-2  	1     	1.83 minutes/million states
+Underflow calculating likelihood (12000 messages not shown).
+123000	-32.3860    	-1.4855     	-30.9005    	1.42827E-2  	1     	1.83 minutes/million states
+124000	-32.4721    	-1.6888     	-30.7833    	1.62299E-2  	2     	1.83 minutes/million states
+125000	-30.4222    	0.1592      	-30.5815    	1.5847E-2   	1     	1.83 minutes/million states
+126000	-39.1704    	-7.3832     	-31.7872    	5.77457E-2  	2     	1.83 minutes/million states
+127000	-36.4045    	-4.8162     	-31.5883    	4.6774E-2   	2     	1.83 minutes/million states
+128000	-30.8280    	0.3353      	-31.1633    	1.11824E-2  	1     	1.83 minutes/million states
+129000	-33.2599    	-2.1110     	-31.1489    	1.28095E-2  	1     	1.83 minutes/million states
+130000	-32.5169    	-1.6836     	-30.8333    	1.92135E-2  	1     	1.83 minutes/million states
+131000	-33.6227    	-2.1579     	-31.4648    	1.07743E-2  	1     	1.82 minutes/million states
+Underflow calculating likelihood (13000 messages not shown).
+132000	-31.8789    	-1.1206     	-30.7582    	1.50103E-2  	1     	1.82 minutes/million states
+133000	-30.5930    	0.5793      	-31.1723    	1.39237E-2  	1     	1.82 minutes/million states
+134000	-31.7032    	-0.3443     	-31.3589    	1.47129E-2  	1     	1.82 minutes/million states
+135000	-31.2899    	-0.2767     	-31.0132    	1.6505E-2   	1     	1.82 minutes/million states
+136000	-32.6316    	-0.8725     	-31.7591    	2.03286E-2  	2     	1.82 minutes/million states
+137000	-31.0779    	0.0606      	-31.1385    	1.12069E-2  	1     	1.82 minutes/million states
+138000	-30.9510    	0.5282      	-31.4792    	1.26384E-2  	1     	1.82 minutes/million states
+139000	-31.5330    	-0.6456     	-30.8874    	1.96232E-2  	2     	1.82 minutes/million states
+140000	-31.7629    	-0.8446     	-30.9183    	1.35645E-2  	2     	1.82 minutes/million states
+141000	-36.0286    	-4.9137     	-31.1148    	1.46056E-2  	1     	1.82 minutes/million states
+142000	-33.2485    	-2.5484     	-30.7001    	2.62399E-2  	1     	1.82 minutes/million states
+Underflow calculating likelihood (14000 messages not shown).
+143000	-34.2293    	-1.8009     	-32.4283    	2.58307E-2  	2     	1.82 minutes/million states
+144000	-32.8207    	-2.2417     	-30.5789    	2.20038E-2  	1     	1.82 minutes/million states
+145000	-34.6515    	-3.4818     	-31.1697    	3.59906E-2  	2     	1.82 minutes/million states
+146000	-32.3218    	-0.8719     	-31.4499    	2.38096E-2  	1     	1.82 minutes/million states
+147000	-30.3328    	0.2661      	-30.5990    	1.62125E-2  	1     	1.82 minutes/million states
+148000	-32.8506    	-1.4218     	-31.4287    	1.42952E-2  	1     	1.82 minutes/million states
+149000	-32.7328    	-1.7353     	-30.9976    	2.21126E-2  	1     	1.82 minutes/million states
+150000	-31.7561    	-0.3564     	-31.3997    	1.53142E-2  	2     	1.82 minutes/million states
+151000	-37.5208    	-5.5086     	-32.0122    	1.31956E-2  	2     	1.82 minutes/million states
+152000	-31.5507    	-0.3684     	-31.1823    	1.74335E-2  	1     	1.82 minutes/million states
+Underflow calculating likelihood (15000 messages not shown).
+153000	-29.9520    	1.1663      	-31.1183    	1.17376E-2  	1     	1.82 minutes/million states
+154000	-33.2869    	-2.6124     	-30.6745    	2.75254E-2  	2     	1.82 minutes/million states
+155000	-30.3647    	1.0306      	-31.3953    	1.37864E-2  	1     	1.82 minutes/million states
+156000	-33.6126    	-0.2826     	-33.3300    	1.4452E-2   	2     	1.82 minutes/million states
+157000	-32.2922    	-1.5538     	-30.7385    	1.59739E-2  	1     	1.82 minutes/million states
+158000	-31.1621    	1.2771      	-32.4392    	9.12099E-3  	1     	1.82 minutes/million states
+159000	-34.3671    	-3.8681     	-30.4990    	2.62078E-2  	1     	1.81 minutes/million states
+160000	-31.4571    	-0.9552     	-30.5018    	2.19791E-2  	2     	1.82 minutes/million states
+161000	-30.4372    	0.6357      	-31.0729    	1.24974E-2  	1     	1.82 minutes/million states
+162000	-32.1472    	-0.1973     	-31.9498    	9.88724E-3  	2     	1.81 minutes/million states
+Underflow calculating likelihood (16000 messages not shown).
+163000	-30.7132    	1.4524      	-32.1656    	7.89376E-3  	1     	1.81 minutes/million states
+164000	-33.9664    	-3.4051     	-30.5613    	2.44897E-2  	1     	1.81 minutes/million states
+165000	-31.4245    	-0.3138     	-31.1106    	1.55098E-2  	2     	1.81 minutes/million states
+166000	-30.9672    	0.6163      	-31.5836    	1.22752E-2  	2     	1.81 minutes/million states
+167000	-33.9673    	-3.2477     	-30.7196    	1.58108E-2  	1     	1.81 minutes/million states
+168000	-32.3880    	-1.9011     	-30.4869    	2.29425E-2  	1     	1.81 minutes/million states
+169000	-31.3545    	-0.8313     	-30.5233    	1.66542E-2  	2     	1.81 minutes/million states
+170000	-31.3667    	0.2760      	-31.6427    	9.48966E-3  	1     	1.81 minutes/million states
+171000	-36.5930    	-4.1285     	-32.4645    	2.87125E-2  	1     	1.81 minutes/million states
+172000	-36.2461    	-2.9982     	-33.2479    	2.57991E-2  	2     	1.81 minutes/million states
+173000	-33.6241    	-2.5022     	-31.1220    	1.84052E-2  	2     	1.81 minutes/million states
+Underflow calculating likelihood (17000 messages not shown).
+174000	-31.2991    	-0.7525     	-30.5467    	1.89452E-2  	1     	1.81 minutes/million states
+175000	-30.3084    	1.3125      	-31.6209    	9.82576E-3  	1     	1.81 minutes/million states
+176000	-32.9796    	-2.5232     	-30.4564    	1.91631E-2  	1     	1.81 minutes/million states
+177000	-31.2223    	0.7799      	-32.0022    	1.27792E-2  	1     	1.81 minutes/million states
+178000	-32.9569    	-1.1467     	-31.8101    	1.12801E-2  	1     	1.82 minutes/million states
+179000	-31.9132    	-1.5189     	-30.3943    	1.97211E-2  	1     	1.82 minutes/million states
+180000	-32.1071    	-1.3037     	-30.8034    	1.79846E-2  	1     	1.82 minutes/million states
+181000	-31.1531    	0.6097      	-31.7628    	1.26758E-2  	1     	1.82 minutes/million states
+182000	-31.7642    	0.0398      	-31.8039    	1.08748E-2  	1     	1.82 minutes/million states
+183000	-32.9593    	-1.2013     	-31.7581    	2.32459E-2  	1     	1.82 minutes/million states
+Underflow calculating likelihood (18000 messages not shown).
+184000	-32.6527    	-1.1976     	-31.4552    	1.37789E-2  	2     	1.82 minutes/million states
+185000	-34.9832    	-4.5425     	-30.4407    	2.21463E-2  	1     	1.82 minutes/million states
+186000	-32.1141    	-1.2404     	-30.8737    	2.24366E-2  	1     	1.82 minutes/million states
+187000	-37.5100    	-6.9276     	-30.5824    	1.99321E-2  	2     	1.82 minutes/million states
+188000	-32.1562    	-1.3881     	-30.7681    	1.46813E-2  	2     	1.82 minutes/million states
+189000	-31.3467    	1.0966      	-32.4434    	7.49855E-3  	1     	1.82 minutes/million states
+190000	-34.0392    	-0.6168     	-33.4224    	6.31755E-3  	1     	1.82 minutes/million states
+191000	-32.2869    	1.5832      	-33.8701    	5.29769E-3  	1     	1.82 minutes/million states
+192000	-30.9621    	0.3350      	-31.2971    	1.15529E-2  	1     	1.82 minutes/million states
+193000	-32.4018    	-0.9655     	-31.4363    	1.72389E-2  	2     	1.82 minutes/million states
+Underflow calculating likelihood (19000 messages not shown).
+194000	-31.2030    	0.1203      	-31.3233    	1.06851E-2  	1     	1.82 minutes/million states
+195000	-32.7093    	-0.9797     	-31.7297    	1.26384E-2  	2     	1.82 minutes/million states
+196000	-31.5694    	-0.0234     	-31.5460    	1.53918E-2  	1     	1.82 minutes/million states
+197000	-32.8907    	-0.8331     	-32.0577    	1.88117E-2  	2     	1.83 minutes/million states
+198000	-32.1093    	-1.0968     	-31.0125    	1.77426E-2  	2     	1.83 minutes/million states
+199000	-33.4099    	-2.0468     	-31.3631    	3.36261E-2  	1     	1.83 minutes/million states
+200000	-33.5733    	-2.4252     	-31.1481    	3.39203E-2  	2     	1.83 minutes/million states
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) Smoothed_Pr(accept)
+scale(location.clock.rate)                        0.174   22653      1790     0.08     0.2333      0.25        
+scale(location.rates)                             0.144   114177     8285     0.07     0.2334      0.18        
+bitFlip(location.indicators)                              53451      4399     0.08     0.2515      0.09        
+deltaExchange(location.root.frequencies)          1.586   7719       163      0.02     0.2333      0.27        
+
+22.155 seconds
+

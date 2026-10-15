@@ -1,0 +1,815 @@
+id	date	country	location
+A/domestic_goose/Poland/H1931-T1/2021|EPI_ISL_6931008	2021-11-03	Poland	other
+A/turkey/Italy/21VIR9510-1/2021|EPI_ISL_7733635	2021-11-11	Italy	other
+A/turkey/Italy/21VIR8817-1/2021|EPI_ISL_7733648	2021-10-25	Italy	other
+A/greylag_goose/Northern_Ireland/17795/2021|EPI_ISL_13370556	2021-12-08	United Kingdom	other
+A/chicken/Poland/H1940-N/2021|EPI_ISL_6931288	2021-11-05	Poland	other
+A/chicken/England/061529/2021|EPI_ISL_13369773	2021-11-22	United Kingdom	other
+A/chicken/Italy/21VIR10239/2021|EPI_ISL_7733595	2021-11-25	Italy	other
+A/seagull/Italy/21VIR9432-2/2021|EPI_ISL_7733621	2021-11-11	Italy	other
+A/turkey/England/075922/2021|EPI_ISL_13370620	2021-12-27	United Kingdom	other
+A/turkey/Italy/21VIR9816-1/2021|EPI_ISL_7733598	2021-11-19	Italy	other
+A/turkey/England/068583/2021|EPI_ISL_13370559	2021-12-09	United Kingdom	other
+A/mallard/England/056080/2021|EPI_ISL_13369743	2021-11-08	United Kingdom	other
+A/pheasant/England/294628/2021|EPI_ISL_13370560	2021-12-09	United Kingdom	other
+A/Morus_bassanus/Belgium/10811_0001/2022|EPI_ISL_16810069	2022-09-10	Belgium	Belgium
+A/barnacle_goose/Scotland/062003/2021|EPI_ISL_13369765	2021-11-19	United Kingdom	other
+A/turkey/Italy/21VIR10340/2021|EPI_ISL_7733597	2021-11-29	Italy	other
+A/barnacle_goose/England/292151/2021|EPI_ISL_13369744	2021-11-08	United Kingdom	other
+A/turkey/Italy/21VIR9652-2/2021|EPI_ISL_7733629	2021-11-15	Italy	other
+A/common_buzzard/England/300284/2021|EPI_ISL_13369770	2021-11-20	United Kingdom	other
+A/mallard/Scotland/057554/2021|EPI_ISL_13369757	2021-11-14	United Kingdom	other
+A/chicken/Italy/21VIR10384/2021|EPI_ISL_7733607	2021-11-30	Italy	other
+A/common_buzzard/Scotland/294149/2021|EPI_ISL_13370418	2021-11-30	United Kingdom	other
+A/common_buzzard/England/245061/2021|EPI_ISL_13370615	2021-12-17	United Kingdom	other
+A/domestic_duck/Northern_Ireland/17961/2021|EPI_ISL_13370568	2021-12-10	United Kingdom	other
+A/mute_swan/England/387121/2021|EPI_ISL_13370619	2021-12-23	United Kingdom	other
+A/chicken/Italy/21VIR9765-12/2021|EPI_ISL_7733634	2021-11-17	Italy	other
+A/chicken/England/072926/2021|EPI_ISL_13370614	2021-12-17	United Kingdom	other
+A/whooper_swan/England/055405/2021|EPI_ISL_13369741	2021-11-05	United Kingdom	other
+A/buzzard/Germany-BB/AI00489/2022|EPI_ISL_18006931	2021-12-28	Germany	other
+A/Greylag_goose/England/108622/2021|EPI_ISL_13370516	2021-12-04	United Kingdom	other
+A/buzzard/Wales/055388/2021|EPI_ISL_13370343	2021-11-29	United Kingdom	other
+A/barnacle_goose/England/294327/2021|EPI_ISL_13370517	2021-12-04	United Kingdom	other
+A/barnacle_goose/Sweden/SVA211216SZ0382/FB004836/2021|EPI_ISL_9650220	2021-12-09	Sweden	other
+A/chicken/Northern_Ireland/17903/2021|EPI_ISL_13370564	2021-12-09	United Kingdom	other
+A/turkey/Italy/21VIR9618-7/2021|EPI_ISL_7733587	2021-11-18	Italy	other
+A/chicken/Scotland/064936/2021|EPI_ISL_13370510	2021-12-02	United Kingdom	other
+A/northern_gannet/Sweden/SVA220623SZ0232/FB001982/O-2022|EPI_ISL_14811896	2022-06-20	Sweden	other
+A/turkey/Italy/21VIR9768-8/2021|EPI_ISL_7733638	2021-11-17	Italy	other
+A/barnacle_goose/Scotland/072143/2021|EPI_ISL_13370522	2021-12-06	United Kingdom	other
+A/domestic_duck/England/065343/2021|EPI_ISL_13370513	2021-12-04	United Kingdom	other
+A/ibis/Egypt/RLQP-229S/2022|EPI_ISL_15614803	2022-06-17	Egypt	other
+A/Wild_goose/Italy/21VIR10193/2021|EPI_ISL_7733611	2021-11-23	Italy	other
+A/harbour_seal/Scotland/054948/2022|EPI_ISL_17465835	2022-06-19	United Kingdom	other
+A/turkey/Italy/21VIR10456/2021|EPI_ISL_7733613	2021-12-01	Italy	other
+A/Larus_argentatus/Belgium/10811_0002/2022|EPI_ISL_16810105	2022-09-07	Belgium	Belgium
+A/turkey/Poland/H1924-T1/2021|EPI_ISL_6930564	2021-11-03	Poland	other
+A/chicken/Scotland/070931/2021|EPI_ISL_13370607	2021-12-14	United Kingdom	other
+A/domestic_duck/England/069098/2021|EPI_ISL_13370563	2021-12-10	United Kingdom	other
+A/pink_footed_goose/Scotland/058488/2021|EPI_ISL_13369760	2021-11-16	United Kingdom	other
+A/chicken/Italy/21VIR9133-20/2021|EPI_ISL_7733617	2021-11-04	Italy	other
+A/turkey/Italy/21VIR9143-2/2021|EPI_ISL_7733633	2021-11-03	Italy	other
+A/chicken/England/068020/2021|EPI_ISL_13370605	2021-12-14	United Kingdom	other
+A/chicken/Italy/21VIR10388/2021|EPI_ISL_7733582	2021-11-30	Italy	other
+A/duck/Italy/21VIR10447/2021|EPI_ISL_7733584	2021-12-01	Italy	other
+A/turkey/Italy/21VIR9210-1/2021|EPI_ISL_7733647	2021-11-05	Italy	other
+A/barnacle_goose/England/293809/2021|EPI_ISL_13369780	2021-11-26	United Kingdom	other
+A/magpie/Italy/21VIR9487-2/2021|EPI_ISL_7733612	2021-11-05	Italy	other
+A/barnacle_goose/England/293824/2021|EPI_ISL_13369779	2021-11-26	United Kingdom	other
+A/Canada_goose/Luxembourg/21217776/2021|EPI_ISL_13026104	2021-11-24	Luxembourg	other
+A/Mute_Swan/England/294146/2021|EPI_ISL_13370506	2021-12-01	United Kingdom	other
+A/chicken/England/058797/2021|EPI_ISL_13369759	2021-11-16	United Kingdom	other
+A/Black-headed_gull/England/064433/2021|EPI_ISL_13370416	2021-11-30	United Kingdom	other
+A/chicken/Scotland/068163/2021|EPI_ISL_13370557	2021-12-08	United Kingdom	other
+A/mallard/Italy/21VIR8919-2/2021|EPI_ISL_7733591	2021-10-27	Italy	other
+A/sparrowhawk/England/245233/2021|EPI_ISL_13370618	2021-12-22	United Kingdom	other
+A/chicken/England/071013/2021|EPI_ISL_13370606	2021-12-14	United Kingdom	other
+A/turkey/Italy/21VIR9512-1/2021|EPI_ISL_7733632	2021-11-11	Italy	other
+A/mute_swan/Northern_Ireland/17176/2021|EPI_ISL_13369778	2021-11-25	United Kingdom	other
+A/mute_swan/Northern_Ireland/17404/2021|EPI_ISL_13370509	2021-12-02	United Kingdom	other
+A/Great_cormorant/Luxembourg/21243185/2021|EPI_ISL_13026237	2021-12-14	Luxembourg	other
+A/Pigeon/Sweden/SVA220701SZ0238/FB002074/C-2022|EPI_ISL_14811931	2022-06-30	Sweden	other
+A/kestrel/Italy/21VIR10468/2021|EPI_ISL_7733642	2021-11-30	Italy	other
+A/northern_gannet/Sweden/SVA220623SZ0232/FB001984/N-2022|EPI_ISL_14811929	2022-06-15	Sweden	other
+A/mute_swan/England/244029/2021|EPI_ISL_13369756	2021-11-14	United Kingdom	other
+A/Canada_goose/Luxembourg/21237199/2021|EPI_ISL_13026105	2021-12-09	Luxembourg	other
+A/chicken/Italy/21VIR9951-25/2021|EPI_ISL_7733603	2021-11-22	Italy	other
+A/Greylag_goose/Luxembourg/21217773/2021|EPI_ISL_13026099	2021-11-24	Luxembourg	other
+A/barnacle_goose/Sweden/SVA220217SZ0388/FB00388/K-2022|EPI_ISL_10944835	2022-02-14	Sweden	other
+A/Greylag_goose/Sweden/SVA211118SZ0354/FB004554/2021|EPI_ISL_9650684	2021-12-17	Sweden	other
+A/chicken/Italy/21VIR9691-2/2021|EPI_ISL_7733630	2021-11-15	Italy	other
+A/barnacle_goose/Scotland/064368/2021|EPI_ISL_13370417	2021-11-30	United Kingdom	other
+A/mute_swan/Northern_Ireland/17634/2021|EPI_ISL_13370521	2021-12-06	United Kingdom	other
+A/mute_swan/Netherlands/21039291-002/2021|EPI_ISL_7996369	2021-11-19	Netherlands	other
+A/northern_gannet/Germany-NI/AI04234/2022|EPI_ISL_16122154	2022-07-08	Germany	other
+A/peregrine_falcon/Germany-SH/AI01386/2022|EPI_ISL_18006766	2022-02-21	Germany	other
+A/black-headed_gull/England/386075/2021|EPI_ISL_13369774	2021-11-22	United Kingdom	other
+A/Grey_heron/Luxembourg/21243177/2021|EPI_ISL_13026236	2021-12-14	Luxembourg	other
+A/turkey/Italy/21VIR9767-3/2021|EPI_ISL_7733624	2021-11-17	Italy	other
+A/turkey/Wales/065047/2021|EPI_ISL_13370511	2021-12-02	United Kingdom	other
+A/peafowl/England/061723/2021|EPI_ISL_13369775	2021-11-23	United Kingdom	other
+A/Kestrel/Scotland/058512/2021|EPI_ISL_13369761	2021-11-16	United Kingdom	other
+A/turkey/Italy/21VIR9649-2/2021|EPI_ISL_7733643	2021-11-15	Italy	other
+A/Canada_goose/Luxembourg/21239614/2021|EPI_ISL_13026106	2021-12-10	Luxembourg	other
+A/Eurasian_eagle-owl/Germany-BY/AI01616/2022|EPI_ISL_16122150	2022-03-03	Germany	other
+A/mute_swan/Northern_Ireland/17269/2021|EPI_ISL_13370415	2021-11-29	United Kingdom	other
+A/barnacle_goose/England/294620/2021|EPI_ISL_13370561	2021-12-09	United Kingdom	other
+A/buzzard/Germany-NI/AI02060/2022|EPI_ISL_18006943	2022-03-16	Germany	other
+A/Canada_goose/Luxembourg/22012198/2022|EPI_ISL_13026245	2022-01-17	Luxembourg	other
+A/chicken/Italy/21VIR9580-22/2021|EPI_ISL_7733609	2021-11-15	Italy	other
+A/greylag_goose/England/108485/2021|EPI_ISL_13369809	2021-11-29	United Kingdom	other
+A/Goshawk/England/387180/2021|EPI_ISL_13370630	2021-12-31	United Kingdom	other
+A/turkey/Italy/21VIR11887-3/2021|EPI_ISL_8882170	2021-12-29	Italy	other
+A/chicken/England/042391/2022|EPI_ISL_13370922	2022-04-06	United Kingdom	other
+A/chicken/Italy/21VIR10850/2021|EPI_ISL_8882168	2021-12-06	Italy	other
+A/magpie/Scotland/012805/2022|EPI_ISL_13370895	2022-02-05	United Kingdom	other
+A/coot/England/388108/2022|EPI_ISL_13370894	2022-01-28	United Kingdom	other
+A/common_buzzard/Denmark/24271-1.02/2021-10-25|EPI_ISL_11798571	2021-10-25	Denmark	other
+A/Common_Buzzard/England/245285/2021|EPI_ISL_13370629	2021-12-31	United Kingdom	other
+A/chicken/Scotland/078873/2022|EPI_ISL_13453560	2022-05-29	United Kingdom	other
+A/Anser_albifrons/Belgium/15465_0010/2021|EPI_ISL_9160206	2021-11-21	Belgium	Belgium
+A/mute_swan/Croatia/146/2021|EPI_ISL_8439476	2021-12-29	Croatia	other
+A/little_owl/Italy/21VIR11382-1/2021|EPI_ISL_8882209	2021-12-13	Italy	other
+A/domestic_goose/England/008781/2022|EPI_ISL_13370698	2022-01-26	United Kingdom	other
+A/barnacle_goose/Denmark/24273-1.02/2021-10-26|EPI_ISL_11798568	2021-10-26	Denmark	other
+A/mallard_duck/England/388009/2022|EPI_ISL_13370702	2022-01-27	United Kingdom	other
+A/domestic_duck/England/073865/2022|EPI_ISL_13453559	2022-05-18	United Kingdom	other
+A/barnacle_goose/Netherlands/22002507-002/2022|EPI_ISL_10454874	2022-02-02	Netherlands	other
+A/turkey/England/004667/2022|EPI_ISL_13370692	2022-01-12	United Kingdom	other
+A/Mallard/Netherlands/15/2021|EPI_ISL_9012580	2021-12-27	Netherlands	other
+A/chicken/England/007584/2022|EPI_ISL_13370697	2022-01-23	United Kingdom	other
+A/owl/Italy/21VIR11899-1/2021|EPI_ISL_8882215	2021-12-27	Italy	other
+A/Lapwing/England/067574/2021|EPI_ISL_13370892	2021-12-03	United Kingdom	other
+A/Greylag_goose/Isle_of_Man/010298/2022|EPI_ISL_13370693	2022-01-14	Isle of Man	other
+A/waterfowl/Netherlands/21037914-006/2021|EPI_ISL_6375134	2021-11-02	Netherlands	other
+A/domestic_duck/England/040831/2022|EPI_ISL_13370920	2022-04-04	United Kingdom	other
+A/Red-breasted_goose/Jersey/018414/2022|EPI_ISL_13370897	2022-02-22	Jersey	other
+A/turkey/Italy/21VIR10851/2021|EPI_ISL_8882172	2021-12-06	Italy	other
+A/buzzard/Germany-TH/AI01791/2022|EPI_ISL_18007043	2022-03-04	Germany	other
+A/domestic_duck/England/017166/2022|EPI_ISL_13370707	2022-02-21	United Kingdom	other
+A/turkey/England/006963/2022|EPI_ISL_13370695	2022-01-20	United Kingdom	other
+A/laying_hen/Italy/21VIR11502/2021|EPI_ISL_8882173	2021-12-21	Italy	other
+A/Northern_gannet/Sweden/SVA220525SZ0402/FB001671/O-2022|EPI_ISL_13338081	2022-05-25	Sweden	other
+A/Barnacle_goose/Scotland/072140/2021|EPI_ISL_13453562	2021-12-13	United Kingdom	other
+A/turkey/Italy/21VIR11586-2/2021|EPI_ISL_8882166	2021-12-23	Italy	other
+A/Mallard/Netherlands/13/2021|EPI_ISL_9012577	2021-12-27	Netherlands	other
+A/turkey/England/009687/2022|EPI_ISL_13370700	2022-01-27	United Kingdom	other
+A/turkey/England/007586/2022|EPI_ISL_13370696	2022-01-23	United Kingdom	other
+A/chicken/Italy/21VIR10573-1/2021|EPI_ISL_8882169	2021-12-03	Italy	other
+A/chicken/Denmark/24357-11/2021-11-02|EPI_ISL_11798570	2021-11-02	Denmark	other
+A/gray_heron/Denmark/24326-1.02/2021-10-28|EPI_ISL_11798577	2021-10-28	Denmark	other
+A/seagull/Italy/21VIR11259-10/2021|EPI_ISL_8882213	2021-12-15	Italy	other
+A/goose/Scotland/031099/2022|EPI_ISL_13453564	2022-03-18	United Kingdom	other
+A/Barnacle_goose/Scotland/058494/2021|EPI_ISL_13453561	2021-11-16	United Kingdom	other
+A/chicken/England/008775/2022|EPI_ISL_13370699	2022-01-26	United Kingdom	other
+A/buzzard/Scotland/043118/2022|EPI_ISL_13453565	2022-03-17	United Kingdom	other
+A/turkey/Italy/21VIR11804-1/2021|EPI_ISL_8882167	2021-12-27	Italy	other
+A/chicken/England/053826/2022|EPI_ISL_13370924	2022-04-21	United Kingdom	other
+A/Red-breasted_goose/Jersey/018413/2022|EPI_ISL_13370896	2022-02-22	Jersey	other
+A/buzzard/Italy/21VIR11899-5/2021|EPI_ISL_8882216	2021-12-27	Italy	other
+A/turkey/Denmark/24325-25/2021-10-30|EPI_ISL_11798580	2021-10-30	Denmark	other
+A/chicken/England/009811/2022|EPI_ISL_13370701	2022-01-27	United Kingdom	other
+A/Barnacle_goose/Scotland/072152/2021|EPI_ISL_13453563	2021-12-13	United Kingdom	other
+A/Northern_gannet/Spain/3372-12_22VIR10586-6/2022|EPI_ISL_15878548	2022-09-15	Spain	other
+A/seagull/Italy/21VIR10481-2/2021|EPI_ISL_8882210	2021-11-29	Italy	other
+A/Buteo_buteo/belgium/334_0013/2021|EPI_ISL_14388434	2021-12-23	Belgium	Belgium
+A/Branta_canadensis/Belgium/595_0008/2022|EPI_ISL_14389133	2022-01-06	Belgium	Belgium
+A/goose/Czech_Republic/22608-3T/2021|EPI_ISL_9603901	2021-11-18	Czech Republic	other
+A/domestic_duck/England/007588/2022|EPI_ISL_11406402	2022-01-23	United Kingdom	other
+A/mute_swan/Ireland/033169_22VIR1325-14/2021|EPI_ISL_11259264	2021-11-15	Ireland	other
+A/goose/Ireland/3869_22VIR2064-2/2022|EPI_ISL_11259284	2022-02-14	Ireland	other
+A/crow/Ireland/035624_22VIR1325-11/2021|EPI_ISL_11259262	2021-12-08	Ireland	other
+A/mute_swan/Czech_Republic/22477-2/2021|EPI_ISL_9603918	2021-11-12	Czech Republic	other
+A/lesser_white-fronted_goose/Germany-MV/AI05973/2021|EPI_ISL_7753309	2021-10-20	Germany	other
+A/turkey/Israel/537/2021|EPI_ISL_12749687	2021-10-12	Israel	other
+A/fox/Ireland/3866_22VIR2064-1/2022|EPI_ISL_11259283	2022-02-14	Ireland	other
+A/chicken/England/000187/2022|EPI_ISL_11406401	2022-01-03	United Kingdom	other
+A/greylag_goose/Germany-SH/AI06144/2021|EPI_ISL_7753406	2021-10-25	Germany	other
+A/turkey/Germany-MV/AI06035/2021|EPI_ISL_7753290	2021-10-20	Germany	other
+A/white-tailed_eagle/Ireland/032034_22VIR1325-23/2021|EPI_ISL_11259274	2021-11-03	Ireland	other
+A/pheasant/Czech_Republic/25827-1/2021|EPI_ISL_9603931	2021-12-25	Czech Republic	other
+A/Barnacle_goose/Scotland/109105/2021|EPI_ISL_13486796	2021-12-17	United Kingdom	other
+A/Eurasian_teal/Germany-BY/AI05977/2021|EPI_ISL_7753367	2021-10-21	Germany	other
+A/greylag_goose/Netherlands/21037497-001/2021|EPI_ISL_6328001	2021-10-19	Netherlands	other
+A/mute_swan/Ireland/032363_22VIR1325-1/2021|EPI_ISL_11259270	2021-11-08	Ireland	other
+A/domestic_duck/Poland/H1942-N/2021|EPI_ISL_6934175	2021-11-07	Poland	other
+A/Buteo_buteo/Belgium/00331-0007/2022|EPI_ISL_16747602	2022-01-03	Belgium	Belgium
+A/goose/Czech_Republic/22750/2021|EPI_ISL_9603924	2021-11-19	Czech Republic	other
+A/Barnacle_goose/Scotland/109090/2021|EPI_ISL_13486785	2021-12-17	United Kingdom	other
+A/turkey/Spain/140-38_22VIR2142-19/2022|EPI_ISL_11259291	2022-01-15	Spain	other
+A/duck/Ireland/036646_22VIR1325-18/2021|EPI_ISL_11259268	2021-12-17	Ireland	other
+A/layer/Ireland/034424_22VIR1325-21/2021|EPI_ISL_11259272	2021-11-29	Ireland	other
+A/goose/Czech_Republic/23458-2T/2021|EPI_ISL_9603767	2021-11-26	Czech Republic	other
+A/buzzard/Germany-SH/AI06210/2021|EPI_ISL_7753443	2021-10-26	Germany	other
+A/goose/Czech_Republic/23458-5T/2021|EPI_ISL_9603769	2021-11-26	Czech Republic	other
+A/herring_gull/Ireland/033533_22VIR1325-10/2021|EPI_ISL_11259261	2021-11-17	Ireland	other
+A/pheasant/Czech_Republic/25827-3/2021|EPI_ISL_9603939	2021-12-25	Czech Republic	other
+A/mute_swan/Czech_Republic/21312/2021|EPI_ISL_6328409	2021-11-01	Czech Republic	other
+A/buzzard/Ireland/000656_22VIR1325-12/2022|EPI_ISL_11259263	2022-01-07	Ireland	other
+A/white-tailed_eagle/Germany-MV/AI05975/2021|EPI_ISL_7753272	2021-10-20	Germany	other
+A/turkey/Italy/21VIR11507/2021|EPI_ISL_12028893	2021-12-20	Italy	other
+A/goose/Czech_Republic/22608-2T/2021|EPI_ISL_9603819	2021-11-18	Czech Republic	other
+A/Tyto_alba/Belgium/334_0012/2021|EPI_ISL_14388346	2021-12-23	Belgium	Belgium
+A/chicken/England/002070/2022|EPI_ISL_11406398	2022-01-06	United Kingdom	other
+A/magpie/Ireland/032958_22VIR1325-5/2021|EPI_ISL_11259278	2021-11-12	Ireland	other
+A/turkey/Ireland/033674_22VIR1325-19/2021|EPI_ISL_11259269	2021-11-19	Ireland	other
+A/greylag_goose/Ireland/033062_22VIR1325-7/2021|EPI_ISL_11259280	2021-11-15	Ireland	other
+A/pink_footed_goose/Scotland/003617/2022|EPI_ISL_13782461	2022-01-08	United Kingdom	other
+A/black-headed_gull/England/306270/2022|EPI_ISL_11406403	2022-01-31	United Kingdom	other
+A/Barnacle_goose/Scotland/003579/2022|EPI_ISL_13486700	2022-01-02	United Kingdom	other
+A/turkey/Italy/21VIR8585-1/2021|EPI_ISL_5524384	2021-10-18	Italy	other
+A/great_skua/Scotland/5/2022|EPI_ISL_13453570	2022-04-29	United Kingdom	other
+A/Mute_swan/Scotland/075821/2021|EPI_ISL_13486881	2021-12-04	United Kingdom	other
+A/Barnacle_goose/Scotland/076711/2021|EPI_ISL_13486772	2021-12-30	United Kingdom	other
+A/broiler/Ireland/033734_22VIR1325-20/2021|EPI_ISL_11259271	2021-11-22	Ireland	other
+A/whooper_swan/Ireland/032960_22VIR1325-4/2021|EPI_ISL_11259277	2021-11-12	Ireland	other
+A/swan/Netherlands/21037791-001/2021|EPI_ISL_6328009	2021-11-01	Netherlands	other
+A/goose/Czech_Republic/22608-1T/2021|EPI_ISL_9603795	2021-11-18	Czech Republic	other
+A/Eurasian_wigeon/Germany-SH/AI06143/2021|EPI_ISL_7753387	2021-10-22	Germany	other
+A/Barnacle_goose/Scotland/075563/2021|EPI_ISL_13486738	2021-12-10	United Kingdom	other
+A/Sparrowhawk/Scotland/022623/2022|EPI_ISL_13486962	2022-02-25	United Kingdom	other
+A/goose/Czech_Republic/23458-4T/2021|EPI_ISL_9603775	2021-11-26	Czech Republic	other
+A/domestic_duck/England/058612/2021|EPI_ISL_9029959	2021-11-18	United Kingdom	other
+A/turkey/Ireland/035425_22VIR1325-17/2021|EPI_ISL_11259267	2021-12-06	Ireland	other
+A/chicken/England/057314/2021|EPI_ISL_9029956	2021-11-14	United Kingdom	other
+A/Whooper_swan/Scotland/072171/2021|EPI_ISL_13486975	2021-12-11	United Kingdom	other
+A/greylag_goose/Ireland/032969_22VIR1325-6/2021|EPI_ISL_11259279	2021-11-15	Ireland	other
+A/barnacle_goose/Germany-SH/AI06005/2021|EPI_ISL_7753251	2021-10-19	Germany	other
+A/turkey/England/004737/2022|EPI_ISL_11406399	2022-01-12	United Kingdom	other
+A/Barnacle_goose/Scotland/075827/2021|EPI_ISL_13486760	2021-12-04	United Kingdom	other
+A/Barnacle_goose/Scotland/003169/2021|EPI_ISL_13486688	2021-12-27	United Kingdom	other
+A/stork/Spain/234-2_22VIR2142-7/2022|EPI_ISL_11259317	2022-01-17	Spain	other
+A/mute_swan/Czech_Republic/785/2022|EPI_ISL_9603943	2022-01-10	Czech Republic	other
+A/mute_swan/Czech_Republic/25702-2/2021|EPI_ISL_9603927	2021-12-20	Czech Republic	other
+A/turkey/Denmark/24325-19/2021|EPI_ISL_19237886	2021-10-30	Denmark	other
+A/goose/Czech_Republic/23458-1K/2021|EPI_ISL_9603780	2021-11-26	Czech Republic	other
+A/mute_swan/Czech_Republic/22477-1/2021|EPI_ISL_9603916	2021-11-12	Czech Republic	other
+A/tawny_owl/England/113433/2022|EPI_ISL_13453569	2022-04-26	United Kingdom	other
+A/Whooper_swan/Scotland/056219/2021|EPI_ISL_9029962	2021-11-09	United Kingdom	other
+A/Barnacle_goose/Scotland/003588/2022|EPI_ISL_13486713	2022-01-02	United Kingdom	other
+A/chicken/Netherlands/21038675-001005/2021|EPI_ISL_6328036	2021-11-14	Netherlands	other
+A/pheasant/Czech_Republic/25827-2/2021|EPI_ISL_9603937	2021-12-25	Czech Republic	other
+A/Common_buzzard/Scotland/020817/2022|EPI_ISL_13486807	2022-03-01	United Kingdom	other
+A/Greylag_goose/England/054503/2021|EPI_ISL_9029965	2021-10-30	United Kingdom	other
+A/turkey/Denmark/24325-26/2021|EPI_ISL_19237887	2021-10-30	Denmark	other
+A/Barnacle_goose/Scotland/072168/2021|EPI_ISL_13486729	2021-12-11	United Kingdom	other
+A/mute_swan/Czech_Republic/22684/2021|EPI_ISL_9603922	2021-11-15	Czech Republic	other
+A/duck/Ireland/036105_22VIR1325-22/2021|EPI_ISL_11259273	2021-12-11	Ireland	other
+A/white_stork/Germany-MV/AI05979/2021|EPI_ISL_7753329	2021-10-20	Germany	other
+A/Barnacle_goose/Scotland/075760/2021|EPI_ISL_13486748	2021-12-04	United Kingdom	other
+A/gannet/Scotland/3/2022|EPI_ISL_13453571	2022-05-10	United Kingdom	other
+A/swan/Spain/4087-1_22VIR2142-1/2021|EPI_ISL_11259292	2021-12-22	Spain	other
+A/barnacle_goose/Germany-SH/AI06145/2021|EPI_ISL_7753407	2021-10-25	Germany	other
+A/Common_buzzard/Scotland/073099/2021|EPI_ISL_13486819	2021-12-15	United Kingdom	other
+A/Caspian_gull/Netherlands/1/2022|EPI_ISL_9261749	2022-01-14	Netherlands	other
+A/otter/Scotland/M100366/2022|EPI_ISL_14864642	2022-01-01	United Kingdom	other
+A/buzzard/Germany-NI/AI00935/2022|EPI_ISL_14570650	2022-01-27	Germany	other
+A/barnacle_goose/Sweden/SVA220104SZ0295/FB000013/M-2022|EPI_ISL_10916124	2021-12-25	Sweden	other
+A/Grey_heron/Netherlands/1/2022|EPI_ISL_9261748	2022-01-14	Netherlands	other
+A/mute_swan/Ireland/037311_22VIR1325-13/2021|EPI_ISL_11260218	2021-12-22	Ireland	other
+A/fulmar/Scotland/118673/2022|EPI_ISL_15586131	2022-10-15	United Kingdom	other
+A/chicken/Wales/116603/2022|EPI_ISL_15585890	2022-09-04	United Kingdom	other
+A/Phalacrocorax_carbo/Belgium/1734_0002/2022|EPI_ISL_14390385	2022-02-02	Belgium	Belgium
+A/Black-headed_gull/Netherlands/1/2022|EPI_ISL_9261750	2022-01-14	Netherlands	other
+A/swan/France/21P012384/2021|EPI_ISL_6590766	2021-11-08	France	other
+A/goose/Czech_Republic/25322-229/2021|EPI_ISL_12325995	2021-12-18	Czech Republic	other
+A/turkey/Poland/H1944-N/2021|EPI_ISL_6935584	2021-11-08	Poland	other
+A/Great_black-backed_gull/1/2022|EPI_ISL_9261742	2022-01-06	Netherlands	other
+A/Barnacle_goose/Netherlands/6/2022|EPI_ISL_9261751	2022-01-14	Netherlands	other
+A/otter/Scotland/M100839/2022|EPI_ISL_14864641	2022-01-01	United Kingdom	other
+A/chicken/Scotland/130966/2022|EPI_ISL_15585888	2022-08-30	United Kingdom	other
+A/great_black-backed_gull/Netherlands/21039609-001-002/2021|EPI_ISL_7952119	2021-11-28	Netherlands	other
+A/domestic_duck/Germany-SH/AI06221/2021|EPI_ISL_14571443	2021-10-30	Germany	other
+A/nothern_gannet/France/22P019331/2022|EPI_ISL_14702899	2022-07-13	France	other
+A/chicken/Netherlands/21040811-001-005/2021|EPI_ISL_7952118	2021-12-16	Netherlands	other
+A/chicken/Netherlands/21040808-001-005/2021|EPI_ISL_7952117	2021-12-16	Netherlands	other
+A/chicken/Netherlands/21039901-001-005/2021|EPI_ISL_7952116	2021-12-01	Netherlands	other
+A/Chicken/Sweden/SVA211216SZ0001/FB306314/2021|EPI_ISL_9640022	2021-12-15	Sweden	other
+A/chicken/Czech_Republic/61-2/2022|EPI_ISL_11327089	2021-12-31	Czech Republic	other
+A/Northern_Gannet/Netherlands/22016851-002/2022|EPI_ISL_16865548	2022-09-23	Netherlands	other
+A/gadwall/Netherlands/21038566-002/2021|EPI_ISL_7952128	2021-11-09	Netherlands	other
+A/greylag_goose/Netherlands/21039746-002/2021|EPI_ISL_7952122	2021-11-26	Netherlands	other
+A/turkey/Italy/21VIR9520-3/2021|EPI_ISL_17684608	2021-11-14	Italy	other
+A/Turkey/Sweden/SVA211227SZ0006/FB312473/2021|EPI_ISL_9640083	2021-12-27	Sweden	other
+A/buzzard/Germany-MV/AI00055/2022|EPI_ISL_14570557	2022-01-01	Germany	other
+A/greylag_goose/Netherlands/21038417-001/2021|EPI_ISL_7952126	2021-11-07	Netherlands	other
+A/Chicken/Sweden/SVA211217SZ0002/FB307562/2021|EPI_ISL_9640026	2021-12-16	Sweden	other
+A/mute_swan/Netherlands/22004560-001/2022|EPI_ISL_12474791	2022-03-07	Netherlands	other
+A/mute_swan/Netherlands/21039841-002/2021|EPI_ISL_7952124	2021-11-30	Netherlands	other
+A/chicken/Czech_Republic/63/2022|EPI_ISL_11327090	2022-01-03	Czech Republic	other
+A/chicken/Czech_Republic/61-1/2022|EPI_ISL_11327088	2021-12-31	Czech Republic	other
+A/sanderling/Netherlands/21039528-002/2021|EPI_ISL_7952121	2021-11-22	Netherlands	other
+A/buzzard/Germany-SH/AI00547/2022|EPI_ISL_14570788	2022-01-07	Germany	other
+A/Great_cormorant/Norway/2023-07-124-1/2023|EPI_ISL_18963373	2023-02-09	Norway	other
+A/duck/Czech_Republic/23589-1T/2021|EPI_ISL_7626514	2021-11-29	Czech Republic	other
+A/gannet/Ireland/026433_22VIR12757-4/2022|EPI_ISL_20077607	2022-09-07	Ireland	other
+A/fox/Ireland/028829_22VIR12757-5/2022|EPI_ISL_20077608	2022-09-21	Ireland	other
+A/northern_goshawk/Netherlands/22000305-002/2022|EPI_ISL_9117228	2022-01-04	Netherlands	other
+A/Est/Parnu/henharrier/TA21-26003/2021|EPI_ISL_19028670	2021-11-01	Estonia	other
+A/chicken/Netherlands/21039108-001005/2021|EPI_ISL_6675739	2021-11-19	Netherlands	other
+A/gannet/Ireland/025964_22VIR12757-2/2022|EPI_ISL_20077606	2022-09-05	Ireland	other
+A/Common_Buzzard/Sweden/SVA211223SZ0343/FB004885/M-2021|EPI_ISL_10886140	2021-12-23	Sweden	other
+A/northern_gannet/Germany-SH/AI03498/2022|EPI_ISL_14573031	2022-06-15	Germany	other
+A/chicken/Tyumen/27-40V/2021|EPI_ISL_5463795	2021-10-06	Russian Federation	other
+A/chicken/Czech_Republic/23589-1T/2021|EPI_ISL_7626526	2021-11-29	Czech Republic	other
+A/chicken/Netherlands/21038165-006010/2021|EPI_ISL_6101848	2021-11-07	Netherlands	other
+A/chicken/Czech_Republic/23589-4/2021|EPI_ISL_7626533	2021-11-29	Czech Republic	other
+A/chicken/Norway/P156/2021|EPI_ISL_18455216	2021-11-10	Norway	other
+A/chicken/Czech_Republic/23404-4T/2021|EPI_ISL_7626513	2021-11-25	Czech Republic	other
+A/chicken/Czech_Republic/23589-3/2021|EPI_ISL_7626532	2021-11-29	Czech Republic	other
+A/black-headed_gull/Germany-BY/AI01062/2022|EPI_ISL_16096042	2022-02-07	Germany	other
+A/Red_fox/Norway/2022-07-1768-2T/2022|EPI_ISL_18455203	2022-07-26	Norway	other
+A/chicken/Iceland/2022AI02564/2022|EPI_ISL_13246267	2022-04-14	Iceland	other
+A/mute_swan/Netherlands/21039008-003/2021|EPI_ISL_6675744	2021-11-18	Netherlands	other
+A/Sandwich_tern/Sweden/SVA220623SZ0227/FB001883/O-2022|EPI_ISL_14966123	2022-06-15	Sweden	other
+A/northern_goshawk/Germany-BB/AI01628/2022|EPI_ISL_14573032	2022-02-28	Germany	other
+A/chicken/Czech_Republic/23404-4K/2021|EPI_ISL_7626506	2021-11-25	Czech Republic	other
+A/chicken/Tyumen/27-42V/2021|EPI_ISL_5463796	2021-10-06	Russian Federation	other
+A/northern_gannet/Germany-SH/AI03496/2022|EPI_ISL_14573001	2022-06-16	Germany	other
+A/chicken/Tyumen/27-39V/2021|EPI_ISL_5463794	2021-10-06	Russian Federation	other
+A/chicken/Tyumen/27-31V/2021|EPI_ISL_5463793	2021-10-06	Russian Federation	other
+A/Northern_gannet/Norway/2022-07-1146-1T/2022|EPI_ISL_18455202	2022-06-16	Norway	other
+A/turkey/Israel/564/2021|EPI_ISL_12917757	2021-10-29	Israel	other
+A/eurasian_sparrowhawk/Netherlands/22000555-002/2022|EPI_ISL_9117232	2022-01-06	Netherlands	other
+A/chicken/Czech_Republic/23404-2K/2021|EPI_ISL_7626484	2021-11-25	Czech Republic	other
+A/Northern_goshawk/Norway/2023-07-77-1/2023|EPI_ISL_18963398	2023-02-14	Norway	other
+A/chicken/Czech_Republic/23404-2T/2021|EPI_ISL_7626512	2021-11-25	Czech Republic	other
+A/chicken/Netherlands/21038165-006010/2021|EPI_ISL_13360259	2021-11-07	Netherlands	other
+A/goose/Netherlands/21039029-001/2021|EPI_ISL_7267252	2021-11-17	Netherlands	other
+A/mute_swan/Netherlands/21039192-001/2021|EPI_ISL_7267246	2021-11-20	Netherlands	other
+A/laying_hen/Austria/22005859-001/2022|EPI_ISL_17785727	2022-01-19	Austria	other
+A/greylag_goose/Netherlands/21038570-002/2021|EPI_ISL_7267243	2021-11-09	Netherlands	other
+A/duck/Poland/H2008_21RS3290-16/2021|EPI_ISL_18458070	2021-11-18	Poland	other
+A/mute_swan/Austria/2990-2_22VIR582-3/2021|EPI_ISL_18458076	2021-12-14	Austria	other
+A/chicken/Poland/H1983_21RS3290-13/2021|EPI_ISL_18458066	2021-11-16	Poland	other
+A/duck/Poland/H1970_21RS3290-7/2021|EPI_ISL_18458061	2021-11-13	Poland	other
+A/swan/Austria/22030844-004/2022|EPI_ISL_17785733	2022-03-11	Austria	other
+A/European_Herring_Gull/_Sweden/SVA220105SZ0249/FB000036/K-2021|EPI_ISL_10937772	2021-12-17	Sweden	other
+A/mute_swan/Netherlands/21039202-001/2021|EPI_ISL_7267247	2021-11-20	Netherlands	other
+A/Chicken/Austria/21146859-002/2021|EPI_ISL_17785725	2021-11-25	Austria	other
+A/chicken/Iceland/2022AI02565/2022|EPI_ISL_13246657	2022-04-14	Iceland	other
+A/duck/Poland/H2014_21RS3290-17/2021|EPI_ISL_18458071	2021-11-20	Poland	other
+A/duck/Poland/H1968_21RS3290-5/2021|EPI_ISL_18458059	2021-11-12	Poland	other
+A/turkey/Poland/H1941_21RS3290-3/2021|EPI_ISL_18458057	2021-11-06	Poland	other
+A/chicken/Poland/H1976_21RS3290-9/2021|EPI_ISL_18458063	2021-11-15	Poland	other
+A/turkey/Poland/H1923_21RS3290-1/2021|EPI_ISL_18458056	2021-11-03	Poland	other
+A/duck/Poland/H1980_21RS3290-11/2021|EPI_ISL_18458065	2021-11-16	Poland	other
+A/chicken/Austria/2782_21VIR11353/2021|EPI_ISL_18458072	2021-11-29	Austria	other
+A/swan/Austria/22004012-001/2022|EPI_ISL_17785726	2022-01-14	Austria	other
+A/northern_gannet/Spain/22VIR12774-17_3389-5/2022|EPI_ISL_16507100	2022-09-27	Spain	other
+A/chicken/Austria/2786-1_21VIR11354/2021|EPI_ISL_18458073	2021-11-29	Austria	other
+A/chicken/Poland/H1928_21RS3290-2/2021|EPI_ISL_18458055	2021-11-03	Poland	other
+A/greylag_goose/Netherlands/21038942-001/2021|EPI_ISL_7267250	2021-11-15	Netherlands	other
+A/mute_swan/Austria/21154984-002/2021|EPI_ISL_17785729	2021-12-14	Austria	other
+A/Peregrine_falcon/Ireland/031358_21VIR9564-2/2021|EPI_ISL_18458054	2021-11-03	Ireland	other
+A/chicken/Poland/H1962_21RS3290-4/2021|EPI_ISL_18458058	2021-11-11	Poland	other
+A/greylag_goose/Netherlands/21039376-001/2021|EPI_ISL_7267254	2021-11-23	Netherlands	other
+A/duck/Poland/H1993_21RS3290-14/2021|EPI_ISL_18458069	2021-11-17	Poland	other
+A/mute_swan/Austria/22000062-001/2022|EPI_ISL_17785731	2022-01-03	Austria	other
+A/northern_gannet/Spain/22VIR12774-33_3497-10/2022|EPI_ISL_16507108	2022-10-03	Spain	other
+A/duck/Poland/H1982_21RS3290-12/2021|EPI_ISL_18458067	2021-11-16	Poland	other
+A/mute_swan/Austria/2990-1_22VIR582-2/2021|EPI_ISL_18458075	2021-12-14	Austria	other
+A/swan/Austria/22046299-002/2022|EPI_ISL_17785728	2022-04-13	Austria	other
+A/goose/Netherlands/21038940-002/2021|EPI_ISL_7267248	2021-11-14	Netherlands	other
+A/duck/Poland/H1969_21RS3290-6/2021|EPI_ISL_18458060	2021-11-12	Poland	other
+A/duck/Poland/H1971_21RS3290-8/2021|EPI_ISL_18458062	2021-11-13	Poland	other
+A/turkey/Poland/H1977_21RS3290-10/2021|EPI_ISL_18458064	2021-11-16	Poland	other
+A/northern_gannet/Spain/22VIR12774-1_3004-12/2022|EPI_ISL_16507094	2022-08-21	Spain	other
+A/northern_gannet/Spain/22VIR12774-31_3453-1/2022|EPI_ISL_16507107	2022-09-25	Spain	other
+A/greater_canada_goose_/Netherlands/21038971-001/2021|EPI_ISL_7267251	2021-11-16	Netherlands	other
+A/great_crested_grebe/Netherlands/22001219-002/2022|EPI_ISL_10724258	2022-01-18	Netherlands	other
+A/chicken/Northern_Ireland/AI48_22VIR584-11/2021|EPI_ISL_18458591	2021-12-18	United Kingdom	other
+A/goose/Czech_Republic/913/2022|EPI_ISL_12150657	2022-01-12	Czech Republic	other
+A/mute_swan/Czech_Republic/2755/2022|EPI_ISL_12150661	2022-01-29	Czech Republic	other
+A/goose/Czech_Republic/25322-179/2021|EPI_ISL_12150664	2021-12-18	Czech Republic	other
+A/Fox/Netherlands/EMC2/2022|EPI_ISL_12069288	2022-01-10	Netherlands	other
+A/Gannet/Scotland/084490/2022|EPI_ISL_13969424	2022-06-06	United Kingdom	other
+A/Mute_swan/Wales/058560/2022|EPI_ISL_13969430	2022-04-10	United Kingdom	other
+A/greylag_goose_/Sweden/SVA211118SZ0354/FB004497/I-2021|EPI_ISL_7055384	2021-11-17	Sweden	other
+A/chicken/Northern_Ireland/AI48_22VIR586-12/2021|EPI_ISL_18458590	2021-12-18	United Kingdom	other
+A/red_fox/Netherlands/22002636-002/2022|EPI_ISL_11019882	2022-02-07	Netherlands	other
+A/Goose/Scotland/036879/2022|EPI_ISL_13969422	2022-03-28	United Kingdom	other
+A/Gannet/Scotland/090910/2022|EPI_ISL_13969426	2022-06-18	United Kingdom	other
+A/northern_gannet/Spain/22VIR12774-4_3104-40/2022|EPI_ISL_16524596	2022-08-30	Spain	other
+A/Common_Buzzard/Scotland/031887/2022|EPI_ISL_13969420	2022-03-21	United Kingdom	other
+A/turkey/England/112259/2022|EPI_ISL_15115556	2022-08-26	United Kingdom	other
+A/Greylag_goose/England/247696/2022|EPI_ISL_13969428	2022-04-14	United Kingdom	other
+A/goose/Czech_Republic/25322-205/2021|EPI_ISL_12150666	2021-12-18	Czech Republic	other
+A/Gannet/Scotland/084624/2022|EPI_ISL_13969425	2022-06-07	United Kingdom	other
+A/chicken/Czech_Republic/913/2022|EPI_ISL_12150658	2022-01-12	Czech Republic	other
+A/Northern_gannet/Norway/2022-07-1991-1/2022|EPI_ISL_18901642	2022-08-04	Norway	other
+A/mute_swan/Netherlands/21038362-002/2021|EPI_ISL_6761007	2021-11-09	Netherlands	other
+A/Northern_gannet/Norway/2022-07-1073-2/2022|EPI_ISL_18901610	2022-06-10	Norway	other
+A/chicken/England/012967/2022|EPI_ISL_11561590	2022-02-08	United Kingdom	other
+A/Dove/Norway/2022-07-3-1/2022|EPI_ISL_18901671	2022-01-04	Norway	other
+A/barnacle_goose/Netherlands/21038248-001/2021|EPI_ISL_6761012	2021-11-02	Netherlands	other
+A/Northern_gannet/Norway/2022-07-1116-2/2022|EPI_ISL_18901614	2022-06-15	Norway	other
+A/White-tailed_eagle/Norway/2022-07-984-1/2022|EPI_ISL_18901688	2022-06-08	Norway	other
+A/black-headed_gull/England/388256/2022|EPI_ISL_11561593	2022-02-03	United Kingdom	other
+A/northern_gannet/Sweden/SVA220701SZ0245/FB002065/N-2022|EPI_ISL_14985606	2022-06-01	Sweden	other
+A/mute_swan/Poland/MB551/2021|EPI_ISL_18245815	2021-12-23	Poland	other
+A/Northern_gannet/Norway/2022-07-2085-1/2022|EPI_ISL_18901645	2022-08-12	Norway	other
+A/White-tailed_eagle/Norway/2022-07-450-1/2022|EPI_ISL_18901680	2022-05-03	Norway	other
+A/Great_black-backed_gull/Norway/2022-07-1235-4/2022|EPI_ISL_18901625	2022-06-22	Norway	other
+A/Great_black-backed_gull/Norway/2022-07-2853-3/2022|EPI_ISL_18901670	2022-09-27	Norway	other
+A/White-tailed_eagle/Norway/2022-07-1997-1/2022|EPI_ISL_18901644	2022-08-10	Norway	other
+A/Great_black-backed_gull/Norway/2022-07-1235-2/2022|EPI_ISL_18901623	2022-06-22	Norway	other
+A/Northern_gannet/Norway/2022-07-1143-1/2022|EPI_ISL_18901619	2022-06-16	Norway	other
+A/Gull/Norway/2022-07-3180-1/2022|EPI_ISL_18901673	2022-10-07	Norway	other
+A/Northern_fulmar/Norway/2022-07-1356-1/2022|EPI_ISL_18901629	2022-06-29	Norway	other
+A/mute_swan/Poland/MB550/2021|EPI_ISL_18245814	2021-12-23	Poland	other
+A/mute_swan/Latvia/35510-1_23VIR8835-3/2022|EPI_ISL_18509073	2022-01-14	Latvia	other
+A/peregrine_falcon/Netherlands/21038169-002/2021|EPI_ISL_6761011	2021-11-04	Netherlands	other
+A/crane/Poland/MB528/2021|EPI_ISL_18245811	2021-12-10	Poland	other
+A/domestic_duck/England/012973/2022|EPI_ISL_11561591	2022-02-08	United Kingdom	other
+A/Great_black-backed_gull/Norway/2022-07-2853-2/2022|EPI_ISL_18901669	2022-09-27	Norway	other
+A/Northern_gannet/Norway/2022-07-1073-4/2022|EPI_ISL_18901611	2022-06-10	Norway	other
+A/hawk/Poland/MB544/2021|EPI_ISL_18245813	2021-12-22	Poland	other
+A/chicken/Netherlands/21038669-001005/2021|EPI_ISL_6761017	2021-11-12	Netherlands	other
+A/northern_gannet/Sweden/SVA220630SZ0368/FB002052/N-2022|EPI_ISL_14985603	2022-06-29	Sweden	other
+A/Great_black-backed_gull/Norway/2022-07-2853-1/2022|EPI_ISL_18901650	2022-09-27	Norway	other
+A/Northern_gannet/Norway/2022-07-1116-1/2022|EPI_ISL_18901613	2022-06-15	Norway	other
+A/goose/Netherlands/21038799-002/2021|EPI_ISL_6761024	2021-11-13	Netherlands	other
+A/Northern_gannet/Norway/2022-07-1116-3/2022|EPI_ISL_18901615	2022-06-15	Norway	other
+A/Northern_gannet/Norway/2022-07-1597-1/2022|EPI_ISL_18901639	2022-07-08	Norway	other
+A/Great_black-backed_gull/Norway/2022-07-1594-1/2022|EPI_ISL_18901638	2022-07-13	Norway	other
+A/wild_bird/Poland/MW542/2021|EPI_ISL_18245812	2021-12-20	Poland	other
+A/Red_fox/Norway/2022-07-2244-1/2022|EPI_ISL_18901720	2022-08-24	Norway	other
+A/northern_fulmar/Sweden/SVA220628SZ0328/FB002021/O-2022|EPI_ISL_14985601	2022-07-04	Sweden	other
+A/northern_gannet/Sweden/SVA220704SZ0158/FB002085/M-2022|EPI_ISL_14985874	2022-07-04	Sweden	other
+A/mallard/Netherlands/21038796-002/2021|EPI_ISL_6761023	2021-11-13	Netherlands	other
+A/Great_black-backed_gull/Norway/2022-07-1235-1/2022|EPI_ISL_18901622	2022-06-22	Norway	other
+A/Northern_gannet/Norway/2022-07-1073-1/2022|EPI_ISL_18901609	2022-06-10	Norway	other
+A/mute_swan/Netherlands/21038362-001/2021|EPI_ISL_6761006	2021-11-09	Netherlands	other
+A/mute_swan/Netherlands/21038479-002/2021|EPI_ISL_6761020	2021-11-09	Netherlands	other
+A/greylag_goose/Netherlands/21038565-002/2021|EPI_ISL_6761021	2021-11-07	Netherlands	other
+A/White-tailed_eagle/Norway/2022-07-3463-1/2022|EPI_ISL_18901674	2022-10-31	Norway	other
+A/northern_gannet/Sweden/SVA220701SZ0245/FB002073/O-2022|EPI_ISL_14985873	2022-06-15	Sweden	other
+A/Gull/Norway/2022-07-1996-1/2022|EPI_ISL_18901643	2022-08-09	Norway	other
+A/Great_black-backed_gull/Norway/2022-07-3018-1/2022|EPI_ISL_18901672	2022-10-03	Norway	other
+A/northern_gannet/Sweden/SVA220701SZ0245/FB002072/O-2022|EPI_ISL_14985765	2022-07-06	Sweden	other
+A/Great_black-backed_gull/Norway/2022-07-2560-1/2022|EPI_ISL_18901648	2022-09-06	Norway	other
+A/Great_black-backed_gull/Iceland/2023AI04254/2022|EPI_ISL_18001853	2022-09-30	Iceland	other
+A/grey_heron/Croatia/132-a/2021|EPI_ISL_18361501	2021-11-16	Croatia	other
+A/Great_skua/Iceland/2023AI04249/2022|EPI_ISL_18001837	2022-06-15	Iceland	other
+A/duck/Chelyabinsk/1379-1/2021|EPI_ISL_16838577	2021-09-14	Russian Federation	other
+A/Great_skua/Iceland/2023AI04253/2022|EPI_ISL_18001846	2022-09-22	Iceland	other
+A/White-tailed_eagle/Iceland/2023AI04257/2022|EPI_ISL_18001861	2022-10-16	Iceland	other
+A/chicken/Poland/H157_22VIR2515-3/2022|EPI_ISL_11922809	2022-02-18	Poland	other
+A/pelican/Russia/1032-1/2021|EPI_ISL_16838579	2021-07-16	Russian Federation	other
+A/northern_gannet/Sweden/SVA220719SZ0404/FB002329/O-2022|EPI_ISL_14986700	2022-07-22	Sweden	other
+A/grey_heron/Croatia/132-c/2021|EPI_ISL_7892492	2021-12-08	Croatia	other
+A/swan/Romania/10324_22VIR2749-2/2022|EPI_ISL_11922816	2022-02-01	Romania	other
+A/swan/Poland/MB083_22VIR2515-8/2022|EPI_ISL_11922814	2022-02-17	Poland	other
+A/Chicken/Iceland/2023AI04237/2022|EPI_ISL_18001810	2022-04-15	Iceland	other
+A/goose/Chelyabinsk/1341-3/2021|EPI_ISL_16838578	2021-08-08	Russian Federation	other
+A/swan/Romania/10678_22VIR2749-7/2022|EPI_ISL_11922821	2022-02-23	Romania	other
+A/grey_heron/Croatia/132-b/2021|EPI_ISL_18361460	2021-12-08	Croatia	other
+A/goose/Czech_Republic/22608-2/2021|EPI_ISL_8515479	2021-11-18	Czech Republic	other
+A/swan/Romania/10656_22VIR2749-6/2022|EPI_ISL_11922820	2022-02-22	Romania	other
+A/goose/Czech_Republic/22608-1/2021|EPI_ISL_8515478	2021-11-18	Czech Republic	other
+A/chicken/Netherlands/21037750-001005/2021|EPI_ISL_5942524	2021-10-31	Netherlands	other
+A/northern_gannet/Sweden/SVA220706SZ0236/FB002106/N-2022|EPI_ISL_14986279	2022-06-26	Sweden	other
+A/chicken/Czech_Republic/23404/2021|EPI_ISL_8515480	2021-11-25	Czech Republic	other
+A/pelican/Russia/932-0121/2021|EPI_ISL_16838580	2021-06-29	Russian Federation	other
+A/swan/Romania/10394_22VIR2749-3/2022|EPI_ISL_11922817	2022-02-03	Romania	other
+A/Anser_anser/Belgium/00939-0011/2022|EPI_ISL_16676477	2022-01-15	Belgium	Belgium
+A/Nothern_gannet/France/22P019553/2022|EPI_ISL_18445749	2022-07-23	France	other
+A/White_Stork/Sweden/SVA220310SZ0365/FB000564/M-2022|EPI_ISL_11580158	2022-03-06	Sweden	other
+A/polecat/Netherlands/22002792-005/2022|EPI_ISL_10220429	2022-02-09	Netherlands	other
+A/white-faced_whistling_duck/Nigeria/VRD22-305-Dal13_23VIR8254-108/2022|EPI_ISL_18462535	2022-03-01	Nigeria	other
+A/Red_Fox/Norway/2022-04-22642-2-4/2022|EPI_ISL_19232149	2022-08-09	Norway	other
+A/Northern_Gannet/Netherlands/6/2022|EPI_ISL_15267027	2022-06-21	Netherlands	other
+A_common_buzzard_Denmark_00526-1.01_2022|EPI_ISL_18788587	2022-01-16	Denmark	other
+A/barnacle_goose/Netherlands/22000066-001/2022|EPI_ISL_9221509	2022-01-01	Netherlands	other
+A/swan/Slovenia/2060_22VIR777-4/2021|EPI_ISL_11007531	2021-12-29	Slovenia	other
+A/Anser_anser/Spain/810-6_22VIR8632-16/2022|EPI_ISL_15234359	2022-02-23	Spain	other
+A/Nothern_gannet/France/22P019694/2022|EPI_ISL_18445751	2022-07-25	France	other
+A/chicken/Northern_Ireland/AI41_21VIR11351-5/2021|EPI_ISL_8810660	2021-12-10	United Kingdom	other
+A/swan/Slovenia/13_22VIR777-8/2022|EPI_ISL_11007535	2022-01-03	Slovenia	other
+A/barnacle_goose/Denmark/24273-1.02/2021|EPI_ISL_18953100	2021-10-26	Denmark	other
+A/chicken/Denmark/24357-11/2021|EPI_ISL_18953101	2021-11-02	Denmark	other
+A/red_fox/Netherlands/22002636-005/2022|EPI_ISL_10220427	2022-02-07	Netherlands	other
+A/Withe-tiled_eagle/Estonia/TA2124126-1_21VIR10433-11/2021|EPI_ISL_7778754	2021-10-12	Estonia	other
+A/turkey/Italy/21VIR9520/2021|EPI_ISL_11007548	2021-11-14	Italy	other
+A/Harbour_Seal/Scotland/162925/2022|EPI_ISL_16904554	2022-07-25	United Kingdom	other
+A/Northern_Gannet/Netherlands/5/2022|EPI_ISL_15267026	2022-06-26	Netherlands	other
+A/red_fox/Netherlands/22002722-004/2022|EPI_ISL_10220428	2022-02-08	Netherlands	other
+A/Nothern_gannet/France/22P019153/2022|EPI_ISL_18445745	2022-07-08	France	other
+A_common_buzzard_Denmark_24962-1.01_2021|EPI_ISL_18788584	2021-11-24	Denmark	other
+A/swan/Slovenia/2041_22VIR777-2/2021|EPI_ISL_11007529	2021-12-26	Slovenia	other
+A/chicken/Denmark/24357-2/2021|EPI_ISL_18953102	2021-11-02	Denmark	other
+A/african-jacana/Nigeria/VRD22-305-DA19_23VIR8254-114/2022|EPI_ISL_18462541	2022-04-01	Nigeria	other
+A_barnacle_goose_Denmark_25242-1.01_2021|EPI_ISL_18788586	2021-12-09	Denmark	other
+A/white-stork/Nigeria/VRD22-305-Dal03_23VIR8254-98/2022|EPI_ISL_18462526	2022-04-01	Nigeria	other
+A/domestic_duck/Northern_Ireland/AI42_21VIR11350-5/2021|EPI_ISL_8810667	2021-12-11	United Kingdom	other
+A/spur-winged_goose/Nigeria/VRD22-305-Ng06_23VIR8254-101/2022|EPI_ISL_18462529	2022-03-01	Nigeria	other
+A/swan/Slovenia/2073_22VIR777-6/2021|EPI_ISL_11007533	2021-12-30	Slovenia	other
+A/Red_fox/Norway/2022-04-22642-1-4/2022|EPI_ISL_19232148	2022-08-09	Norway	other
+A/squared-tailed_nightjar/Nigeria/VRD22-305-08_23VIR8254-103/2022|EPI_ISL_18462531	2022-03-01	Nigeria	other
+A/guinea_fowl-chicken/Northern_Ireland/AI37_21VIR11349-2/2021|EPI_ISL_8810659	2021-12-01	United Kingdom	other
+A/Greylag_goose/Sweden/SVA220308SZ0382/FB000559/M-2022|EPI_ISL_11580255	2022-01-21	Sweden	other
+A_Northern_gannet_Denmark_06250-1.02_2022|EPI_ISL_18788591	2022-06-29	Denmark	other
+A/rooster/Slovenia/2039_22VIR777-1/2021|EPI_ISL_11007528	2021-12-26	Slovenia	other
+A/chicken/Italy/21VIR10382/2021|EPI_ISL_14760648	2021-11-29	Italy	other
+A/chicken/Italy/21VIR9904-18/2021|EPI_ISL_14760605	2021-11-19	Italy	other
+A/northern_gannet/France/22P020789/2022|EPI_ISL_19135806	2022-09-14	France	other
+A/quail/Italy/21VIR9474-1/2021|EPI_ISL_14760561	2021-11-09	Italy	other
+A/chicken/Italy/21VIR10620-1/2021|EPI_ISL_14760673	2021-12-02	Italy	other
+A/turkey/Italy/21VIR9215-1/2021|EPI_ISL_14760556	2021-11-06	Italy	other
+A/turkey/Italy/21VIR10622-1/2021|EPI_ISL_14760667	2021-12-02	Italy	other
+A/turkey/Italy/21VIR9697-3_/2022|EPI_ISL_14760594	2021-11-16	Italy	other
+A/turkey/Italy/21VIR10852/2021|EPI_ISL_14760684	2021-12-06	Italy	other
+A/turkey/Italy/21VIR11386-1/2021|EPI_ISL_14760784	2021-12-16	Italy	other
+A/turkey/Italy/21VIR8926-1/2021|EPI_ISL_14760545	2021-10-30	Italy	other
+A/chicken/Italy/21VIR10619-1/2021|EPI_ISL_14760672	2021-12-02	Italy	other
+A/greater_white-fronted_goose/Sweden/SVA211217SZ0323/FB004845/2021|EPI_ISL_9648238	2021-12-16	Sweden	other
+A/turkey/Italy/21VIR9144-2/2021|EPI_ISL_14760549	2021-11-03	Italy	other
+A/chicken/Italy/21VIR10616-1/2021|EPI_ISL_14760670	2021-12-02	Italy	other
+A/laying_hen/Italy/21VIR11169/2021|EPI_ISL_14760733	2021-12-13	Italy	other
+A/turkey/Italy/21VIR10847-1/2021|EPI_ISL_14760702	2021-12-08	Italy	other
+A/guinea_fowl/Italy/21VIR11383-1/2021|EPI_ISL_14760762	2021-12-16	Italy	other
+A/red_fox/Netherlands/22002191-003/2022|EPI_ISL_9616272	2022-01-31	Netherlands	other
+A/turkey/Italy/21VIR11690/2021|EPI_ISL_14761141	2021-12-24	Italy	other
+A/polecat/Netherlands/22002047-001/2022|EPI_ISL_9616266	2022-01-24	Netherlands	other
+A/chicken/Italy/21VIR10637-2/2021|EPI_ISL_14760678	2021-12-04	Italy	other
+A/chicken/Italy/21VIR10971-3/2021|EPI_ISL_14760704	2021-12-09	Italy	other
+A/turkey/Italy/21VIR11587-1/2021|EPI_ISL_14761097	2021-12-23	Italy	other
+A/chicken/Italy/21VIR9580-23/2021|EPI_ISL_14760582	2021-11-15	Italy	other
+A/turkey/Italy/21VIR10471/2021|EPI_ISL_14760660	2021-11-30	Italy	other
+A/mute_swan/Croatia/145/2021|EPI_ISL_8338502	2021-12-29	Croatia	other
+A/chicken/Italy/21VIR10972-3/2021|EPI_ISL_14760706	2021-12-09	Italy	other
+A/laying_hen/Italy/21VIR11395-1/2021|EPI_ISL_14760803	2021-12-16	Italy	other
+A/Great_Black-backed_Gull/4/2022|EPI_ISL_15579544	2022-10-09	Netherlands	other
+A/chicken/Italy/21VIR10723-1/2021|EPI_ISL_14760675	2021-12-03	Italy	other
+A/chicken/Italy/21VIR10696-7/2021|EPI_ISL_14760688	2021-12-06	Italy	other
+A/turkey/Italy/21VIR9648-2/2021|EPI_ISL_14760584	2021-11-15	Italy	other
+A/turkey/Italy/21VIR11302/2021|EPI_ISL_14760746	2021-12-14	Italy	other
+A/turkey/Italy/21VIR9605-4/2021|EPI_ISL_14760573	2021-11-12	Italy	other
+A/turkey/Italy/21VIR9839-1/2021|EPI_ISL_14760609	2021-11-21	Italy	other
+A/turkey/Italy/21VIR11058/2021|EPI_ISL_14760739	2021-12-13	Italy	other
+A/swan/Lithuania/1220PG1_22VIR7255-1/2022|EPI_ISL_15022831	2022-02-09	Lithuania	other
+A/chicken/Italy/21VIR9904-17/2021|EPI_ISL_14760604	2021-11-19	Italy	other
+A/turkey/Italy/21VIR8728-1/2021|EPI_ISL_14760542	2021-10-22	Italy	other
+A/chicken/Italy/21VIR9212-1/2021|EPI_ISL_14760552	2021-11-05	Italy	other
+A/chicken/Italy/21VIR11238/2021|EPI_ISL_14760744	2021-12-14	Italy	other
+A/turkey/Italy/21VIR9894-3/2021|EPI_ISL_14760621	2021-11-23	Italy	other
+A/chicken/Italy/21VIR10252/2021|EPI_ISL_14760635	2021-11-25	Italy	other
+A/turkey/Italy/21VIR9518-1/2021|EPI_ISL_14760576	2021-11-14	Italy	other
+A/turkey/Italy/21VIR9073-3/2021|EPI_ISL_14760547	2021-11-02	Italy	other
+A/turkey/Italy/21VIR10398/2021|EPI_ISL_14760653	2021-11-29	Italy	other
+A/turkey/Italy/21VIR11163/2021|EPI_ISL_14760740	2021-12-13	Italy	other
+A/turkey/Italy/21VIR9901-3/2021|EPI_ISL_14760631	2021-11-23	Italy	other
+A/goose/Netherlands/22000310-001/2022|EPI_ISL_9616194	2022-01-05	Netherlands	other
+A/chicken/Italy/21VIR11074-1/2021|EPI_ISL_14760711	2021-12-09	Italy	other
+A/chicken/Italy/21VIR10808-1/2021|EPI_ISL_14760692	2021-12-07	Italy	other
+A/quail/Italy/21VIR9515-1/2021|EPI_ISL_14760575	2021-11-13	Italy	other
+A/avian/Italy/21VIR10913-3/2021|EPI_ISL_14760713	2021-12-09	Italy	other
+A/chicken/Italy/21VIR10928/2021|EPI_ISL_14760698	2021-12-07	Italy	other
+A/chicken/Italy/21VIR11485/2021|EPI_ISL_14760837	2021-12-17	Italy	other
+A/turkey/Italy/21VIR11396-1/2021|EPI_ISL_14760814	2021-12-16	Italy	other
+A/turkey/Italy/21VIR9905-2/2021|EPI_ISL_14760607	2021-11-19	Italy	other
+A/laying_hen/Italy/21VIR11167/2021|EPI_ISL_14760731	2021-12-13	Italy	other
+A/chicken/Italy/21VIR10635-1/2021|EPI_ISL_14760677	2021-12-04	Italy	other
+A/turkey/Italy/21VIR11661-7/2021|EPI_ISL_14761152	2021-12-26	Italy	other
+A/chicken/Italy/21VIR10724-13/2021|EPI_ISL_14760674	2021-12-03	Italy	other
+A/great_black-backed_gull/Germany-SH/AI05236/2022|EPI_ISL_17693350	2022-10-13	Germany	other
+A/chicken/Italy/21VIR11076-1/2021|EPI_ISL_14760715	2021-12-10	Italy	other
+A/Chicken/Sweden/SVA220301SZ0012/FB049029/M-2022|EPI_ISL_10910369	2022-03-01	Sweden	other
+A/turkey/Italy/21VIR10097/2021|EPI_ISL_14760627	2021-11-23	Italy	other
+A/laying_hen/Italy/21VIR11168/2021|EPI_ISL_14760732	2021-12-13	Italy	other
+A/turkey/Italy/21VIR8926-2/2021|EPI_ISL_14760546	2021-10-30	Italy	other
+A/turkey/Italy/21VIR10095/2021|EPI_ISL_14760628	2021-11-23	Italy	other
+A/turkey/Italy/21VIR9906-2/2021|EPI_ISL_14760606	2021-11-19	Italy	other
+A/chicken/Italy/21VIR9219-6/2021|EPI_ISL_14760557	2021-11-07	Italy	other
+A/turkey/Italy/21VIR9769-4/2021|EPI_ISL_14760595	2021-11-17	Italy	other
+A/turkey/Italy/21VIR10854/2021|EPI_ISL_14760686	2021-12-06	Italy	other
+A/avian/Italy/21VIR9425-2/2021|EPI_ISL_14760559	2021-11-08	Italy	other
+A/laying_hen/Italy/21VIR11801-7/2021|EPI_ISL_14761176	2021-12-27	Italy	other
+A/chicken/Italy/21VIR10146/2021|EPI_ISL_14760636	2021-11-25	Italy	other
+A/chicken/Italy/21VIR11072-1/2021|EPI_ISL_14760710	2021-12-09	Italy	other
+A/goose/Italy/Italy/21VIR10458/2021|EPI_ISL_14760656	2021-11-30	Italy	other
+A/pheasant/Italy/21VIR11162/2021|EPI_ISL_14760728	2021-12-13	Italy	other
+A/turkey/Italy/21VIR9476-1/2021|EPI_ISL_14760564	2021-11-10	Italy	other
+A/chicken/Italy/21VIR10463-1/2021|EPI_ISL_14760665	2021-12-01	Italy	other
+A/northern_gannet/France/22P020485/2022|EPI_ISL_19135763	2022-08-26	France	other
+A/turkey/Italy/21VIR9519-1/2021|EPI_ISL_14760577	2021-11-14	Italy	other
+A/chicken/Italy/21VIR10522-13/2021|EPI_ISL_14760666	2021-12-01	Italy	other
+A/goose/Netherlands/22000194-002/2022|EPI_ISL_9616205	2022-01-04	Netherlands	other
+A/Mallard/Netherlands/1/2022|EPI_ISL_10992813	2022-02-12	Netherlands	other
+A/barnacle_goose/Netherlands/22000551-002/2022|EPI_ISL_9304992	2021-12-31	Netherlands	other
+A/chicken/Italy/21VIR10093/2021|EPI_ISL_14760626	2021-11-23	Italy	other
+A/turkey/Italy/21VIR11511/2021|EPI_ISL_14760891	2021-12-20	Italy	other
+A/chicken/Italy/21VIR10997-1/2021|EPI_ISL_14760723	2021-12-11	Italy	other
+A/turkey/Italy/21VIR10988-1/2021|EPI_ISL_14760708	2021-12-09	Italy	other
+A/chicken/Italy/21VIR11079-11/2021|EPI_ISL_14760716	2021-12-10	Italy	other
+A/quail/Italy/21VIR10356/2021|EPI_ISL_14760639	2021-11-26	Italy	other
+A/turkey/Italy/21VIR9645-2/2021|EPI_ISL_14760581	2021-11-15	Italy	other
+A/chicken/Italy/21VIR10987-1/2021|EPI_ISL_14760714	2021-12-09	Italy	other
+A/turkey/Italy/21VIR9609-2/2021|EPI_ISL_14760572	2021-11-12	Italy	other
+A/chicken/Italy/21VIR9830-27/2021|EPI_ISL_14760602	2021-11-19	Italy	other
+A/turkey/Italy/21VIR11692/2021|EPI_ISL_14761129	2021-12-23	Italy	other
+A/turkey/Italy/21VIR9426-3/2021|EPI_ISL_14760563	2021-11-09	Italy	other
+A/turkey/Italy/21VIR11006-1/2021|EPI_ISL_14760724	2021-12-12	Italy	other
+A/chicken/Italy/21VIR11056-6/2021|EPI_ISL_14760738	2021-12-13	Italy	other
+A/chicken/Italy/21VIR10262/2021|EPI_ISL_14760642	2021-11-27	Italy	other
+A/laying_hen/Italy/21VIR11300/2021|EPI_ISL_14760735	2021-12-13	Italy	other
+A/chicken/Italy/21VIR10000/2021|EPI_ISL_14760616	2021-11-22	Italy	other
+A/turkey/Italy/21VIR11506/2022|EPI_ISL_14760902	2021-12-20	Italy	other
+A/duck/Italy/21VIR10809-1/2021|EPI_ISL_14760693	2021-12-07	Italy	other
+A/chicken/Italy/21VIR10811-28/2021|EPI_ISL_14760695	2021-12-07	Italy	other
+A/turkey/Italy/21VIR9693-3/2021|EPI_ISL_14760592	2021-11-16	Italy	other
+A/turkey/Italy/21VIR10857/2021|EPI_ISL_14760685	2021-12-06	Italy	other
+A/chicken/Italy/21VIR9902-2/2021|EPI_ISL_14760598	2021-11-18	Italy	other
+A/turkey/Italy/21VIR10524-1/2021|EPI_ISL_14760663	2021-12-01	Italy	other
+A/turkey/Italy/21VIR9579-10/2021|EPI_ISL_14760583	2021-11-15	Italy	other
+A/Common_Buzzard/Sweden/SVA220127SZ0301/FB000177/M-2022|EPI_ISL_10942551	2022-01-21	Sweden	other
+A/Turkey/Sweden/SVA211212SZ0001/FB301013-IP-2/M-2021|EPI_ISL_8338002	2021-12-12	Sweden	other
+A/northern_gannet/France/22P020664/2022|EPI_ISL_19135788	2022-09-05	France	other
+A/chicken/Italy/21VIR10094/2021|EPI_ISL_14760629	2021-11-23	Italy	other
+A/chicken/Italy/21VIR10812-11/2021|EPI_ISL_14760696	2021-12-07	Italy	other
+A/northern_gannet/France/22P020794/2022|EPI_ISL_19135815	2022-09-09	France	other
+A/chicken/Italy/21VIR10387/2021|EPI_ISL_14760655	2021-11-30	Italy	other
+A/turkey/Italy/21VIR9475-1/2021|EPI_ISL_14760565	2021-11-10	Italy	other
+A/chicken/Italy/21VIR9944-2/2021|EPI_ISL_14760622	2021-11-23	Italy	other
+A/turkey/Italy/21VIR9949-9/2021|EPI_ISL_14760623	2021-11-23	Italy	other
+A/chicken/Italy/21VIR9940-5/2021|EPI_ISL_14760624	2021-11-23	Italy	other
+A/turkey/Italy/21VIR10856/2021|EPI_ISL_14760683	2021-12-06	Italy	other
+A/chicken/Italy/21VIR10263/2021|EPI_ISL_14760643	2021-11-27	Italy	other
+A/turkey/Italy/21VIR9607-2/2021|EPI_ISL_14760569	2021-11-12	Italy	other
+A/turkey/Italy/21VIR10929/2021|EPI_ISL_14760697	2021-12-07	Italy	other
+A/chicken/Italy/21VIR11073-1/2021|EPI_ISL_14760718	2021-12-10	Italy	other
+A/turkey/Italy/21VIR9209-1/2021|EPI_ISL_14760551	2021-11-05	Italy	other
+A/turkey/Italy/21VIR10338/2021|EPI_ISL_14760647	2021-11-29	Italy	other
+A/chicken/Italy/21VIR10264/2021|EPI_ISL_14760645	2021-11-28	Italy	other
+A/turkey/Italy/21VIR9999/2021|EPI_ISL_14760617	2021-11-22	Italy	other
+A/red_fox/Netherlands/22002992-003/2022|EPI_ISL_10255581	2022-02-11	Netherlands	other
+A/turkey/Italy/21VIR9651-2/2021|EPI_ISL_14760585	2021-11-15	Italy	other
+A/chicken/Italy/21VIR9133-21/2021|EPI_ISL_14760550	2021-11-04	Italy	other
+A/chicken/Italy/21VIR11234/2021|EPI_ISL_14760734	2021-12-13	Italy	other
+A/chicken/Italy/21VIR9371-1/2021|EPI_ISL_14760558	2021-11-08	Italy	other
+A/turkey/Italy/21VIR9889-1/2021|EPI_ISL_14760613	2021-11-22	Italy	other
+A/laying_hen/Italy/21VIR11253-1/2021|EPI_ISL_14760750	2021-12-15	Italy	other
+A/turkey/Italy/21VIR10810-1/2021|EPI_ISL_14760694	2021-12-07	Italy	other
+A/chicken/Italy/21VIR9074-10/2021|EPI_ISL_14760548	2021-11-02	Italy	other
+A/chicken/Italy/21VIR11078-10/2021|EPI_ISL_14760717	2021-12-10	Italy	other
+A/turkey/Italy/21VIR11237/2021|EPI_ISL_14760743	2021-12-14	Italy	other
+A/turkey/Italy/21VIR9647-2/2021|EPI_ISL_14760588	2021-11-15	Italy	other
+A/turkey/Italy/21VIR10617-2/2021|EPI_ISL_14760668	2021-12-02	Italy	other
+A/chicken/Italy/21VIR10096/2021|EPI_ISL_14760625	2021-11-23	Italy	other
+A/turkey/Italy/21VIR11077-1/2021|EPI_ISL_14760720	2021-12-10	Italy	other
+A/turkey/Italy/21VIR9646-2/2021|EPI_ISL_14760587	2021-11-15	Italy	other
+A/chicken/Italy/21VIR10385/2021|EPI_ISL_14760658	2021-11-30	Italy	other
+A/chicken/Italy/21VIR9858-3/2021|EPI_ISL_14760612	2021-11-22	Italy	other
+A/chicken/Italy/21VIR10469/2021|EPI_ISL_14760659	2021-11-30	Italy	other
+A/turkey/Italy/21VIR10930/2021|EPI_ISL_14760699	2021-12-07	Italy	other
+A/avian/Italy/21VIR11773-4/2021|EPI_ISL_14761208	2021-12-28	Italy	other
+A/laying_hen/Italy/21VIR11299/2021|EPI_ISL_14760751	2021-12-15	Italy	other
+A/turkey/Italy/21VIR10103/2021|EPI_ISL_14760634	2021-11-24	Italy	other
+A/turkey/Italy/21VIR9606-2/2021|EPI_ISL_14760570	2021-11-12	Italy	other
+A/turkey/Italy/21VIR9217-1/2021|EPI_ISL_14760554	2021-11-06	Italy	other
+A/guinea_fowl/Italy/21VIR11298/2021|EPI_ISL_14760745	2021-12-14	Italy	other
+A/turkey/Italy/21VIR8816-1/2021|EPI_ISL_14760543	2021-10-25	Italy	other
+A/chicken/Italy/21VIR10969-3/2021|EPI_ISL_14760707	2021-12-09	Italy	other
+A/chicken/Italy/21VIR10618-19/2021|EPI_ISL_14760671	2021-12-02	Italy	other
+A/turkey/Italy/21VIR9996/2021|EPI_ISL_14760615	2021-11-22	Italy	other
+A/turkey/Italy/21VIR10397/2021|EPI_ISL_14760652	2021-11-29	Italy	other
+A/wild_bird/Netherlands/22002833-002/2022|EPI_ISL_10255580	2022-02-04	Netherlands	other
+A/turkey/Italy/21VIR9520-1/2021|EPI_ISL_14760578	2021-11-14	Italy	other
+A/turkey/Italy/21VIR10621-1/2021|EPI_ISL_14760669	2021-12-02	Italy	other
+A/chicken/Italy/21VIR10989/2021|EPI_ISL_14760709	2021-12-09	Italy	other
+A/turkey/Italy/21VIR9869-4/2021|EPI_ISL_14760600	2021-11-18	Italy	other
+A/avian/Italy/21VIR11301/2021|EPI_ISL_14760752	2021-12-15	Italy	other
+A/chicken/Italy/21VIR10358/2021|EPI_ISL_14760640	2021-11-26	Italy	other
+A/chicken/Italy/21VIR11508/2021|EPI_ISL_14760880	2021-12-20	Italy	other
+A/chicken/Italy/21VIR11071-2/2021|EPI_ISL_14760712	2021-12-09	Italy	other
+A/turkey/Italy/21VIR10855/2021|EPI_ISL_14760687	2021-12-06	Italy	other
+A/pheasant/Italy/21VIR11165/2021|EPI_ISL_14760730	2021-12-13	Italy	other
+A/northern_gannet/France/22P020480/2022|EPI_ISL_19135754	2022-08-30	France	other
+A/chicken/Italy/21VIR9509-1/2021|EPI_ISL_14760566	2021-11-11	Italy	other
+A/turkey/Italy/21VIR10395/2021|EPI_ISL_14760650	2021-11-29	Italy	other
+A/turkey/Italy/21VIR11164/2021|EPI_ISL_14760729	2021-12-13	Italy	other
+A/Guinea_fowl/Italy/21VIR10216/2021|EPI_ISL_14760632	2021-11-24	Italy	other
+A/pheasant/Italy/21VIR10359/2021|EPI_ISL_14760637	2021-11-25	Italy	other
+A/turkey/Italy/21VIR10636-17/2021|EPI_ISL_14760679	2021-12-04	Italy	other
+A/turkey/Italy/21VIR9903-2/2021|EPI_ISL_14760601	2021-11-18	Italy	other
+A/turkey/Italy/21VIR10737-1/2021|EPI_ISL_14760690	2021-12-06	Italy	other
+A/turkey/Italy/21VIR9891-21/2021|EPI_ISL_14760614	2021-11-22	Italy	other
+A/chicken/Italy/21VIR10999-1/2021|EPI_ISL_14760722	2021-12-11	Italy	other
+A/chicken/Italy/21VIR10357/2021|EPI_ISL_14760641	2021-11-26	Italy	other
+A/turkey/Italy/21VIR9608-2/2021|EPI_ISL_14760574	2021-11-12	Italy	other
+A/chicken/Italy/21VIR10470/2021|EPI_ISL_14760654	2021-11-30	Italy	other
+A/gadwall/Netherlands/22000307-001/2022|EPI_ISL_9616210	2022-01-04	Netherlands	other
+A/duck/Italy/21VIR9836-15/2021|EPI_ISL_14760608	2021-11-20	Italy	other
+A/chicken/Italy/21VIR9868-8/2021|EPI_ISL_14760597	2021-11-17	Italy	other
+A/chicken/Italy/21VIR10265/2021|EPI_ISL_14760646	2021-11-28	Italy	other
+A/common_buzzard/Netherlands/21039607-002/2021|EPI_ISL_7683101	2021-11-25	Netherlands	other
+A/chicken/Italy/21VIR9507-7/2021|EPI_ISL_14760567	2021-11-11	Italy	other
+A/turkey/Italy/21VIR8925-6/2021|EPI_ISL_14760544	2021-10-29	Italy	other
+A/chicken/Italy/21VIR9998/2021|EPI_ISL_14760620	2021-11-22	Italy	other
+A/chicken/Italy/21VIR10386/2021|EPI_ISL_14760661	2021-11-30	Italy	other
+A/chicken/Italy/21VIR11385-1/2021|EPI_ISL_14760774	2021-12-16	Italy	other
+A/turkey/Italy/21VIR9213-1/2021|EPI_ISL_14760555	2021-11-06	Italy	other
+A/turkey/Italy/21VIR9696-2/2021|EPI_ISL_14760593	2021-11-16	Italy	other
+A/turkey/Italy/21VIR10699-1/2021|EPI_ISL_14760682	2021-12-06	Italy	other
+A/turkey/Italy/21VIR10697-1/2021|EPI_ISL_14760689	2021-12-06	Italy	other
+A/turkey/Italy/21VIR10645-15/2021|EPI_ISL_14760680	2021-12-05	Italy	other
+A/turkey/Italy/21VIR9211-1/2021|EPI_ISL_14760553	2021-11-05	Italy	other
+A/common_buzzard/Netherlands/22000306-002/2022|EPI_ISL_9616209	2022-01-03	Netherlands	other
+A/cormorant/Netherlands/22000816-003/2022|EPI_ISL_9616185	2022-01-13	Netherlands	other
+A/turkey/Italy/21VIR10001/2021|EPI_ISL_14760619	2021-11-22	Italy	other
+A/turkey/Italy/21VIR9870-3/2021|EPI_ISL_14760599	2021-11-18	Italy	other
+A/northern_gannet/France/22P020770/2022|EPI_ISL_19135796	2022-09-09	France	other
+A/turkey/Italy/21VIR9692-16/2021|EPI_ISL_14760590	2021-11-16	Italy	other
+A/laying_hen/Italy/21VIR11394-1/2021|EPI_ISL_14760793	2021-12-16	Italy	other
+A/turkey/Italy/21VIR9643-2/2021|EPI_ISL_14760579	2021-11-15	Italy	other
+A/turkey/Italy/21VIR9766-3/2021|EPI_ISL_14760596	2021-11-17	Italy	other
+A/chicken/Italy/21VIR10271/2021|EPI_ISL_14760644	2021-11-28	Italy	other
+A/turkey/Italy/21VIR10092/2021|EPI_ISL_14760630	2021-11-23	Italy	other
+A/Guinea_fowl/Italy/21VIR10231/2021|EPI_ISL_14760633	2021-11-24	Italy	other
+A/turkey/Italy/21VIR9644-2/2021|EPI_ISL_14760580	2021-11-15	Italy	other
+A/turkey/Italy/21VIR10459-1/2021|EPI_ISL_14760664	2021-12-01	Italy	other
+A/chicken/England/115126/2022|EPI_ISL_15038820	2022-09-05	United Kingdom	other
+A/turkey/Italy/21VIR11007-1/2021|EPI_ISL_14760725	2021-12-12	Italy	other
+A/common_kestrel/Netherlands/22000308-002/2022|EPI_ISL_9304991	2022-01-04	Netherlands	other
+A/chicken/Italy/21VIR11056-1/2021|EPI_ISL_14760737	2021-12-13	Italy	other
+A/duck/Italy/21VIR10523-1/2021|EPI_ISL_14760662	2021-12-01	Italy	other
+A/chicken/Italy/21VIR9904-16/2021|EPI_ISL_14760603	2021-11-19	Italy	other
+A/chicken/Czech_Republic/22224-2T/2021|EPI_ISL_7224437	2021-11-12	Czech Republic	other
+A/turkey/Italy/21VIR9372-1/2021|EPI_ISL_14760560	2021-11-08	Italy	other
+A/chicken/Italy/21VIR11075-2/2021|EPI_ISL_14760719	2021-12-10	Italy	other
+A/barnacle_goose/Sweden/SVA211221SZ0510/FB004868/2021|EPI_ISL_9649405	2021-12-17	Sweden	other
+A/northern_goshawk/Sweden/SVA220210SZ0305/FP000317/O-2022|EPI_ISL_10943657	2022-01-25	Sweden	other
+A/guinea_fowl/Italy/21VIR10351/2021|EPI_ISL_14760638	2021-11-26	Italy	other
+A/turkey/Italy/21VIR9695-4/2021|EPI_ISL_14760591	2021-11-16	Italy	other
+A/duck/Italy/21VIR9373-2/2021|EPI_ISL_14760562	2021-11-09	Italy	other
+A/broiler/Italy/21VIR11800/2021|EPI_ISL_14761165	2021-12-27	Italy	other
+A/avian/Italy/21VIR11236/2021|EPI_ISL_14760742	2021-12-14	Italy	other
+A/turkey/Italy/21VIR11440-2/2021|EPI_ISL_14760870	2021-12-20	Italy	other
+A/turkey/Italy/21VIR10396/2021|EPI_ISL_14760649	2021-11-29	Italy	other
+A/chicken/Italy/21VIR10394/2021|EPI_ISL_14760651	2021-11-29	Italy	other
+A/chicken/Italy/21VIR9508-3/2021|EPI_ISL_14760568	2021-11-11	Italy	other
+A/turkey/Italy/21VIR9604-3/2021|EPI_ISL_14760571	2021-11-12	Italy	other
+A/turkey/Italy/21VIR9997/2021|EPI_ISL_14760618	2021-11-22	Italy	other
+A/chicken/Italy/21VIR10973-4/2021|EPI_ISL_14760705	2021-12-09	Italy	other
+A/chicken/Italy/21VIR10634-1/2021|EPI_ISL_14760676	2021-12-04	Italy	other
+A/turkey/Italy/21VIR11492-4/2021|EPI_ISL_14760956	2021-12-21	Italy	other
+A/turkey/Italy/21VIR10970-3/2021|EPI_ISL_14760703	2021-12-09	Italy	other
+A/broiler/Italy/21VIR11802-1/2021|EPI_ISL_14761188	2021-12-27	Italy	other
+A/turkey/Italy/21VIR10757-1/2021|EPI_ISL_14760700	2021-12-07	Italy	other
+A/chicken/Italy/21VIR11054-1/2021|EPI_ISL_14760736	2021-12-13	Italy	other
+A/turkey/Italy/21VIR9650-2/2021|EPI_ISL_14760586	2021-11-15	Italy	other
+A/domestic_duck/England/100990/2022|EPI_ISL_14497837	2022-07-26	United Kingdom	other
+A/turkey/Italy/21VIR9694-2/2021|EPI_ISL_14760589	2021-11-16	Italy	other
+A/broiler/Italy/22VIR1892-3/2022|EPI_ISL_14761507	2022-02-23	Italy	other
+A/chicken/Czech_Republic/22224-3T/2021|EPI_ISL_7224463	2021-11-12	Czech Republic	other
+A/goose/Italy/22VIR1520/2022|EPI_ISL_14761428	2022-02-14	Italy	other
+A/northern_gannet/France/22P020333/2022|EPI_ISL_19135729	2022-08-28	France	other
+A/northern_gannet/France/22P020030/2022|EPI_ISL_19135635	2022-08-10	France	other
+A/northern_gannet/France/22P020187/2022|EPI_ISL_19135640	2022-08-22	France	other
+A/northern_gannet/France/22P020811/2022|EPI_ISL_19135826	2022-09-13	France	other
+A/turkey/Poland/H1911-N/2021|EPI_ISL_6929970	2021-11-01	Poland	other
+A/chicken/Italy/22VIR1694-5/2022|EPI_ISL_14761451	2022-02-18	Italy	other
+A/chicken/Italy/IZSLT22VIR2562-1/2022|EPI_ISL_14761519	2022-03-15	Italy	other
+A/laying_hen/Italy/21VIR11597-1/2021|EPI_ISL_14761065	2021-12-22	Italy	other
+A/duck/Czech_Republic/913/2022|EPI_ISL_12140437	2022-01-12	Czech Republic	other
+A/northern_gannet/France/22P020184/2022|EPI_ISL_19135639	2022-08-18	France	other
+A/northern_gannet/France/22P019220/2022|EPI_ISL_19135604	2022-07-07	France	other
+A/duck/Italy/21VIR11501/2021|EPI_ISL_14760988	2021-12-21	Italy	other
+A/laying_hen/Italy/22VIR48-1/2022|EPI_ISL_14761261	2022-01-03	Italy	other
+A/northern_gannet/France/22P020063/2022|EPI_ISL_19135638	2022-08-16	France	other
+A/northern_gannet/France/22P020314/2022|EPI_ISL_19135722	2022-08-30	France	other
+A/northern_gannet/France/22P019834/2022|EPI_ISL_19135623	2022-08-04	France	other
+A/laying_hen/Italy/22VIR1521-2/2022|EPI_ISL_14761439	2022-02-14	Italy	other
+A/red_fox/Netherlands/22002993-003_/2022|EPI_ISL_10255587	2022-02-11	Netherlands	other
+A/heron/Italy/22VIR1562/2022|EPI_ISL_14761250	2022-01-02	Italy	other
+A/northern_gannet/France/22P020006/2022|EPI_ISL_19135634	2022-08-12	France	other
+A/chicken/Italy/22VIR1953-3/2022|EPI_ISL_14761485	2022-02-22	Italy	other
+A/broiler/Italy/21VIR11583-1/2021|EPI_ISL_14761041	2021-12-22	Italy	other
+A/turkey/Poland/H1913-T1/2021|EPI_ISL_6930238	2021-11-02	Poland	other
+A/turkey/England/056764/2021|EPI_ISL_8814195	2021-11-10	United Kingdom	other
+A/chicken/Czech_Republic/22224-3K/2021|EPI_ISL_7224454	2021-11-12	Czech Republic	other
+A/northern_gannet/France/22P019964/2022|EPI_ISL_19135633	2022-08-15	France	other
+A/laying_hen/Italy/22VIR204-1/2022|EPI_ISL_14761318	2022-01-10	Italy	other
+A/chicken/Italy/21VIR11572/2021|EPI_ISL_14761020	2021-12-21	Italy	other
+A/northern_gannet/France/22P020191/2022|EPI_ISL_19135641	2022-08-19	France	other
+A/chicken/Italy/22VIR234-1/2022|EPI_ISL_14761312	2022-01-08	Italy	other
+A/duck/Italy/22VIR1295-1/2022|EPI_ISL_14761417	2022-02-08	Italy	other
+A/turkey/Italy/21VIR11504/2021|EPI_ISL_14760999	2021-12-21	Italy	other
+A/chicken/Italy/22VIR1953-4/2022|EPI_ISL_14761496	2022-02-22	Italy	other
+A/northern_gannet/France/22P019685/2022|EPI_ISL_19135611	2022-07-26	France	other
+A/broiler/Italy/21VIR11886-1/2021|EPI_ISL_14761249	2021-12-29	Italy	other
+A/northern_gannet/France/22P019741/2022|EPI_ISL_19135615	2022-07-25	France	other
+A/Sanderling/Netherlands/1/2022|EPI_ISL_10993196	2022-01-29	Netherlands	other
+A/hawk/Italy/22VIR428-7/2022|EPI_ISL_14761349	2022-01-14	Italy	other
+A/turkey/Italy/21VIR11586-1/2021|EPI_ISL_14761086	2021-12-23	Italy	other
+A/northern_gannet/France/22P019379/2022|EPI_ISL_19135606	2022-07-07	France	other
+A/northern_gannet/France/22P019683/2022|EPI_ISL_19135610	2022-07-26	France	other
+A/barnacle_goose/Sweden/SVA211221SZ0510/FB004869/2021|EPI_ISL_9649612	2021-12-18	Sweden	other
+A/chicken/Czech_Republic/22224-4T/2021|EPI_ISL_7224472	2021-11-12	Czech Republic	other
+A/northern_gannet/France/22P019762/2022|EPI_ISL_19135619	2022-07-28	France	other
+A/turkey/Poland/H1910-T3/2021|EPI_ISL_6929958	2021-11-01	Poland	other
+A/turkey/Italy/21VIR11587-2/2021|EPI_ISL_14761107	2021-12-23	Italy	other
+A/pheasant/Italy/22VIR1953-1/2022|EPI_ISL_14761462	2022-02-22	Italy	other
+A/mute_swan/Czech_Republic/785/2022|EPI_ISL_12139999	2022-01-10	Czech Republic	other
+A/northern_gannet/France/22P020201/2022|EPI_ISL_19135648	2022-08-19	France	other
+A/turkey/Italy/21VIR11495-5/2021|EPI_ISL_14760967	2021-12-21	Italy	other
+A/laying_hen/Italy/21VIR11595-5/2021|EPI_ISL_14761052	2021-12-22	Italy	other
+A/chicken/Italy/21VIR11774-2/2021|EPI_ISL_14761220	2021-12-28	Italy	other
+A/chicken/Italy/21VIR11571/2021|EPI_ISL_14761009	2021-12-21	Italy	other
+A/turkey/Italy/21VIR11691/2021|EPI_ISL_14761119	2021-12-23	Italy	other
+A/broiler/Italy/22VIR54-1/2022|EPI_ISL_14761251	2022-01-03	Italy	other
+A/porpoise_/Sweden/SVA220712SZ0367/FB002184/O-2022|EPI_ISL_14810369	2022-06-29	Sweden	other
+A/swan/Italy/22VIR1560/2022|EPI_ISL_14761383	2022-01-27	Italy	other
+A/duck/Italy/22VIR1294-1/2022|EPI_ISL_14761407	2022-02-08	Italy	other
+A/northern_gannet/France/22P019853/2022|EPI_ISL_19135625	2022-08-06	France	other
+A/turkey/England/055251/2021|EPI_ISL_8814146	2021-11-06	United Kingdom	other
+A/turkey/Italy/21VIR11500-3/2021|EPI_ISL_14760977	2021-12-21	Italy	other
+A/northern_gannet/France/22P019885/2022|EPI_ISL_19135630	2022-08-05	France	other
+A/northern_gannet/France/22P019845/2022|EPI_ISL_19135624	2022-08-07	France	other
+A/laying_hen/Italy/22VIR203-3/2022|EPI_ISL_14761302	2022-01-05	Italy	other
+A/peacock/Italy/22VIR1953-2/2022|EPI_ISL_14761473	2022-02-22	Italy	other
+A/northern_gannet/France/22P019752/2022|EPI_ISL_19135617	2022-07-27	France	other
+A/broiler/Italy/21VIR11847-1/2021|EPI_ISL_14761243	2021-12-29	Italy	other
+A/hawk/Italy/22VIR428-5/2022|EPI_ISL_14761338	2022-01-14	Italy	other

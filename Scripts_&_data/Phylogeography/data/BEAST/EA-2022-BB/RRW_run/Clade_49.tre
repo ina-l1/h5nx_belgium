@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree tree_1 = [&R] (A/Vulpes_vulpes/Belgium/03117_0004/2023|EPI_ISL_17606758:0.15971,(A/Vulpes_Vulpes/Belgium/03703_0001/2023|EPI_ISL_17774224:0.03163,A/Vulpes_Vulpes/Belgium/03704_0001/2023|EPI_ISL_17774358:0.01163):0.13908);
+end;

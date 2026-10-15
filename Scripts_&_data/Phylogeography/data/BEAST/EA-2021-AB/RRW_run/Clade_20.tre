@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree tree_1 = [&R] ((A/Anas_platyrhynchos/Belgium/12521_0001/2022|EPI_ISL_18643050:0.27106,A/Branta_canadensis/Belgium/13393_0002/2022|EPI_ISL_18347728:0.33106):0.01826,(A/Larus_marinus/Belgium/13129_0002/2022|EPI_ISL_18345675:0.31748,(A/Anas_platyrhynchos/Belgium/12522_0002/2022|EPI_ISL_18652120:0.13167,A/Branta_canadensis/Belgium/12741_0002/2022|EPI_ISL_18345368:0.18867):0.09281):0.01284);
+end;

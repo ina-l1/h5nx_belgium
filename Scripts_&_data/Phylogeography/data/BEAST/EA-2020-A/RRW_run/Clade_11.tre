@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree tree_1 = [&R] (A/Columba_palumbus/Belgium/2928_004/2021|EPI_ISL_7623299:0.4564562058,(A/Aalopochen_Aegyptiaca/Belgium/2928_002/2021|EPI_ISL_7585764:0.4527,A/Garrulus_glandarius/Belgium/2928_003/2021|EPI_ISL_7623303:0.4557):0.0007562058138);
+end;

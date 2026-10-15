@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree tree_1 = [&R] ((A/Gallus_gallus/Belgium/11644/2021|EPI_ISL_7624142:0.52282,A/Meleagris_gallopavo/Belgium/11293_001/2021|EPI_ISL_4396748:0.49482):0.00260157191,A/Gallus_gallus/Belgium/11372_0001/2021|EPI_ISL_9250718:0.5004215719);
+end;

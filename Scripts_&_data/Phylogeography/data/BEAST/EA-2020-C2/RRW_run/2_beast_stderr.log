@@ -1,0 +1,14 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::loadLibrary has been called by beagle.BeagleJNIWrapper in an unnamed module (file:/opt/homebrew/Cellar/beast/10.5.0/libexec/lib/beast.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Mar 24, 2026 6:34:05 PM dr.app.beast.BeastMain <init>
+SEVERE: 
+******
+Error in input BEAST XML file, BEAST_RRW_EA-2020-C2.xml:
+The '<operators>' element, with id, 'operators', is incorrectly constructed.
+The following was expected:
+Any number of ELEMENT of type MCMCOperator REQUIRED
+******
+

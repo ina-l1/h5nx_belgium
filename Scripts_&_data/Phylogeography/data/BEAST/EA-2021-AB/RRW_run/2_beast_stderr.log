@@ -1,0 +1,10 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::loadLibrary has been called by beagle.BeagleJNIWrapper in an unnamed module (file:/opt/homebrew/Cellar/beast/10.5.0/libexec/lib/beast.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+WARNING: Likelihood component, location.diffusion.branchRates26, created but not used in the MCMC
+WARNING: Likelihood component, location.diffusion.branchRates20, created but not used in the MCMC
+WARNING: Likelihood component, location.diffusion.branchRates11, created but not used in the MCMC
+WARNING: Likelihood component, location.diffusion.branchRates24, created but not used in the MCMC
+WARNING: Likelihood component, location.diffusion.branchRates31, created but not used in the MCMC

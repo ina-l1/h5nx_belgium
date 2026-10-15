@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree tree_1 = [&R] ((A/Chroicocephalus_ridibundus/Belgium/04872_0003/2023|EPI_ISL_18347731:0.11501,A/Chroicocephalus_ridibundus/Belgium/06251_0005/2023|EPI_ISL_18647517:0.21101):0.001208398672,(A/Vulpes_vulpes/Belgium/04757_0004/2023|EPI_ISL_18347730:0.07401,(A/Sterna_hirundo/Belgium/05884_0002/2023|EPI_ISL_18343464:0.13269,(A/Columba_palumbus/Belgium/04695_0003/2023|EPI_ISL_18343463:0.02146,A/Falco_peregrinus/Belgium/04695_0002/2023|EPI_ISL_17831040:0.02146):0.02023):0.02932):0.001208398672);
+end;

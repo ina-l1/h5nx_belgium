@@ -1,0 +1,335 @@
+
+                  BEAST v10.5.0, 2002-2025
+       Bayesian Evolutionary Analysis Sampling Trees
+                 Designed and developed by
+   Alexei J. Drummond, Andrew Rambaut and Marc A. Suchard
+                              
+               Department of Computer Science
+                   University of Auckland
+                  alexei@cs.auckland.ac.nz
+                              
+             Institute of Ecology and Evolution
+                  University of Edinburgh
+                     a.rambaut@ed.ac.uk
+                              
+              David Geffen School of Medicine
+           University of California, Los Angeles
+                     msuchard@ucla.edu
+                              
+                Downloads, Help & Resources:
+                  	http://beast.community
+                              
+Source code distributed under the GNU Lesser General Public License:
+          	http://github.com/beast-dev/beast-mcmc
+                              
+                     BEAST developers:
+	Alex Alekseyenko, Daniel Ayres, Guy Baele, Trevor Bedford, Filip Bielejec, Erik Bloomquist, 
+	Luiz Max Carvalho, Gabriela Cybis, Mandev Gill, Matthew Hall, Gabe Hassler, Joseph Heled, 
+	Sebastian Hoehna, Xiang Ji, Michael Karcher, Denise Kuehnert, Philippe Lemey, Wai Lok Sibon Li, 
+	Gerton Lunter, Andy Magee, Sidney Markowitz, JT McCrone, Volodymyr Minin, Julia Palacios, 
+	Michael Defoin Platel, Oliver Pybus, Yucai Shao, Max Tolkoff, Chieh-Hsi Wu, Walter Xie and Zhenyu Zhang
+                              
+                         Thanks to:
+    	Roald Forsberg, Beth Shapiro and Korbinian Strimmer
+
+Using BEAGLE library v4.0.1 (PRE-RELEASE) for accelerated, parallel likelihood evaluation
+2009-, BEAGLE Working Group - https://beagle-dev.github.io/
+Citation: Ayres et al (2019) Systematic Biology 68: 1052-1061 | doi:10.1093/sysbio/syz020
+
+
+Random number seed: 1770744121299
+
+
+
+Loading additional development parsers from development_parsers.properties, which is additional set of parsers only available for development version ...
+
+
+Parsing XML file: BEAST_DTA_EA-2021-AB.xml
+  File encoding: UTF8
+Looking for plugins in /opt/homebrew/Cellar/beast/10.5.0/libexec/plugins
+Looking for plugins in /Users/ina/git/flucart/data/BEAST/EA-2021-AB/treetime_DTA/plugins
+
+Taxon list 'taxa' created with 1378 taxa.
+    most recent taxon date = 2024.0 years
+
+Read alignment: alignment
+  Sequences = 1378
+      Sites = 4
+   Datatype = nucleotide
+
+Site patterns 'patterns' created from positions 1-4 of alignment 'alignment'
+  compressed to unique site patterns
+  pattern count = 1
+
+Creating the tree model, 'treeModel'
+             taxon count = 1378
+             tree height = 2.4978513028697322
+          min tip height = -0.0
+          max tip height = 2.25
+Read attribute patterns, 'location.pattern' for attribute, location
+
+Using strict molecular clock model.
+
+Creating state frequencies model 'location.frequencies': Initial frequencies = {0.5, 0.5}
+  General Substitution Model (stateCount=2)
+  Using BSSVS Complex Substitution Model
+
+Creating site rate model.
+
+Creating state frequencies model 'location.root.frequencies': Initial frequencies = {0.5, 0.5}
+
+Using BEAGLE TreeLikelihood
+  Branch rate model used: strictClockBranchRates
+  Using BEAGLE resource 0: CPU (arm64)
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_COMPLEX SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_CPP PROCESSOR_CPU FRAMEWORK_CPU PREORDER_TRANSPOSE_MANUAL
+  Ignoring ambiguities in tree likelihood.
+  With 1 unique site patterns.
+  Using rescaling scheme : dynamic (rescaling every 100 evaluations, delay rescaling until first overflow)
+
+Creating operator scheduler
+  Optimization schedule: log
+
+Creating CTMC Scale Reference Prior model
+Constructing a cache around likelihood 'null', signal = location.rates
+
+Likelihood computation is using an auto sizing thread pool.
+
+Creating the MCMC chain:
+  chain length = 200000
+  operator adaption = true
+  adaptation delayed for 2000 steps
+
+Citations for this analysis: 
+
+FRAMEWORK
+BEAST primary citation:
+	Baele G, Ji X, Hassler GW, McCrone JT, Shao Y, Zhang Z, Holbrook AJ, Lemey P, Drummond AJ, Rambaut A, Suchard MA (2025) BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference. Nature Methods. . DOI:10.1038/s41592-025-02751-x
+
+HIGH-PERFORMANCE COMPUTING
+BEAGLE citation:
+	Ayres DL, Cummings MP, Baele G, Darling AE, Lewis PO, Swofford DL, Huelsenbeck JP, Lemey P, Rambaut A, Suchard MA (2019) BEAGLE 3: Improved performance, scaling and usability for a high-performance computing library for statistical phylogenetics. Systematic Biology. 68, 1052-1061
+
+SUBSTITUTION MODELS
+Complex-diagonalizable, irreversible substitution model:
+	Edwards CJ, Suchard MA, Lemey P, Welch JJ, Barnes I, Fulton TL, Barnett R, O'Connell TC, Coxon P, Monaghan N, Valdiosera CE, Lorenzen ED, Willerslev E, Baryshnikov GF, Rambaut A, Thomas MG, Bradley DG, Shapiro B (2011) Ancient hybridization and an Irish origin for the modern polar bear matriline. Current Biology. 21, 1251-1258
+
+PRIOR MODELS
+CTMC Scale Reference Prior model:
+	Ferreira MAR, Suchard MA (2008) Bayesian analysis of elapsed times in continuous-time Markov chains. Canadian Journal of Statistics. 36, 355-368
+
+
+# BEAST v10.5.0
+# Generated Tue Feb 10 18:22:01 CET 2026 [seed=1770744121299]
+# -overwrite -prefix 2_ BEAST_DTA_EA-2021-AB.xml
+state	Joint       	Prior       	Likelihood  	location.clock.rate	location.nonZeroRates
+0	-548.5753   	-260.5397   	-288.0356   	1.00000     	2     	-
+1000	-200.3380   	-13.1611    	-187.1768   	5.16995E-2  	2     	-
+2000	-200.7540   	-15.9009    	-184.8531   	6.28112E-2  	2     	-
+3000	-202.7034   	-13.1074    	-189.5960   	5.24665E-2  	2     	-
+4000	-201.6278   	-22.3541    	-179.2737   	8.65702E-2  	2     	-
+5000	-202.8594   	-20.7070    	-182.1524   	7.47514E-2  	2     	-
+6000	-199.6303   	-15.3162    	-184.3140   	6.0196E-2   	2     	-
+7000	-202.0182   	-14.0880    	-187.9302   	5.2294E-2   	2     	-
+8000	-199.4283   	-15.4679    	-183.9604   	6.62932E-2  	2     	-
+9000	-198.8885   	-13.2087    	-185.6798   	5.77447E-2  	2     	-
+10000	-201.1356   	-16.3953    	-184.7403   	6.01281E-2  	2     	-
+11000	-201.7614   	-18.9725    	-182.7889   	7.3046E-2   	2     	3.33 minutes/million states
+12000	-201.5000   	-18.3895    	-183.1106   	6.55152E-2  	2     	3.29 minutes/million states
+13000	-199.9888   	-11.7501    	-188.2387   	5.09829E-2  	2     	3.26 minutes/million states
+14000	-199.8976   	-15.9734    	-183.9242   	6.13678E-2  	2     	3.23 minutes/million states
+15000	-198.9108   	-12.9379    	-185.9729   	5.60162E-2  	2     	3.21 minutes/million states
+16000	-203.1712   	-19.0535    	-184.1177   	6.88437E-2  	2     	3.19 minutes/million states
+17000	-198.6297   	-16.8687    	-181.7610   	7.13531E-2  	2     	3.17 minutes/million states
+18000	-202.2828   	-21.7838    	-180.4990   	8.05696E-2  	2     	3.15 minutes/million states
+19000	-199.0562   	-14.4425    	-184.6137   	6.05099E-2  	2     	3.14 minutes/million states
+20000	-202.1347   	-19.6711    	-182.4636   	7.00834E-2  	2     	3.12 minutes/million states
+21000	-200.7434   	-18.7084    	-182.0350   	7.22958E-2  	2     	3.11 minutes/million states
+22000	-200.0662   	-14.5000    	-185.5662   	5.87729E-2  	2     	3.1 minutes/million states
+23000	-201.2429   	-15.8921    	-185.3508   	5.71576E-2  	2     	3.09 minutes/million states
+24000	-203.9053   	-14.6391    	-189.2662   	5.33605E-2  	2     	3.08 minutes/million states
+25000	-201.1127   	-16.0016    	-185.1112   	5.69381E-2  	2     	3.07 minutes/million states
+26000	-201.6043   	-18.8024    	-182.8019   	7.02613E-2  	2     	3.07 minutes/million states
+27000	-201.2767   	-11.3639    	-189.9128   	4.66263E-2  	2     	3.06 minutes/million states
+28000	-203.1218   	-21.6912    	-181.4306   	7.59859E-2  	2     	3.06 minutes/million states
+29000	-202.7106   	-10.8454    	-191.8652   	4.19754E-2  	2     	3.05 minutes/million states
+30000	-200.5123   	-15.2546    	-185.2578   	5.79462E-2  	2     	3.04 minutes/million states
+31000	-199.1717   	-11.8958    	-187.2759   	5.09106E-2  	2     	3.04 minutes/million states
+32000	-202.7486   	-12.9995    	-189.7491   	4.97069E-2  	2     	3.03 minutes/million states
+33000	-201.4197   	-20.0707    	-181.3490   	7.52643E-2  	2     	3.03 minutes/million states
+34000	-201.2570   	-16.4790    	-184.7780   	6.28388E-2  	2     	3.02 minutes/million states
+35000	-202.3586   	-17.9740    	-184.3846   	7.46084E-2  	2     	3.01 minutes/million states
+36000	-200.2479   	-17.3233    	-182.9245   	6.73397E-2  	2     	3.01 minutes/million states
+37000	-202.4158   	-19.1859    	-183.2299   	6.96627E-2  	2     	3 minutes/million states
+38000	-200.0203   	-19.1160    	-180.9043   	7.54154E-2  	2     	3 minutes/million states
+39000	-200.5241   	-18.4317    	-182.0924   	7.06144E-2  	2     	3 minutes/million states
+40000	-201.9244   	-14.6057    	-187.3187   	5.65975E-2  	2     	2.99 minutes/million states
+41000	-201.2115   	-15.0347    	-186.1768   	5.41219E-2  	2     	2.99 minutes/million states
+42000	-202.7812   	-23.4744    	-179.3068   	8.64591E-2  	2     	2.98 minutes/million states
+43000	-199.2156   	-12.3219    	-186.8937   	5.15376E-2  	2     	2.98 minutes/million states
+44000	-200.1813   	-16.9939    	-183.1873   	6.46742E-2  	2     	2.98 minutes/million states
+45000	-200.5581   	-17.1328    	-183.4253   	6.37063E-2  	2     	2.97 minutes/million states
+46000	-201.7456   	-19.5218    	-182.2238   	7.01113E-2  	2     	2.97 minutes/million states
+47000	-201.6036   	-21.0999    	-180.5036   	8.13941E-2  	2     	2.97 minutes/million states
+48000	-202.9575   	-16.3060    	-186.6514   	5.23909E-2  	2     	2.97 minutes/million states
+49000	-202.4750   	-23.1375    	-179.3375   	8.68529E-2  	2     	2.96 minutes/million states
+50000	-200.4643   	-11.7898    	-188.6745   	4.77237E-2  	2     	2.96 minutes/million states
+51000	-199.9879   	-17.0072    	-182.9806   	6.86747E-2  	2     	2.96 minutes/million states
+52000	-199.5484   	-17.7322    	-181.8161   	7.30091E-2  	2     	2.96 minutes/million states
+53000	-200.1487   	-16.5845    	-183.5641   	6.62804E-2  	2     	2.95 minutes/million states
+54000	-201.8646   	-17.9288    	-183.9357   	7.23082E-2  	2     	2.95 minutes/million states
+55000	-199.7831   	-15.1438    	-184.6393   	5.91691E-2  	2     	2.95 minutes/million states
+56000	-201.3283   	-16.2978    	-185.0304   	6.35008E-2  	2     	2.95 minutes/million states
+57000	-199.9079   	-14.1497    	-185.7581   	5.74684E-2  	2     	2.95 minutes/million states
+58000	-197.9881   	-13.3529    	-184.6351   	5.86014E-2  	2     	2.94 minutes/million states
+59000	-198.5374   	-14.7182    	-183.8192   	6.29273E-2  	2     	2.94 minutes/million states
+60000	-203.0275   	-19.4241    	-183.6034   	6.38657E-2  	2     	2.94 minutes/million states
+61000	-198.9240   	-15.7819    	-183.1421   	6.5988E-2   	2     	2.94 minutes/million states
+62000	-199.2452   	-16.7024    	-182.5428   	6.91196E-2  	2     	2.94 minutes/million states
+63000	-202.0425   	-12.3783    	-189.6642   	4.87293E-2  	2     	2.93 minutes/million states
+64000	-199.3533   	-15.3459    	-184.0074   	6.43342E-2  	2     	2.93 minutes/million states
+65000	-199.6879   	-12.5162    	-187.1717   	5.31253E-2  	2     	2.93 minutes/million states
+66000	-200.9166   	-18.6865    	-182.2301   	7.16219E-2  	2     	2.93 minutes/million states
+67000	-200.1597   	-19.0205    	-181.1392   	7.49119E-2  	2     	2.93 minutes/million states
+68000	-203.7913   	-18.9065    	-184.8848   	6.89454E-2  	2     	2.93 minutes/million states
+69000	-201.9744   	-16.0538    	-185.9205   	6.19834E-2  	2     	2.92 minutes/million states
+70000	-199.1291   	-14.6434    	-184.4857   	5.90788E-2  	2     	2.92 minutes/million states
+71000	-203.4282   	-9.1123     	-194.3159   	3.80247E-2  	2     	2.92 minutes/million states
+72000	-199.3743   	-17.0634    	-182.3109   	6.90735E-2  	2     	2.92 minutes/million states
+73000	-201.4040   	-17.3260    	-184.0780   	6.58977E-2  	2     	2.92 minutes/million states
+74000	-201.9252   	-13.5935    	-188.3317   	4.80339E-2  	2     	2.92 minutes/million states
+75000	-199.1690   	-15.1413    	-184.0277   	6.3809E-2   	2     	2.92 minutes/million states
+76000	-198.5862   	-14.2002    	-184.3859   	6.15928E-2  	2     	2.92 minutes/million states
+77000	-200.2637   	-19.3360    	-180.9277   	8.05625E-2  	2     	2.91 minutes/million states
+78000	-201.2328   	-17.4023    	-183.8304   	6.13227E-2  	2     	2.91 minutes/million states
+79000	-202.2687   	-20.2841    	-181.9846   	7.25351E-2  	2     	2.91 minutes/million states
+80000	-199.2297   	-17.3384    	-181.8913   	7.07172E-2  	2     	2.91 minutes/million states
+81000	-202.1640   	-16.2140    	-185.9499   	5.44113E-2  	2     	2.91 minutes/million states
+82000	-203.0341   	-17.3300    	-185.7041   	5.55043E-2  	2     	2.91 minutes/million states
+83000	-202.9904   	-15.1381    	-187.8523   	4.89362E-2  	2     	2.91 minutes/million states
+84000	-201.4914   	-18.6139    	-182.8775   	6.66513E-2  	2     	2.91 minutes/million states
+85000	-200.5012   	-16.4213    	-184.0799   	6.07815E-2  	2     	2.9 minutes/million states
+86000	-198.5886   	-14.0443    	-184.5443   	5.89002E-2  	2     	2.9 minutes/million states
+87000	-203.3784   	-20.6561    	-182.7223   	6.88404E-2  	2     	2.9 minutes/million states
+88000	-202.9168   	-19.4557    	-183.4611   	6.65126E-2  	2     	2.9 minutes/million states
+89000	-199.6782   	-14.1963    	-185.4819   	5.80151E-2  	2     	2.9 minutes/million states
+90000	-201.4450   	-13.5314    	-187.9136   	5.50441E-2  	2     	2.9 minutes/million states
+91000	-201.5821   	-16.6118    	-184.9703   	6.34982E-2  	2     	2.9 minutes/million states
+92000	-202.1362   	-14.2567    	-187.8796   	5.1074E-2   	2     	2.9 minutes/million states
+93000	-201.0065   	-17.5380    	-183.4685   	7.37969E-2  	2     	2.9 minutes/million states
+94000	-201.0481   	-14.0402    	-187.0079   	5.501E-2    	2     	2.9 minutes/million states
+95000	-204.4618   	-15.8160    	-188.6457   	5.04463E-2  	2     	2.9 minutes/million states
+96000	-202.7871   	-16.4944    	-186.2927   	5.71135E-2  	2     	2.9 minutes/million states
+97000	-198.8271   	-14.8590    	-183.9681   	6.27635E-2  	2     	2.9 minutes/million states
+98000	-200.5922   	-16.3753    	-184.2169   	6.71139E-2  	2     	2.89 minutes/million states
+99000	-201.0516   	-14.8991    	-186.1525   	5.58513E-2  	2     	2.89 minutes/million states
+100000	-200.2583   	-15.3725    	-184.8858   	6.44058E-2  	2     	2.85 minutes/million states
+101000	-199.8800   	-12.5953    	-187.2847   	5.16879E-2  	2     	2.84 minutes/million states
+102000	-198.9614   	-16.8389    	-182.1225   	6.90914E-2  	2     	2.84 minutes/million states
+103000	-199.0003   	-13.5796    	-185.4207   	5.6595E-2   	2     	2.84 minutes/million states
+104000	-204.5672   	-19.4821    	-185.0851   	5.78267E-2  	2     	2.84 minutes/million states
+105000	-199.0106   	-13.9252    	-185.0854   	5.86104E-2  	2     	2.84 minutes/million states
+106000	-200.0555   	-18.2275    	-181.8280   	7.49337E-2  	2     	2.84 minutes/million states
+107000	-203.0980   	-16.7920    	-186.3060   	6.01126E-2  	2     	2.84 minutes/million states
+108000	-204.2646   	-24.2040    	-180.0606   	8.39417E-2  	2     	2.84 minutes/million states
+109000	-200.8378   	-12.3855    	-188.4523   	5.02236E-2  	2     	2.84 minutes/million states
+110000	-199.2444   	-16.1722    	-183.0722   	6.53111E-2  	2     	2.84 minutes/million states
+111000	-199.5816   	-14.6712    	-184.9105   	6.01796E-2  	2     	2.84 minutes/million states
+112000	-199.7842   	-13.2806    	-186.5036   	5.69532E-2  	2     	2.84 minutes/million states
+113000	-198.8146   	-13.7913    	-185.0233   	5.74998E-2  	2     	2.84 minutes/million states
+114000	-200.9404   	-19.9475    	-180.9929   	7.83308E-2  	2     	2.84 minutes/million states
+115000	-198.8528   	-14.4839    	-184.3689   	6.0108E-2   	2     	2.83 minutes/million states
+116000	-200.7444   	-12.6331    	-188.1112   	5.32669E-2  	2     	2.83 minutes/million states
+117000	-202.8707   	-12.3065    	-190.5642   	4.38646E-2  	2     	2.83 minutes/million states
+118000	-203.0284   	-15.8227    	-187.2057   	5.90137E-2  	2     	2.83 minutes/million states
+119000	-200.1025   	-15.1192    	-184.9833   	6.07072E-2  	2     	2.83 minutes/million states
+120000	-205.6977   	-17.0424    	-188.6553   	4.73446E-2  	2     	2.83 minutes/million states
+121000	-201.1415   	-20.3476    	-180.7939   	8.25157E-2  	2     	2.83 minutes/million states
+122000	-198.2038   	-16.3869    	-181.8170   	6.9833E-2   	2     	2.83 minutes/million states
+123000	-200.7634   	-14.2762    	-186.4872   	5.73419E-2  	2     	2.83 minutes/million states
+124000	-202.8175   	-12.9064    	-189.9112   	4.79349E-2  	2     	2.83 minutes/million states
+125000	-199.9033   	-17.5136    	-182.3896   	7.21494E-2  	2     	2.83 minutes/million states
+126000	-203.3479   	-17.1047    	-186.2432   	5.72546E-2  	2     	2.83 minutes/million states
+127000	-198.7555   	-15.5948    	-183.1607   	6.65268E-2  	2     	2.82 minutes/million states
+128000	-201.6682   	-10.9497    	-190.7185   	4.31948E-2  	2     	2.82 minutes/million states
+129000	-199.9317   	-10.3136    	-189.6182   	4.55323E-2  	2     	2.82 minutes/million states
+130000	-200.5530   	-14.5235    	-186.0295   	5.81983E-2  	2     	2.82 minutes/million states
+131000	-205.0241   	-22.0248    	-182.9992   	7.73378E-2  	2     	2.82 minutes/million states
+132000	-203.4662   	-16.1487    	-187.3176   	5.37977E-2  	2     	2.82 minutes/million states
+133000	-199.9438   	-14.8060    	-185.1378   	5.9453E-2   	2     	2.82 minutes/million states
+134000	-200.9104   	-14.7243    	-186.1861   	5.57366E-2  	2     	2.82 minutes/million states
+135000	-202.0098   	-19.1944    	-182.8154   	7.45675E-2  	2     	2.82 minutes/million states
+136000	-202.1637   	-17.8145    	-184.3492   	6.33681E-2  	2     	2.82 minutes/million states
+137000	-201.5615   	-13.0676    	-188.4940   	5.11391E-2  	2     	2.82 minutes/million states
+138000	-203.4638   	-16.8409    	-186.6229   	6.60617E-2  	2     	2.82 minutes/million states
+139000	-205.9223   	-18.9704    	-186.9519   	5.50401E-2  	2     	2.82 minutes/million states
+140000	-199.4370   	-12.9523    	-186.4847   	5.47701E-2  	2     	2.82 minutes/million states
+141000	-199.7644   	-17.7033    	-182.0611   	7.0436E-2   	2     	2.82 minutes/million states
+142000	-200.6380   	-14.6360    	-186.0020   	5.87153E-2  	2     	2.82 minutes/million states
+143000	-201.3116   	-16.7594    	-184.5521   	6.24153E-2  	2     	2.82 minutes/million states
+144000	-200.9719   	-19.1606    	-181.8113   	7.19428E-2  	2     	2.82 minutes/million states
+145000	-203.5861   	-18.5945    	-184.9917   	6.14486E-2  	2     	2.82 minutes/million states
+146000	-199.3869   	-14.9362    	-184.4507   	5.96797E-2  	2     	2.82 minutes/million states
+147000	-201.5789   	-20.9603    	-180.6186   	7.6763E-2   	2     	2.82 minutes/million states
+148000	-200.4890   	-18.6415    	-181.8475   	7.40039E-2  	2     	2.82 minutes/million states
+149000	-203.4458   	-23.5482    	-179.8977   	8.2562E-2   	2     	2.82 minutes/million states
+150000	-203.0683   	-16.8409    	-186.2275   	5.94801E-2  	2     	2.82 minutes/million states
+151000	-199.6616   	-13.2804    	-186.3812   	5.30207E-2  	2     	2.82 minutes/million states
+152000	-200.9351   	-10.4462    	-190.4889   	4.48974E-2  	2     	2.82 minutes/million states
+153000	-204.3416   	-17.5037    	-186.8380   	5.66923E-2  	2     	2.82 minutes/million states
+154000	-202.8963   	-22.3122    	-180.5841   	7.96815E-2  	2     	2.82 minutes/million states
+155000	-199.8835   	-18.9363    	-180.9473   	7.91968E-2  	2     	2.82 minutes/million states
+156000	-207.7549   	-23.3300    	-184.4249   	6.03909E-2  	2     	2.82 minutes/million states
+157000	-200.5186   	-17.8733    	-182.6453   	6.99962E-2  	2     	2.82 minutes/million states
+158000	-205.0036   	-20.4198    	-184.5839   	5.96495E-2  	2     	2.82 minutes/million states
+159000	-199.3831   	-18.6612    	-180.7219   	7.65769E-2  	2     	2.82 minutes/million states
+160000	-203.0784   	-14.0967    	-188.9816   	4.80744E-2  	2     	2.82 minutes/million states
+161000	-207.1313   	-20.1479    	-186.9834   	6.03804E-2  	2     	2.82 minutes/million states
+162000	-202.1110   	-10.2600    	-191.8510   	4.39011E-2  	2     	2.82 minutes/million states
+163000	-204.5825   	-19.9605    	-184.6221   	6.59576E-2  	2     	2.82 minutes/million states
+164000	-199.1711   	-13.1981    	-185.9729   	5.51183E-2  	2     	2.82 minutes/million states
+165000	-199.8051   	-16.8008    	-183.0043   	6.76507E-2  	2     	2.82 minutes/million states
+166000	-203.8577   	-10.6559    	-193.2018   	4.26029E-2  	2     	2.82 minutes/million states
+167000	-201.6867   	-22.2899    	-179.3967   	8.62597E-2  	2     	2.82 minutes/million states
+168000	-200.0024   	-11.0149    	-188.9876   	4.74358E-2  	2     	2.82 minutes/million states
+169000	-203.9468   	-15.1417    	-188.8051   	4.72038E-2  	2     	2.82 minutes/million states
+170000	-200.8449   	-20.1118    	-180.7331   	8.16799E-2  	2     	2.82 minutes/million states
+171000	-201.5518   	-15.7107    	-185.8411   	5.96605E-2  	2     	2.82 minutes/million states
+172000	-200.3756   	-17.1429    	-183.2327   	6.51178E-2  	2     	2.82 minutes/million states
+173000	-202.6960   	-16.0780    	-186.6180   	5.8217E-2   	2     	2.82 minutes/million states
+174000	-203.8137   	-24.4803    	-179.3334   	9.70787E-2  	2     	2.82 minutes/million states
+175000	-200.5640   	-12.1577    	-188.4062   	5.0175E-2   	2     	2.82 minutes/million states
+176000	-199.5127   	-14.5211    	-184.9916   	6.07401E-2  	2     	2.82 minutes/million states
+177000	-199.7083   	-18.1393    	-181.5689   	7.27798E-2  	2     	2.82 minutes/million states
+178000	-201.1073   	-17.2066    	-183.9007   	6.71033E-2  	2     	2.82 minutes/million states
+179000	-199.6949   	-17.6942    	-182.0007   	7.32649E-2  	2     	2.82 minutes/million states
+180000	-199.2186   	-15.7890    	-183.4296   	6.36562E-2  	2     	2.82 minutes/million states
+181000	-202.3363   	-10.4677    	-191.8685   	4.47964E-2  	2     	2.82 minutes/million states
+182000	-202.8495   	-23.1654    	-179.6842   	8.3814E-2   	2     	2.82 minutes/million states
+183000	-200.4929   	-17.0937    	-183.3992   	6.99108E-2  	2     	2.82 minutes/million states
+184000	-202.3038   	-16.3308    	-185.9729   	6.34297E-2  	2     	2.82 minutes/million states
+185000	-199.4369   	-15.6542    	-183.7827   	6.49434E-2  	2     	2.82 minutes/million states
+186000	-201.0761   	-15.4188    	-185.6573   	5.90736E-2  	2     	2.82 minutes/million states
+187000	-200.8644   	-21.2204    	-179.6440   	8.33098E-2  	2     	2.82 minutes/million states
+188000	-203.0233   	-16.8475    	-186.1758   	5.43496E-2  	2     	2.83 minutes/million states
+189000	-201.4580   	-19.4974    	-181.9606   	7.21039E-2  	2     	2.83 minutes/million states
+190000	-198.9138   	-14.5613    	-184.3525   	6.07065E-2  	2     	2.83 minutes/million states
+191000	-199.4716   	-18.6819    	-180.7897   	7.59131E-2  	2     	2.83 minutes/million states
+192000	-200.7405   	-15.3607    	-185.3798   	6.00369E-2  	2     	2.83 minutes/million states
+193000	-200.8649   	-16.2017    	-184.6632   	6.34776E-2  	2     	2.82 minutes/million states
+194000	-199.7081   	-14.2455    	-185.4626   	6.06883E-2  	2     	2.82 minutes/million states
+195000	-200.0819   	-19.5227    	-180.5592   	7.82021E-2  	2     	2.83 minutes/million states
+196000	-201.9637   	-14.4052    	-187.5585   	5.04428E-2  	2     	2.83 minutes/million states
+197000	-199.5599   	-13.3773    	-186.1826   	5.48518E-2  	2     	2.83 minutes/million states
+198000	-201.2672   	-15.7877    	-185.4794   	6.15463E-2  	2     	2.83 minutes/million states
+199000	-200.5489   	-18.6082    	-181.9406   	7.27864E-2  	2     	2.83 minutes/million states
+200000	-202.2668   	-21.1927    	-181.0742   	7.68345E-2  	2     	2.83 minutes/million states
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) Smoothed_Pr(accept)
+scale(location.clock.rate)                        0.42    22939      3052     0.13     0.2309      0.2         
+scale(location.rates)                             0.383   114135     13673    0.12     0.2359      0.26        
+bitFlip(location.indicators)                              53157      3124     0.06     0.0         0.0         
+deltaExchange(location.root.frequencies)          1.563   7769       351      0.05     0.231       0.27        
+
+34.347 seconds
+

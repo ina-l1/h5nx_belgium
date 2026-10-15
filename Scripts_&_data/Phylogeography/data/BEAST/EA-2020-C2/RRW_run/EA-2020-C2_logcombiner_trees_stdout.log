@@ -1,0 +1,29 @@
+
+               LogCombiner v10.5.0, 2002-2025
+                    MCMC Output Combiner
+                             by
+           Andrew Rambaut and Alexei J. Drummond
+
+             Institute of Ecology and Evolution
+                  University of Edinburgh
+                     a.rambaut@ed.ac.uk
+
+               Department of Computer Science
+                   University of Auckland
+                  alexei@cs.auckland.ac.nz
+
+
+dr.app.util.Arguments$ArgumentException: Argument, -burnin has a bad integer value: 5e+06
+  Usage: logcombiner [-trees] [-decimal] [-burnin] [-resample] [-scale <r>] [-strip] [-renumber] [-help] <input-file-name1> [<input-file-name2> ...] <output-file-name>
+    -trees use this option to combine tree log files
+    -decimal this option converts numbers from scientific to decimal notation
+    -burnin the number of states to be considered as 'burn-in'
+    -resample resample the log files to this frequency (the original sampling frequency must be a factor of this value)
+    -scale a scaling factor that will multiply any time units by this value
+    -strip strip out all annotations (trees only)
+    -renumber this option renumbers output states consecutively
+    -help option to print this message
+
+  Example: logcombiner test1.log test2.log combined.log
+  Example: logcombiner -burnin 10000 test1.log test2.log combined.log
+

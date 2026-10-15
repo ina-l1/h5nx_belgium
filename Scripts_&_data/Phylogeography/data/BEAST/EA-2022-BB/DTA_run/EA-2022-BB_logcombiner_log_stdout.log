@@ -1,0 +1,21 @@
+
+               LogCombiner v10.5.0, 2002-2025
+                    MCMC Output Combiner
+                             by
+           Andrew Rambaut and Alexei J. Drummond
+
+             Institute of Ecology and Evolution
+                  University of Edinburgh
+                     a.rambaut@ed.ac.uk
+
+               Department of Computer Science
+                   University of Auckland
+                  alexei@cs.auckland.ac.nz
+
+
+Creating combined log file: 'EA-2022-BB_DTA.log'
+
+
+Combining file: '1_EA-2022-BB_DTA1.log' removing burnin: 20000
+Combining file: '2_EA-2022-BB_DTA1.log' removing burnin: 20000
+Finished.
